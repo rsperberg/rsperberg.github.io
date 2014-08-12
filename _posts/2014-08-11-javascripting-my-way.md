@@ -3,6 +3,8 @@ layout: post
 title: JavaScripting My Way
 post_author: Roger Sperberg
 ---
+<img src="{{ site.baseurl }}public/somewhere_after_something.jpg" alt="The quays of Bordeaux are the ways landscaped banks of the Garonne." />
+
 The arc describing the change in my work as a developer is bending furiously into JavaScript as I pack away the semantic technologies I have wielded since the dawn of XML.
 
 I've encountered a wicked amount of content on JavaScript, and this site is one way I'm keeping track of everything I run across. And, hopefully, others retracing the same path will find value in the resources identified here as I am JavaScripting my way into the future.
