@@ -1,6 +1,7 @@
 ---
 layout: post
 title: JavaScripting My Way
+post_author: Roger Sperberg
 ---
 The arc describing the change in my work as a developer is bending furiously into JavaScript as I pack away the semantic technologies I have wielded since the dawn of XML.
 
