@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Super Script
 tagline:          'The JS Way'
 description:      'A site about JavaScript, with a list of many resources.'
-url:              http://super-script.us
+url:              http://www.super-script.us
 baseurl:          '/'
 paginate:         5
 
