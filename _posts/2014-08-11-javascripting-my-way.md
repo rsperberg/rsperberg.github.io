@@ -2,8 +2,13 @@
 layout: post
 title: JavaScripting My Way
 post_author: Roger Sperberg
+quote: The arc describing the change in my work as a developer is bending furiously into JavaScript
+image: /media/2014-08-11-javascripting-my-way/cover.jpg
+video: false
 ---
-<img src="{{ site.baseurl }}public/somewhere_after_something.jpg" alt="The quays of Bordeaux are the ways landscaped banks of the Garonne." />
+
+<!--  {% include image.html url="/media/2014-02-26-hello-cosette/cosette.jpg" width="100%" description="Amanda Seyfried as Cosette on the 2012 movie." %}  -->
+<!--  img src="{{ site.baseurl }}public/somewhere_after_something.jpg" alt="The quays of Bordeaux are the ways landscaped banks of the Garonne." /  -->
 
 The arc describing the change in my work as a developer is bending furiously into JavaScript as I pack away the semantic technologies I have wielded since the dawn of XML.
 

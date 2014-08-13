@@ -1,24 +1,52 @@
 # Dependencies
-markdown:         redcarpet
-pygments:         true
+markdown:   redcarpet
+highlighter: pygments
 
 # Permalinks
-permalink:        pretty
+permalink:  :year/:title.html
 
 # Setup
-title:            Super Script
-tagline:          'The JS Way'
-description:      'A site about JavaScript, with a list of many resources.'
-url:              http://www.super-script.us
-baseurl:          '/'
-paginate:         5
+title:      Super-Script
+tagline: 'The way of JavaScript, my way'
+description:   'Which way do you go?'
+url:     http://super-script.us
 
 author:
-  name:           'Roger Sperberg'
-  url:            https://twitter.com/RogerSPress
+  name:     'Roger Sperberg'
+  url:      https://google.com/+RogerSperberg
+
+paginate:   5
 
 # Custom vars
-version:          1.0.0
+icon:    /assets/images/icon.png
+cover:      /assets/images/cover.jpg
 
-github:
-  repo:           https://github.com/rsperberg/
+social:
+  - icon:   twitter
+    url: https://twitter.com/RogerSPress
+    desc:   Follow me on twitter
+
+  - icon:   github
+    url: https://github.com/rsperberg
+    desc:   Fork me on github
+
+  - icon:   googleplus-alt
+    url: https://google.com/+RogerSperberg
+    desc:   Add me on google+
+
+  - icon:   feed
+    url: http://super-script.us/atom.xml
+    desc:   Subscribe to my feed
+    
+menu:
+  - title:  Home
+    url: /
+    
+  - title:  About
+    url: /about
+    
+copyright:
+  author:   Roger Sperberg
+  url:      http://super-script.us
+  type_title:  Some rights reserved
+  type_url: http://creativecommons.org/licenses/by-nc/2.5
