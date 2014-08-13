@@ -22,4 +22,4 @@ So as famo.us leads me down the path of inattention to "domanip" (DOM manipulati
 
 <p>&nbsp; </p>
 
-<small><a href="https://www.flickr.com/photos/52152287@N04/8438708515/in/set-72157625032282999" style="text-decoration:none;">Photo</a> by Laurent Bartkowski, <em>Somewhere after something - variation 1</em>, <a href="https://creativecommons.org/licenses/by-nd/2.0/">cc by-nd 2.0</a>
+<small><a href="https://www.flickr.com/photos/52152287@N04/8438708515/in/set-72157625032282999" style="text-decoration:none;">Photo</a> by Laurent Bartkowski, <em>Somewhere after something - variation 1</em>, <a href="https://creativecommons.org/licenses/by-nd/2.0/">cc by-nd 2.0</a></small>
