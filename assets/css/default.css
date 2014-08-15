@@ -21,7 +21,7 @@ header, footer {
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
-	background-attachment: scroll;
+/*	background-attachment: scroll;  */
 	font-family: Share, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
@@ -32,7 +32,7 @@ header a, footer a {
 
 footer {
 	width: 100%;
-	margin-top: 50px;
+/*	margin-top: 50px; */
 }
 
 p {
@@ -60,12 +60,12 @@ h3 {
 	margin-top: 20px;
 	font-size: 24px;
 }
-
+/*
 img {
 	border-radius: 3px;
 	max-width: 100%;
 }
-
+*/
 #post-info {
 	font-size: 14px;
 	position: absolute;
@@ -82,7 +82,7 @@ img {
 	font-style: italic;
 	font-size: 24px;
 	line-height: 24px;
-	text-align: justify;
+/*	text-align: justify;*/
 	font-weight: lighter;
 	margin: 15px 0px;
 }
@@ -102,14 +102,17 @@ img {
 }
 
 #home-title {
-	height: 150px;
-	text-align: center;
-	left: 50%;
-	top: 50%;
-	position: absolute;
-	z-index: 1;
+            left: 50%;
+            top: 50%;
+            position: absolute;
+            z-index: 1;
+/*	height: 150px;
+	text-align: center;*/
+            background-repeat: no-repeat;
+            border-radius: 50%;
+            transition-duration: .25s;
 }
-
+/*
 img.site-icon {
 	margin-top: -75px;
 	width: 150px;
@@ -118,14 +121,30 @@ img.site-icon {
 	transition-duration: .25s;
 	opacity: .9;
 }
-
+*/
+.site-icon-home {
+            width: 150px;
+            height: 150px;
+            background-size: 150px;
+            margin: -75px 0 0 -75px;
+            opacity: .9;
+}
+/*
 img.site-icon:hover {
 	margin-top: -80px;
 	width: 160px;
 	height: 160px;
 	opacity: 1;
 }
-
+*/
+.site-icon-home:hover {
+            width: 160px;
+            height: 160px;
+            background-size: 160px;
+            margin: -80px 0 0 -80px;
+            opacity: 1;
+}
+/*
 img.site-icon-small {
 	width: 28px;
 	height: 28px;
@@ -133,7 +152,18 @@ img.site-icon-small {
 	vertical-align: middle;
 	margin-right: 10px;
 }
-
+*/
+.site-icon-small {
+            width: 28px;
+            height: 28px;
+            background-size: 28px;
+            background-repeat: no-repeat;
+            border-radius: 50%;
+            display: inline-block;
+            vertical-align: middle;
+            margin-right: 10px;
+}
+/*
 img.site-icon-page {
 	width: 100px;
 	height: 100px;
@@ -142,23 +172,65 @@ img.site-icon-page {
 	border-radius: 50%;
 	position: absolute;
 }
+*/
+.site-icon-page {
+            width: 100px;
+            height: 100px;
+            background-size: 100px;
+            margin: -120px 0 0 -50px;
+}
 
 #nav-icon {
-	width: 30px;
+/*	width: 30px;*/
+            width: auto;
+            height: auto;
 	left: 50%;
-	margin-left: -15px;
+/*	margin-left: -15px;*/
+            margin-left: -25px;
 	position: absolute;
+            text-align: center;
 	z-index: 2;
 }
 
 #nav-icon a, #nav-icon a span {
+            width: 50px;
 	text-decoration: none;
 	font-size: 48px;
-	text-align: center;
-	display: block;
+/*	text-align: center;
+	display: block;*/
+            display: table;
 }
 
-#article {
+#img-info {
+    width: auto;
+    height: auto;
+    right: 15px;
+    bottom: 15px;
+    position: absolute;
+    z-index: 2;
+}
+
+#img-info span, #img-info a {
+    text-decoration: none;
+    font-size: 26px;
+    display: table;
+    opacity: .75;
+}
+
+#img-info a:hover {
+    opacity: 1;
+}
+
+#middle {
+    background-color: #fff;
+    width: 100%;
+    height: auto;
+    position: relative;
+    z-index: 3;
+    padding-bottom: 50px;
+}
+
+#article, #comments {
 	font-family: Share, "PT Serif", Georgia, "Times New Roman", serif;
 	font-weight: 400;
 	letter-spacing: 0px;
@@ -166,6 +238,10 @@ img.site-icon-page {
 	color: #313131;
 	line-height: 1.5;
 	position: relative;
+}
+
+#comments {
+    text-align: center;
 }
 
 #article a {
@@ -180,6 +256,15 @@ img.site-icon-page {
 	transition: 0.5s ease;
 }
 
+#article img, #article video {
+    border-radius: 3px;
+    max-width: 100%;
+}
+
+#article-img a, #article-img a:hover {
+    border-bottom: 0px;
+}
+
 a.site-title:hover, .copyright a:hover {
 	text-decoration: underline;
 }
@@ -187,8 +272,8 @@ a.site-title:hover, .copyright a:hover {
 table {
 	border: 0px;
 	border-collapse: collapse;
-	display: block;
-	overflow: auto;
+/*	display: block;
+	overflow: auto;*/
 }
 
 td, th {
@@ -321,14 +406,20 @@ pre code {
 	width: 24px;
 }
 
+/*.social-links a:hover, .menu a:hover {*/
 .social-links a:hover, .menu a:hover {
 	opacity: 1;
+}
+
+.menu a:hover {
+    -webkit-opacity: 0.75;
+            opacity: 0.75;
 }
 
 .menu {
 	display: block;
 	cursor: pointer;
-	background-color: rgba(119, 119, 119, 0.5);
+/*	background-color: rgba(119, 119, 119, 0.5);
 	width: 24px;
 	height: 24px;
 	top: 14px;
@@ -336,16 +427,36 @@ pre code {
 	padding-top: 8px;
 	padding-left: 8px;
 	border-radius: 3px;
-	z-index: 2;
+	z-index: 2;*/
+    background-color: rgba(26, 26, 26, 0.35);
+    width: 30px;
+    height: 30px;
+    top: 12px;
+    left: 12px;
+    padding-top: 5px;
+    padding-left: 5px;
+    z-index: 6;
 	transition-duration: .5s;
 }
-
+/*
 .menu:hover, .menu:active  {
 	background-color: #777;
 }
+*/
+
+.menu-content > .social-links-menu {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.menu-content hr {
+    margin: 15px 0;
+    border-top: 1px solid rgb(131, 131, 131);
+    border-bottom: 0px;
+}
 
 .menu-content {
-	background-color: #777;
+/*	background-color: #777;
 	width: auto;
 	top: 40px;
 	left: 14px;
@@ -355,19 +466,34 @@ pre code {
 	padding-right: 12px;
 	border-radius: 0px 3px 3px 3px;
 	text-align: center;
-	z-index: 1;
+	z-index: 1;*/
+            font-family: Share, "Helvetica Neue", Helvetica, Arial, sans-serif;
+            background-color: rgba(26, 26, 26, 1);
+            text-align: center;
+            z-index: 5;
 }
 
 .menu-content a {
 	text-transform: uppercase;
-	font-size: 11pt;
+        -moz-osx-font-smoothing: antialiased;
+        -webkit-font-smoothing: antialiased;
+        font-smoothing: antialiased;
+/*	font-size: 11pt;
 	letter-spacing: 0.7pt;
 	font-weight: bold;
-	line-height: 26px;
+	line-height: 26px;*/
+    letter-spacing: 1.2pt;
+    font-size: 12px;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 35px;
+    display: block;
+    color: gray;
 }
 
 .menu-content a:hover {
-	color: #cdcdcd;
+/*	color: #cdcdcd;*/
+        color: #fff;
 }
 
 .menu span {
@@ -376,6 +502,8 @@ pre code {
 	height: 20px;
 	width: 20px;
 	opacity: 1;
+    margin-left: 5px;
+    margin-top: 5px;
 }
 
 .menu + input {
@@ -486,4 +614,9 @@ pre code {
 .post-date {
 	font-size: 12pt;
 	color: #999;
+}
+
+.footnotes {
+    margin-top: 60px;
+    border-top: 1px solid #EEE;
 }
