@@ -3,7 +3,8 @@
 </label>
 <input id="_1" type="checkbox">
 <div class="menu-content">
-   <div class="menu" style="background-color: #686254; z-index: -1;"></div>
+<p class="menu-title">{{ site.title }}<p>
+   <div class="menu" style="background-color: #514d41; z-index: -1;"></div>
    {% for item in site.menu %}
       <a href="{{ item.url }}">{{ item.title }}</a><br/>
    {% endfor %}
@@ -12,7 +13,7 @@
       <a href="{{ social.url }}" class="social-links-menu" target="_blank" title="{{ social.desc }}"><span class="genericon genericon-{{ social.icon }}"></span></a>
    {% endfor %}
 </div>
-<div class="social-links">
+<div class="social-links" data-stellar-ratio="0.1">
    {% for social in site.social %}
       <a href="{{ social.url }}" target="_blank" title="{{ social.desc }}"><span class="genericon genericon-{{ social.icon }}"></span></a>
    {% endfor %}
