@@ -109,7 +109,7 @@ img {
 /*	height: 150px;
 	text-align: center;*/
             background-repeat: no-repeat;
-            border-radius: 50%;
+/*            border-radius: 50%;  */
             transition-duration: .25s;
 }
 /*
@@ -428,7 +428,8 @@ pre code {
 	padding-left: 8px;
 	border-radius: 3px;
 	z-index: 2;*/
-    background-color: rgba(26, 26, 26, 0.35);
+ /*   background-color: rgba(26, 26, 26, 0.35);  */
+    background-color: rgba(81, 77, 65, 0.50);
     width: 30px;
     height: 30px;
     top: 12px;
@@ -468,7 +469,7 @@ pre code {
 	text-align: center;
 	z-index: 1;*/
             font-family: Share, "Helvetica Neue", Helvetica, Arial, sans-serif;
-            background-color: rgba(26, 26, 26, 1);
+            background-color: rgba(81, 77, 65, 1);
             text-align: center;
             z-index: 5;
 }
