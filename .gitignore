@@ -2,6 +2,7 @@
 misc
 _gh_pages
 _site
+_drafts
 .ruby-version
 
 # Numerous always-ignore extensions
