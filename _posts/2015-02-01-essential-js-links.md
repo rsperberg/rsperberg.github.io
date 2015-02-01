@@ -2,7 +2,7 @@
 layout: post
 title: Eric Elliott’s essential JavaScript links or The way of the parrot, not
 post_author: Roger Sperberg
-quote: How does the novice learner distinguish difficult-to-grasp concepts from inept explanations written by parrots
+quote: How does the novice learner distinguish difficult-to-grasp concepts from inept explanations written by parrots?
 image:
       url: /media/2015-02-01-essential-js-links/cover.jpg
 video: false
@@ -14,6 +14,19 @@ Of course, my catholic intake of everything Angulared and JavaScripty has led me
 I lack the credentials to dispute Elliott’s choices or to supplement them, but I hope my _re-_presentation is valuable by the addition of my own obsessive labors providing visuals of each link presented and a short summary or description that the site itself provides.
 
 Elliott’s gist list is quickly scanned, despite its length (134 items at the end of January 2015). My bulky rendition is not. Rather the goal is to enable a quicker decision as to which resources to explore first by providing some sense of what each one is about. &nbsp; *—Roger Sperberg*
+
+<p>&nbsp; </p>
+
+## Required Reading (Online resources)
+
+### [Learn JavaScript Essentials (for all skill levels)](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2 "link to article at medium.com")
+
+{% include image.html url="/media/2015-02-01-essential-js-links/learn-javascript.png" width="480px" description="article at medium.com" %}
+
+One clear path to JavaScript mastery. <br />
+_By Eric Elliot. Published at medium.com on August 2, 2014_
+
+
 
 <p>&nbsp; </p>
 
