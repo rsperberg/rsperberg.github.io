@@ -159,6 +159,13 @@ _By Jafar Husain. Delivered at @Scale 2014. Published on September 22, 2014. 5,5
 “While all of this may sound incredibly futuristic, many of us still program these Dream Machines with miserly techniques not far removed from the best practices of the 1960s. <br />
 _By David Nolen. Delivered at JSConf. Published on Jul 1, 2014. 5,168 views_
 
+### [Delivering the goods](https://www.youtube.com/watch?v=R8W_6xWphtw "link to YouTube video") — Paul Irish
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/delivering-the-goods.png" %}
+
+One of the most important but overlooked topics in the development world today — page load times. <br />
+_Keynote by Paul Irish. Delivered at Fluent 2014. Published on March 13, 2014. 35,085 views_
+
 
 
 
