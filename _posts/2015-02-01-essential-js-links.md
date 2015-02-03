@@ -28,7 +28,7 @@ _By Eric Elliot. Published at medium.com on August 2, 2014_
 
 ### [JavaScript Training Sucks](https://medium.com/javascript-scene/javascript-training-sucks-284b53666245 "link to article at medium.com")
 
-{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/javascript-training-sucks-480.png" width="480px" %}
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/javascript-training-sucks.png" width="480px" %}
 
 99 out of 100 JS developers lack the skills they need to fill hundreds of thousands of jobs. We can change that. <br />
 _By Eric Elliot. Published at medium.com on December 29, 2014_
@@ -36,7 +36,7 @@ _By Eric Elliot. Published at medium.com on December 29, 2014_
 
 ### [The Two Pillars of JavaScript Part 1: Prototypal OO](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3 "link to article at medium.com")
 
-{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/the-two-pillars-of-javascript-pt-1-480.png" width="480px" %}
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/the-two-pillars-of-javascript-pt-1.png" width="480px" %}
 
 “You never need classes in JavaScript, and I have never seen a situation where class is a better approach than the alternatives.” <br />
 _By Eric Elliot. Published at medium.com on October 21, 2014_
@@ -44,7 +44,7 @@ _By Eric Elliot. Published at medium.com on October 21, 2014_
 
 ### [The Two Pillars of JavaScript Part 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4 "link to article at medium.com")
 
-{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/the-two-pillars-of-javascript-pt-2-480.png" width="480px" %}
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/the-two-pillars-of-javascript-pt-2.png" width="480px" %}
 
 “Closures are a mechanism for containing state. In JavaScript, a closure is created whenever a function accesses a variable defined outside the immediate function scope. It’s easy to create closures: Simply define a function inside another function, and expose the inner function, either by returning it, or passing it into another function. The variables used by the inner function will be available to it, even after the outer function has finished running.” <br />
 _By Eric Elliot. Published at medium.com on December 12, 2014_
