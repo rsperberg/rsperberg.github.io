@@ -141,6 +141,26 @@ _By James Long. Posted on September 08, 2014_
 _By Axel Rauschmayer. Published at 2ality.com on September 7, 2014_
 
 
+## Required Viewing
+### [Asynchronous Programming at Netflix](https://www.youtube.com/watch?v=gawmdhCNy-A "link to talk on YouTube") — [Jafar Husain](https://twitter.com/jhusain" "link to Jafar Husain on Twitter")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/asynchronous-programming.png" %}
+
+“What does a mouse drag event have in common with an array of numbers? The answer to this question may surprise you: they are both collections. This insight holds the key to dramatically simplifying asynchronous programming in JavaScript. In this talk you will learn how you can use the familiar JavaScript Array methods to create surprisingly expressive asynchronous programs.” <br />
+_By Jafar Husain. Delivered at @Scale 2014. Published on September 22, 2014. 5,560 views_
+
+
+### [Immutability: Putting The Dream Machine To Work](https://www.youtube.com/watch?v=SiFwRtCnxv4 "link to talk on YouTube") — [David Nolen](https://twitter.com/swannodette "link to David Nolen on Twitter")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/immutability.png" %}
+
+“We live in a time of vast computational resources — many of us carry around in our pockets what just thirty years ago would have been considered a supercomputer. But it’s not just the hardware, these bite-sized supercomputers run software using state-of-the-art dynamic compilation techniques to deliver stellar performance without sacrificing flexibility.
+
+“While all of this may sound incredibly futuristic, many of us still program these Dream Machines with miserly techniques not far removed from the best practices of the 1960s. <br />
+_By David Nolen. Delivered at JSConf. Published on Jul 1, 2014. 5,168 views_
+
+
+
 
 <p>&nbsp; </p>
 
