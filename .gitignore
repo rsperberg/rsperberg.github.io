@@ -5,6 +5,9 @@ _site
 _drafts
 .ruby-version
 
+# specific files
+media/2015-02-01-essential-js-links/cover-alt*.jpg
+
 # Numerous always-ignore extensions
 *.diff
 *.err
