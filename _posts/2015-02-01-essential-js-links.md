@@ -15,7 +15,7 @@ I lack the credentials to dispute Elliott’s choices or to supplement them, but
 
 Elliott’s gist list is quickly scanned, despite its length (134 items at the end of January 2015). My bulky rendition is not. Rather the goal is to enable a quicker decision as to which resources to explore first by providing some sense of what each one is about.
 
-Thanks to Eric Elliott for pointing out what sites we should be paying attention to. &nbsp; *—Roger Sperberg*
+Thanks to Eric Elliott for pointing out what sites we should be paying attention to. &nbsp; *—&nbsp;Roger Sperberg*
 
 <p>&nbsp; </p>
 
@@ -102,7 +102,7 @@ _By André Staltz. <span class="octicon octicon-star"></span>star:&nbsp;3,101 <s
 What is all this talk about reactive? Functional? Promises? This is the beginning of a reactive programming bible. “In the context of a computer program, reactivity is the process of receiving external stimuli and propagating events. This is a rather broad definition that covers a wide variety of topics. The term is usually reserved for systems that respond in turns to sensors, schedules, and above all, problems that exist between the chair and keyboard....
 
 “[V]arious minds in the field of reactivity have been converging on a model that unifies at least promises and observables.” <br />
-_By Kris Kowal. First posted at github on August 9, 2014. 5 contributors <span class="octicon octicon-star"></span>star:&nbsp;401 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;12_
+_By Kris Kowal. First posted at github on August 9, 2014. 5 contributors <span class="octicon octicon-star"></span>star:&nbsp;401 <br /><span class="octicon octicon-repo-forked"></span>fork:&nbsp;12_
 
 
 ### [ES6 Generators](http://davidwalsh.name/es6-generators "link to post")
@@ -149,7 +149,7 @@ _By Axel Rauschmayer. Published at 2ality.com on September 7, 2014_
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/asynchronous-programming.png" %}
 
 “What does a mouse drag event have in common with an array of numbers? The answer to this question may surprise you: they are both collections. This insight holds the key to dramatically simplifying asynchronous programming in JavaScript. In this talk you will learn how you can use the familiar JavaScript Array methods to create surprisingly expressive asynchronous programs.” <br />
-_By Jafar Husain. Delivered at @Scale 2014. Published on September 22, 2014. 5,560 views_
+_By Jafar Husain. Delivered at @Scale 2014. Published on September 22, 2014. 5,560&nbsp;views_
 
 
 ### [Immutability: Putting The Dream Machine To Work](https://www.youtube.com/watch?v=SiFwRtCnxv4 "link to talk on YouTube") — [David Nolen](https://twitter.com/swannodette "link to David Nolen on Twitter")
@@ -159,14 +159,14 @@ _By Jafar Husain. Delivered at @Scale 2014. Published on September 22, 2014. 5,5
 “We live in a time of vast computational resources — many of us carry around in our pockets what just thirty years ago would have been considered a supercomputer. But it’s not just the hardware, these bite-sized supercomputers run software using state-of-the-art dynamic compilation techniques to deliver stellar performance without sacrificing flexibility.
 
 “While all of this may sound incredibly futuristic, many of us still program these Dream Machines with miserly techniques not far removed from the best practices of the 1960s. <br />
-_By David Nolen. Delivered at JSConf. Published on Jul 1, 2014. 5,168 views_
+_By David Nolen. Delivered at JSConf. Published on July 1, 2014. 5,168&nbsp;views_
 
 ### [Delivering the goods](https://www.youtube.com/watch?v=R8W_6xWphtw "link to YouTube video") — Paul Irish
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/delivering-the-goods.png" %}
 
 One of the most important but overlooked topics in the development world today — page load times. <br />
-_Keynote by Paul Irish. Delivered at Fluent 2014. Published on March 13, 2014. 35,085 views_
+_Keynote by Paul Irish. Delivered at Fluent 2014. Published on March&nbsp;13, 2014. 35,085&nbsp;views_
 
 
 ## Spec
@@ -318,7 +318,7 @@ _ST is developed by Jon Skinner._
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/node-inspector.png" %}
 
 Debug Node code with the Chrome debug tools, e.g., “a debugger interface for Node.js applications that uses the Blink Developer Tools (formerly WebKit Web Inspector).”<br />
-_Project maintenance and support sponsored by <a href="http://strongloop.com/" title="link to strongloop.com">StrongLoop</a>. 38&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;6,127 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;405_
+_Project maintenance and support sponsored by <a href="http://strongloop.com/" title="link to strongloop.com">StrongLoop</a>. 38&nbsp;contributors <br /><span class="octicon octicon-star"></span>star:&nbsp;6,127 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;405_
 
 
 ### [TraceGL](https://github.com/traceglMPL/tracegl "link to GitHub site")
@@ -374,13 +374,293 @@ _3&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;275 <s
 “Fiddlin' with ECMAScript6.” Includes sample code illustrating these ES6 aspects: arrow functions, block scope, classes and inheritance, default parameters, destructured assignment, generators, iterators, map, promises, rest parameters, set, spread operator and template literals.<br />
 _A project of Jeff McRiffey. 2&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;31 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;6_
 
+## Building
+
+###[Browserify](http://browserify.org/ "link to post")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/browserify.png" %}
+
+Bundle modules for the browser. “browserify is a tool for compiling node-flavored commonjs modules for the browser.
+
+“You can use browserify to organize your code and use third-party libraries even if you don't use node itself in any other capacity except for bundling and installing packages with npm.
+
+“The module system that browserify uses is the same as node, so packages published to npm that were originally intended for use in node but not browsers will work just fine in the browser too.
+
+“Increasingly, people are publishing modules to npm which are intentionally designed to work in both node and in the browser using browserify and many packages on npm are intended for use in just the browser. [npm is for all javascript](http://maxogden.com/node-packaged-modules.html "link to post on using npm for client-side programs"), front or backend alike.” <br />
+_Project of James Halliday. 133 contributors <span class="octicon octicon-star"></span>star:&nbsp;6,403 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;571_
+
+
+###[How to use NPM as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/ "link to post")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/use-npm-as-a-build-tool.png" %}
+
+“npm has a great subset of functionality dedicated to running tasks to facilitate in a packages lifecycle — in other words, it is a great tool for build scripts.” <br />
+_By Keith Cirkel. Posted on December 9, 2014_
+
+
+### Lint / Quality checkers
+
+### [JSHint](http://jshint.com/ "link to site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/jshint.png" %}
+
+“JSHint scans a program written in JavaScript and reports about commonly made mistakes and potential bugs. The potential problem could be a syntax error, a bug due to implicit type conversion, a leaking variable or something else.
+
+“Only 15% of all programs linted on this website pass the JSHint checks. In all other cases, JSHint finds some red flags that could’ve been bugs or potential problems.” <br />
+_JSHint created and maintained by Anton Kovalyov. 183 contributors <span class="octicon octicon-star"></span>star:&nbsp;4,438 <br /><span class="octicon octicon-repo-forked"></span>fork:&nbsp;932_
+
+
+### [ESLint](http://eslint.org/ "link to site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/eslint.png" %}
+
+“ESLint is an open-source JavaScript linting utility.... JavaScript, being a dynamic and loosely-typed language, is especially prone to developer error. Without the benefit of a compilation process, JavaScript code is typically executed in order to find syntax or other errors. Linting tools like ESLint allow developers to discover problems with their JavaScript code without executing it.
+
+“The primary reason ESLint was created was to allow developers to create their own linting rules. ESLint is designed to have all rules completely pluggable. The default rules are written just like any plugin rules would be. They can all follow the same pattern, both for the rules themselves as well as tests. ...
+
+“ESLint is written using Node.js to provide a fast runtime environment and easy installation via npm.”<br />
+_Created by Nicholas C. Zakas in June 2013. 121 contributors <span class="octicon octicon-star"></span>star:&nbsp;1,524 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;254_
+
+
+### [Istanbul](https://github.com/gotwarlost/istanbul "link to GitHub site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/istanbul.png" %}
+
+Code coverage reporting. <br />
+_A project of Krishnan Anantheswaran. 36 contributors <span class="octicon octicon-star"></span>star:&nbsp;2,131 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;203_
+
+
+### [tape](https://github.com/substack/tape "link to GitHub site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/tape.png" %}
+
+Use tape and faucet for dead simple unit testing. Tape is a “tap-producing test harness for node and browsers.” <br />
+_A project of James Halliday. 23 contributors <span class="octicon octicon-star"></span>star:&nbsp;514 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;59_
+
+
+### [faucet](https://github.com/substack/faucet "link to GitHub site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/faucet.png" %}
+
+Use tape and faucet for dead simple unit testing.  Faucet is a “human-readable TAP summarizer” <br />
+_A project of James Halliday. 2 contributors <span class="octicon octicon-star"></span>star:&nbsp;173 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;3_
+
+### [Nightwatch](http://nightwatchjs.org/) 
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/nightwatch.png" %}
+
+Dead simple integration testing with Selenium: “Nightwatch.js is an easy-to-use Node.js-based End-to-End (E2E) testing solution for browser-based apps and websites.
+
+“It uses the powerful Selenium WebDriver API to perform commands and assertions on DOM elements.”<br />
+_A project of Andrei Rusu. 28 contributors <span class="octicon octicon-star"></span>star:&nbsp;2,530 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;180_
+
+### Transpilers
+
+### [6to5](https://github.com/6to5/6to5 "link to GitHub site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/6to5.png" %}
+
+(ES6) “6to5 turns ES6+ code into vanilla ES5, so you can use next-generation features today.”<br />
+_44 contributors <span class="octicon octicon-star"></span>star:&nbsp;2,272 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;94_
+
+
+### [CoffeeScript](http://coffeescript.org/ "link to coffeescript site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/coffeescript.png" %}
+
+“CoffeeScript is a little language that compiles into JavaScript. Underneath that awkward Java-esque patina, JavaScript has always had a gorgeous heart. CoffeeScript is an attempt to expose the good parts of JavaScript in a simple way.
+
+“The golden rule of CoffeeScript is: ‘It’s just JavaScript.’ The code compiles one-to-one into the equivalent JS, and there is no interpretation at runtime. You can use any existing JavaScript library seamlessly from CoffeeScript (and vice-versa). The compiled output is readable and pretty-printed, will work in every JavaScript runtime, and tends to run as fast or faster than the equivalent handwritten JavaScript.”<br />
+_A project of Jeeremy Ashkenas. 167 contributors <span class="octicon octicon-star"></span>star:&nbsp;10,603 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;1,383_
+
+### [Emscripten](http://kripken.github.io/emscripten-site/ "link to GitHub site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/emscripten.png" %}
+
+(frequently used for C/C++ JavaScript ports) “Practically any portable C or C++ codebase can be compiled into JavaScript using Emscripten, ranging from high-performance games that need to render graphics, play sounds, and load and process files, through to application frameworks like Qt.” <br />
+_A project of Alon Zakai. 161 contributors <span class="octicon octicon-star"></span>star:&nbsp;7,751 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;850_
+
+
+### [Traceur](https://github.com/google/traceur-compiler "link to GitHub site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/traceur-compiler.png" %}
+
+(ES.next) “Traceur is a JavaScript.next-to-JavaScript-of-today compiler that allows you to use features from the future today.... Traceur allows you to try out new and proposed language features today, helping you say what you mean in your code while informing the standards process.”<br />
+_53 contributors <span class="octicon octicon-star"></span>star:&nbsp;4,388 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;259_
+
+
+### [ES6 tools](https://github.com/addyosmani/es6-tools "link to GitHub site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/es6-tools.png" %}
+
+ES6 Tools list (112 listed in Jan 2015) <br />
+_A project of Addy Osmani. 26 contributors <span class="octicon octicon-star"></span>star:&nbsp;1,381 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;76_
+
+
+
+## JavaScript environments
+
+### [Node](http://nodejs.org/ "link to nodejs.org website")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/nodejs-org.png" %}
+
+Server-side JavaScript and more <br />
+_583 contributors <span class="octicon octicon-star"></span>star:&nbsp;34,408 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;7,665_
+
+
+
+### [io.js](https://iojs.org/ )
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/io-js.png" %}
+
+The Node fork.
+
+“io.js is a JavaScript platform built on [Chrome’s V8 runtime](http://code.google.com/p/v8/ "link to V8 site"). This project began as a fork of [Joyent’s Node.js™](https://nodejs.org/ "link to nodejs.org") and is compatible with the [npm](https://www.npmjs.org/ "link to npmjs.org") ecosystem.
+
+“Why? io.js aims to provide faster and predictable release cycles. It currently merges in the latest language, API and performance improvements to V8 while also updating libuv and other base libraries.
+
+“This project aims to continue development of io.js under an ‘[open governance model](https://github.com/iojs/io.js/blob/v1.x/GOVERNANCE.md#readme "link to io.js project governance document")’ as opposed to corporate stewardship.”<br />
+_626 contributors <span class="octicon octicon-star"></span>star:&nbsp;9,054 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;526_
+
+
+## Libraries
+
+### [es5-shim](https://github.com/es-shims/es5-shim "link to GitHub site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/es5-shim.png" %}
+
+“es5-shim.js and es5-shim.min.js monkey-patch a JavaScript context to contain all EcmaScript 5 methods that can be faithfully emulated with a legacy JavaScript engine.” Stable, production ready. <br />
+_55 contributors <span class="octicon octicon-star"></span>star:&nbsp;3,379 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;467_
+
+
+### [es6-shim](https://github.com/es-shims/es6-shim/ "link to GitHub site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/es6-shim.png" %}
+
+“Provides compatibility shims so that legacy JavaScript engines behave as closely as possible to ECMAScript 6 (Harmony).” Somewhat stable, but a few things I thought were solid got shifted to ES7. <br />
+_29 contributors <span class="octicon octicon-star"></span>star:&nbsp;42 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;78_
+
+
+### [es7-shim](https://www.npmjs.com/package/es7-shim "link to package site at npm")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/es7-shim.png" %}
+
+“es7-shim.js exports an object that contains shims that can be used to monkeypatch a JavaScript context to contain all ECMAScript 7 methods that can be faithfully emulated with a legacy JavaScript engine.” Experimental. Use with caution.
+
+
+### [native-promise-only](https://github.com/getify/native-promise-only "link to GitHub site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/native-promise-only.png" %}
+
+An ECMAScript-standard promise polyfill by <i>Kyle Simpson</i>. “The aim of this project is to be the smallest polyfill for Promises, staying as close as possible to what's specified in both Promises/A+ and the upcoming ES6 specification.”<br />
+_A project of Kyle Simpson. <span class="octicon octicon-star"></span>star:&nbsp;255 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;16_
+
+
+### [isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch "link to GitHub site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/isomorphic-fetch.png" %}
+
+A <a href="https://fetch.spec.whatwg.org/" rel="noreferrer">WHATWG fetch</a> standard polyfill <br />
+_By Matt Andrews. 3 contributors <span class="octicon octicon-star"></span>star:&nbsp;32 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;3_
+
+
+### [jQuery](http://jquery.com/ "link to jQuery site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/jquery.png" %}
+
+Yes, I [still use jQuery](https://docs.google.com/document/d/1LPaPA30bLUB_publLIMF0RlhdnPx_ePXm7oW02iiT6o/ "link to post") and so do 61% of the top 100,000 websites — for good reason.<br />
+_213 contributors <span class="octicon octicon-star"></span>star:&nbsp;33,188 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;7,855_
+
+
+### [Blaze](http://meteor.github.io/blaze/ "link to Blaze website")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/blaze.png" %}
+
+DOM-diffing isomorphic reactive templates from Meteor. “HTML templating is central to web applications. With Blaze, Meteor's live page update technology, you can render your HTML reactively, meaning that it will update automatically to track changes in the data used to generate it.”<br />
+_2 contributors <span class="octicon octicon-star"></span>star:&nbsp;69 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;9_
+
+
+### [RxJS](https://github.com/Reactive-Extensions/RxJS link to GitHub site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/reactive.png" %}
+
+Reactive extensions for JavaScript. [What’s reactive?](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4 "link to article, 'The two pillars of JS' ") <br />
+_91 contributors <span class="octicon octicon-star"></span>star:&nbsp;2,952 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;275_
+
+
+### [Moment](http://momentjs.com )
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/moment.png" %}
+
+A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates. Includes 81 locale/script/language combinations. “Moment was designed to work both in the browser and in Node.JS. All code will work in both environments. All unit tests are run in both environments.” <br />
+_233 contributors <span class="octicon octicon-star"></span>star:&nbsp;19,362 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;2,009_
+
+
+### [Globalize](https://github.com/jquery/globalize link to GitHub site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/globalize.png" %}
+
+i18n / translate your app for many languages and locations (locales). “Each language, and the countries that speak that language, have different expectations when it comes to how numbers (including currency and percentages) and dates should appear. Obviously, each language has different names for the days of the week and the months of the year. But they also have different expectations for the structure of dates, such as what order the day, month and year are in. In number formatting, not only does the character used to delineate number groupings and the decimal portion differ, but the placement of those characters differ as well.
+
+“A user using an application should be able to read and write dates and numbers in the format they are accustomed to. This library makes this possible, providing an API to convert user-entered number and date strings — in their own format — into actual numbers and dates, and conversely, to format numbers and dates into that string format.” <br />
+_26 contributors <span class="octicon octicon-star"></span>star:&nbsp;1,475 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;331_
+
+
+### [Express](http://expressjs.com/ )
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/express.png" %}
+
+The most popular framework for Node. “A fast, un-opinionated, minimalist web framework for Node.js applications.” <br />
+_87 contributors <span class="octicon octicon-star"></span>star:&nbsp;362 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;232_
+
+
+### [Stampit](https://github.com/ericelliott/stampit link to GitHub site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/stampit.png" %}
+
+Stampit — create objects from reusable, composable behaviors. Prototypal inheritance with stamps. <br />
+_A project of Eric Elliott. 9 contributors <span class="octicon octicon-star"></span>star:&nbsp;651 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;38_
+
+
+### [Credential](https://github.com/ericelliott/credential "link to GitHub site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/credential.png" %}
+
+If you write Node apps with password logins, you need Credential: “Easy password hashing and verification in Node. Protects against brute force, rainbow tables, and timing attacks.”<br />
+_A project of Eric Elliott. 6&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;135 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;8_
+
+
+### [cuid](https://github.com/ericelliott/cuid "link to GitHub site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/cuid.png" %}
+
+GUIDs are broken — use cuid, instead. “Collision-resistant ids optimized for horizontal scaling and performance.”<br />
+_A project of Eric Elliott. 4&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;218 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;8_
+
+
+### [Velocity](http://julian.com/research/velocity/ "link to Velocity site")
+ &amp; [Velocity Motion Designer (VMD)](ttp://julian.com/research/velocity/#vmd "link to VMD section")
+ 
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/velocity.png" %}
+
+UI animation library: “Velocity is an animation engine with the same API as jQuery's <code>$.animate()</code>. It works with and without jQuery. It’s incredibly fast, and it features color animation, transforms, loops, easings, SVG support, and scrolling. It is the best of jQuery and CSS transitions combined.”<br />
+_A project of Julian Shapiro. 14&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;6,567 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;514_
+
+
+### [json-schema](https://github.com/kriszyp/json-schema "link to GitHub site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/json-schema.png" %}
+
+Great for model validations: “JSON Schema describes your JSON data format.”<br />
+_12&nbsp;contributors (at github.com/json-schema)<span class="octicon octicon-star"></span>star:&nbsp;438 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;95_
+
 
 
 
 
 <p>&nbsp; </p>
 
-<small><a href="https://www.flickr.com/photos/pbekesi/392765048" style="text-decoration:none;">Photo</a> by Peter Békési, <em>Parrots - Jurong Bird Park</em>, <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0)</a></small>
+<small><a href="https://www.flickr.com/photos/pbekesi/392765048" style="text-decoration:none;">Photo</a> by Peter Békési, <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0)</a></small>
 
 <!--  small><a href="https://www.flickr.com/photos/gopalarathnam_v/48653786" style="text-decoration:none;">Photo</a> by Gopal Venkatesan, <em>Parrots - Jurong Bird Park</em>, <a href="https://creativecommons.org/licenses/by/2.0/">cc by 2.0</a></small  -->
 
