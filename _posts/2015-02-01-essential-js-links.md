@@ -655,12 +655,617 @@ Great for model validations: “JSON Schema describes your JSON data format.”<
 _12&nbsp;contributors (at github.com/json-schema)<span class="octicon octicon-star"></span>star:&nbsp;438 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;95_
 
 
+## Web Components
 
+
+### [FIRST](http://addyosmani.com/first/ "link to post")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/first.png" %}
+
+“**Components Should Be Focused, Independent, Reusable, Small &amp; Testable (FIRST)**
+
+“Whether it’s a client- or server-side component, a Node module or a piece of visual UI, components that are [large](http://addyosmani.com/largescalejavascript/ link to 'Patterns For Large-Scale JavaScript Application Architecture' ") are inherently more complex to maintain than those than are small.
+
+“In fact, the _secret_ to efficiently building ‘large’ things is generally to avoid building them in the first place. Instead, compose your large thing out of **smaller**, more **focused** pieces. This makes it easier to see how the small thing fits within the broader scope of your large thing.” <br />
+_By Addy Osmani. Posted circa May 9, 2014_
+
+
+### [Polyfills](http://webcomponents.org/polyfills/ "link to webcomponents.org")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/polyfills.png" %}
+
+“<code>webcomponents.js</code> is a set of polyfills built on top of the **Web Components** specifications. It makes it possible for developers to use these standards today across all modern browsers.
+
+“As these technologies are implemented in browsers, the polyfills will shrink and you'll gain the benefits of native implementations. <code>webcomponents.js</code> automatically detects native support and switches to the fast path when available. Your elements seamlessly start relying on the native stuff — and get faster in the process.
+
+“**Note:** The <code>webcomponents.js</code> polyfill layer is no longer needed for browsers that fully implement the Web Components APIs, such as Chrome 36+.”<br />
+_20&nbsp;contributors (at github.com/webcomponents/webcomponentsjs)<span class="octicon octicon-star"></span>star:&nbsp;331 <br /><span class="octicon octicon-repo-forked"></span>fork:&nbsp;56_
+
+
+### [HTML Imports](http://webcomponents.org/articles/introduction-to-html-imports/ "link to article at webcomponents.org")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/html-imports.png" %}
+
+“Template, Shadow DOM, and Custom Elements enable you to build UI components easier than before. But it's not efficient to load each resources such as HTML, CSS and JavaScript separately.
+
+“Deduping dependencies isn't easy either. To load a library like jQuery UI or Bootstrap today requires using separate tags for JavaScript, CSS, and Web Fonts. Things get even more complex if you deal with Web Components with multiple dependencies.
+
+“HTML Imports allow you to load those resources as an aggregated HTML file.”<br />
+_By Eiji Kitamura. Includes 8:12 video. Published at webcomponents.org on January 4, 2015_
+
+
+### [Custom Elements](http://webcomponents.org/articles/introduction-to-custom-elements/ "link to article at webcomponents.org")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/custom-elements.png" %}
+
+“HTML is the most important factor for the web platform. It provides various low level features to structure sites and apps. But it also is easy to end up with div soup once you start implementing a complex component using native HTML tags. What if the web platform could allow you to create your original component? What if you can give it an arbitrary tag name? What if you can extend features of an existing HTML tag? Custom Elements allow you to do those things.”
+<br />
+_By Eiji Kitamura. Includes 8:16 video. Published at webcomponents.org on November&nbsp;23, 2014_
+
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/templates.png" %}
+
+“‘Templates’ used to be a technology frequently used with server-side technologies such as PHP, Django (Python) or Ruby on Rails. But lately it’s becoming more common to use templates in the browser.
+
+“This is primarily driven by the changing landscape of web architecture. Servers are becoming more dedicated to processing data, clients are becoming more dedicated to user interactions and views. MVC (Model, View, Controller) is no longer a server-side-only pattern, it’s becoming a client-side thing — look at AngularJS, Backbone.js, Ember.js, etc.
+<br />_By Eiji Kitamura. Includes 4:02 video. Published at webcomponents.org on October 6, 2014_
+
+
+### [Shadow DOM](http://webcomponents.org/articles/introduction-to-shadow-dom/ "link to article at webcomponents.org")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/shadow-dom.png" %}
+
+“An element that has a shadow root associated with it is called ‘shadow host.’ The shadow root can be treated as an ordinary DOM element so you can append arbitrary nodes to it.
+
+“With Shadow DOM, all markup and CSS are scoped to the host element. In other words, CSS styles defined inside a Shadow Root won’t affect its parent document; CSS styles defined outside the Shadow Root won’t affect the main page.”
+<br />_By Eiji Kitamura. Includes 5:18 video. Published at webcomponents.org on October 29, 2014_
+
+
+### [x-gif](http://geelen.github.io/x-gif/#/http://i.imgur.com/iKXH4E2.gif "link to GitHub site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/x-gif.png" %}
+
+This web component wins the internet: “<code>&lt;x-gif></code> is a web component for flexible GIF playback. Speed them up, slow them down, play them in reverse, synch multiple beats to a rhythm, synch them to audio, whatever you like.”<br />
+_A project of Glen Maddern. 4&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;1,502 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;71_
+
+
+## QA / Deployment / Monitoring / CI
+
+
+### [PM2](https://github.com/Unitech/pm2 "link to GitHub site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/pm2.png" %}
+
+Process monitoring / self repair: “PM2 is a production process manager for Node.js applications with a built-in load balancer. Perfectly designed for microservice architecture. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks.”<br />
+_A project of Alexandre Strzelewicz. 72&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;6,205 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;459_
+
+
+### [New Relic](http://newrelic.com/ "link to New Relic site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/new-relic.png" %}
+
+Deep insights into the performance and health of your production apps: “What is software analytics?
+It’s about gaining actionable, real-time business insights from the billions of metrics your software is producing, including user click streams, mobile activity, end user experiences and transactions.”
+
+
+### [Sauce Labs](https://saucelabs.com/ "link to saucelabs.com")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/sauce-labs.png" %}
+
+Cross-platform web application testing with great collaboration and integration support.
+
+
+### [Travis CI](https://travis-ci.org/ "link to travis-ci.org")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/travis-ci.png" %}
+
+CI, of course: “Travis CI is a hosted continuous integration service. It is integrated with GitHub and offers first-class support for C, C++, Clojure, C#, D, Dart, Erlang, F#, Go, Groovy, Haskell, Java, JavaScript (with Node.js), Julia, Objective-C, Perl, PHP, Python, Ruby, Rust, Scala, Visual Basic <br/>
+
+“Travis CI’s build environment provides different runtimes for different languages, for instance multiple versions of Ruby, PHP, Node.js. It also comes preinstalled with a variety of data stores and common tools like message brokers.<br />
+
+“Continuous deployment to the following providers are currently supported out of the box — Appfog, biicode, Cloud 66, Heroku, AWS CodeDeploy, Modulus, Nodejitsu, OpenShift, cloudControl, CloudFoundry, RubyGems, AWS OpsWorks, PyPI, Divshot.io, Rackspace Cloud Files, npm, S3, Ninefold, Engine Yard, GitHub Releases, Deis, Hackage, Google Cloud Storage, packagecloud.io”
+
+
+### [Docker](https://www.docker.com/ "link to docker.com")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/docker.png" %}
+
+Run your CI process using the same OS configs as your production systems.<br />
+
+“Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications. Consisting of Docker Engine, a portable, lightweight runtime and packaging tool, and Docker Hub, a cloud service for sharing applications and automating workflows, Docker enables apps to be quickly assembled from components and eliminates the friction between development, QA, and production environments.”
+<br />
+_469&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;18,780 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;3,871_
+
+
+### [Shippable](https://www.shippable.com/ "link to shippable.com")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/shippable.png" %}
+
+Docker-based hosted build / CI.
+
+“Chris Corriveau, CTO, StockTwits: ‘If your goal is to commit code often, test it, and ship to production as fast as possible to keep up with your companies changing features and initiatives there is no better product than Shippable! Using Shippable cut down our testing time from over 20 mins to under 8 mins.’ ”
+
+
+
+## Community
+
+
+### [ES Discuss](https://esdiscuss.org/ "link to esdiscuss.org")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/esdiscuss.png" %}
+
+The mailing list where all the ECMAScript standard discussion action is.<br />
+
+Notably (as the GitHub site puts it), “esdiscuss.org aims to produce a readable copy of the [esdiscuss mailing list archives](https://mail.mozilla.org/pipermail/es-discuss/ "link to es-discuss at mozilla.org").
+
+
+### [JavaScript on Google+](https://plus.google.com/communities/100875929141897651837 "link to JavaScript community on Google+")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/js-on-google-plus.png" %}
+
+
+_104,305 members. You can view pages or posts in areas identified as “questions, beginners, discussion, ‘show your work,’ MV* frameworks, libraries, guides/tutorials, books, widgets (jQuery, etc) and videos,” as well as shared photos and off-topic items._
+
+
+### [HTML5 on Google+](https://plus.google.com/communities/103299867207875326585 "link to html5 community on Google+")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/html5-on-google-plus.png" %}
+
+“A community for html5-related stuff. Links from all around the web, new spec announcements, cool new stuff and other things.<br />
+
+“We talk about: HTML, CSS, CSS3, JS, JavaScript, web development, front end, open source, webGL, Google chrome extensions, browsers, Mozilla Firefox, Internet Explorer, Safari, Opera, development, code, coffeescript, responsive design, web tools, web applications, w3c standards, and other cool stuff.”<br />
+_215,314 members_
+
+
+### [Node.js on Google+](https://plus.google.com/communities/115365528781941125390 "link to node.js community on Google+")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/node-on-google-plus.png" %}
+
+_49,573 members. You can view pages or posts in areas identified as “discussion, question, libraries &amp; frameworks, tutorials &amp; books and showcase,” as well as shared photos._
+
+
+### IRC ##JavaScript
+
+irc://irc.freenode.net/javascript
+
+
+### IRC #node.js
+
+irc://irc.freenode.net/node.js
+
+
+### IRC #io.js
+
+irc://irc.freenode.net/io.js — the Node fork
+
+
+## News
+
+
+### [JavaScript Weekly](http://javascriptweekly.com/ "link to site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/javascriptweekly.png" %}
+
+“A free, once–weekly e-mail round-up of JavaScript news and articles.
+
+“ONE e-mail each Friday.”<br />
+_Published by [Cooper Press](https://cooperpress.com/ "link to Cooper Press") and curated by [Peter Cooper](http://twitter.com/peterc "link to @peterc Twitter page")_
+
+
+### [Node Weekly](http://nodeweekly.com/ "link to site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/nodeweekly.png" %}
+
+“A free, once–weekly e-mail round-up of Node.js news and articles.
+
+“ONE e-mail each Wednesday.”<br />
+_Published by [Cooper Press](https://cooperpress.com/ "link to Cooper Press")_
+
+
+### [HTML5 Weekly](http://html5weekly.com/ "link to site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/html5weekly.png" %}
+
+“A once–weekly HTML5 and Web Platform technology roundup. CSS 3, Canvas, WebSockets, WebGL, Native Client, and more.
+
+“ONE e-mail each Wednesday.”<br />
+_Published by [Cooper Press](https://cooperpress.com/ "link to Cooper Press") and curated by [Peter Cooper](http://twitter.com/peterc "link to @peterc Twitter page")_
+
+
+### [EchoJS](http://www.echojs.com/ "link to site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/echojs.png" %}
+
+“Echo JS is a community-driven news site entirely focused on JavaScript development, HTML5, and front-end news.”<br />
+_Founder and maintainer: Frederic Cambus, advisor: Fabien Allanic_
+
+
+### [DailyJS](http://dailyjs.com/ "link to site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/dailyjs.png" %}
+
+Daily round-ups, dating back to November 2009.<br />
+_Editor-in-chief: [Alex R. Young](http://twitter.com/#!/alex_young "link to @alex_young Twitter page"), proofreader: [Yuka Young](http://twitter.com/#!/YukaYoung "link to @YukaYoung Twitter page")_
+
+
+### [JavaScript Jabber](http://devchat.tv/js-jabber/ "link to site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/js-jabber.png" %}
+
+Weekly podcast.<br />
+_Moderated by Charles Max Wood, with regular panel members and a weekly guest_
+
+
+
+<!--  ===============================================================================  -->
+<!--  ===============================================================================  -->
+## Pasting / sharing code
+
+
+### [Codepen](http://codepen.io/pen/ "link to site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/codepen.png" %}
+
+“CodePen is for web designers and front-end developers.
+
+“It is an HTML, CSS, and JavaScript code editor in your browser with instant previews of the code you see and write. It is a searchable trove of your own creations, and a world of other people's creations. A place to troubleshoot, to teach, to learn, to test, and to grow.”
+
+
+### [RequireBin](http://requirebin.com/ "link to site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/requirebin-demo.png" %}
+
+“Shareable JavaScript programs powered by NPM and browserify” (e.g., you can require npm modules from the browser via browserify and browserify-cdn).
+
+
+<!--  ===============================================================================  -->
+<!--  ===============================================================================  -->
+## Contests
+
+
+### [DemoJS](http://demojs.org/ "link to site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/demojs.png" %}
+
+The JavaScript demoscene party: “DemoJS is a day-long, open-to-all, web-based, but not only, free [demoparty](http://en.wikipedia.org/wiki/Demoparty "link to Wikipedia entry for demoparty")
+
+
+### [JS1k](http://js1k.com/ "link to site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/js1k.png" %}
+
+JavaScript demos in 1k of memory: JS1K “runs yearly, usually in or around February / March. The core rule is no externals. You must submit a self-contained demo in 1024 bytes of pure JS, which in turn may use various web technologies.”<br />
+_Created and  maintained by Peter van der Zee_
+
+
+### [JS13k Games](http://js13kgames.com/ "link to site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/js13kgames.png" %}
+
+JavaScript games in 13k of memory: “Js13kGames is a JavaScript coding competition for HTML5 game developers. The fun part of the compo is the file size limit set to 13 kilobytes.”<br />
+_Organized by [Andrzej Mazur](https://twitter.com/end3r "link to @end3r Twitter page")_
+
+
+### [FightCode game](http://fightcodegame.com/ "link to site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/fightcodegame.png" %}
+
+Program virtual battle bots and climb the leaderboard: “fightcodegame.com is a free-to-play game and you can create as many robots as you'd like.
+<br />
+“Coding your robots is very easy and should be natural if you’ve ever had any JavaScript experience.”<br />
+_“Battle against 26,532 other robots”_
+
+
+### [Node Knockout](http://nodeknockout.com/ "link to site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/nodeknockout.png" %}
+
+The legendary Node competition: “Node Knockout is the world's biggest Node.js programming competition — a 48-hour coding contest featuring node.js”
+
+In 2014, contestants could compete ‘virtually’ from anywhere in the world, with Knockout HQ located in San Francisco and competition sites in Chicago, Tokyo, Venice, Taipei and Reno, Nevada.
+
+
+
+<!--  ===============================================================================  -->
+<!--  ===============================================================================  -->
+## Hackable Hardware
+
+
+### [Nodebots](http://nodebots.io/ "link to site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/nodebots.png" %}
+
+“Robots powered by JavaScript.<br />
+
+“That's right... if you’ve any JavaScript experience, you can now use your powers to manipulate the machines. From [blinking lights](http://instagram.com/p/cFVNtmJxlc/ "link to video on Instagram") to [Sumo Bot battles](http://nodebots.io/sumo.html "link to Sumo competition rules"), [remote-control cats](http://www.youtube.com/watch?v=6NYyGC-wZKU "link to video on YouTube"), and [bull fighting with quadcopters](https://github.com/substack/matador-copter "code for the Parrot AR Quadricopter")....”
+
+
+### [Cylon](http://cylonjs.com/ "link to site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/cylonjs.png" %}
+
+“Cylon.js is a JavaScript framework for robotics, physical computing, and the Internet of Things. It makes it incredibly easy to command robots and devices.”
+
+
+### [Nodecopter](http://www.nodecopter.com/ "link to site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/nodecopter.png" %}
+
+“NodeCopter.js is a fullday event where 15–60 developers team up in groups of 3.
+
+“Each team receives one Parrot AR Drone 2.0 and spends the day programming and playing with it. At the end of the day, each team gets to present their work to the other attendees.”
+
+
+### [Tessel](https://tessel.io/ "link to site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/tessel.png" %}
+
+“Tessel is a microcontroller that runs JavaScript. It’s Node-compatible and ships with Wifi built in. Use it to easily make physical devices that connect to the web.
+
+“Tessel runs JavaScript — no server necessary. Just like web or mobile development, use your own IDE and libraries to program physical applications. Tessel supports packages from npm — that’s HTTP, Twitter, web server, color, and async support right out of the box.”
+
+
+### [Espruino](http://www.espruino.com/ "link to site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/espruino.png" %}
+
+“While Tessel and Espruino both run JavaScript, they’re very different. Tessel is aimed at internet-connected devices (it’s more like a Raspberry Pi), and Espruino is aimed at low-power devices (more like an Arduino).
+
+“The two areas overlap a lot, but the main differences are: Espruino is a lot cheaper (1/3 of the price), Tessel has more memory, Espruino uses a lot less power so it can run for years on a battery, Tessel is faster, Tessel has WiFi built in (but you can plug WiFi or Ethernet modules into Espruino), and Tessel provides pre-made modules that can be plugged in for certain things — Espruino's emphasis is on using standard hardware that’s available cheaply from a variety of vendors.”
+
+
+<!--  ===============================================================================  -->
+<!--  ===============================================================================  -->
+## Hosting
+
+
+### [DigitalOcean](https://www.digitalocean.com/?refcode=fdcfedac5208 "link to digitalocean.com")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/digitalocean.png" %}
+
+“DigitalOcean is a platform created for developers who need to launch and scale their applications quickly. Additionally, DigitalOcean provides the perfect environment for developers to play around on the command line and learn more about customizing their own servers.
+
+“DigitalOcean is a simple and fast cloud hosting provider built for developers. Customers can create a cloud server in 55 seconds, and pricing plans start at only $5 per month for 512MB of RAM, 20GB SSD, 1 CPU, and 1TB Transfer.”
+
+
+<!--  ===============================================================================  -->
+<!--  ===============================================================================  -->
+## For kids (and people who just love to have fun)
+
+
+### [LearnToMod](http://www.learntomod.com/ "link to site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/learntomod.png" %}
+
+Mod Minecraft with JavaScript: “LearnToMod lets you mod Minecraft with either JavaScript or Blockly — or even a combination of the two. Blockly is accessible to children as young as 8. And JavaScript can be challenging to coders of any age.
+
+“Blockly is a great way to learn deep computer science concepts like if-statements, loops, data types, boolean logic, object-oriented programming, event-driven programming, and more. Once you’ve learned these concepts in Blockly, the only hurdle that remains is to learn the syntax of JavaScript. This is much easier than trying to learn these concepts and the syntax of JavaScript simultaneously.”
+
+
+<!--  ===============================================================================  -->
+<!--  ===============================================================================  -->
+## Twitter (alphabetical order)
+
+
+### [Addy Osmani](https://twitter.com/addyosmani "link to @addyosmani twitter page")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/at-addyosmani.png" %}
+
+App architecture expert, Chrome dev tools champion
+
+@addyosmani: “Engineer at Google working on Chrome, Web &amp; Polymer • Author • Creator of TodoMVC, @Yeoman, Web Starter Kit, grunt-uncss &amp; others • Passionate about web tooling”<br />
+_Tweets: 11.5K, followers: 88.9K_
+
+
+### [Angus Croll](https://twitter.com/angustweets "link to @angustweets twitter page")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/at-angustweets.png" %}
+
+Author, _If Hemingway Wrote JavaScript_
+
+@angustweets: “Literature, JavaScript, Literary JavaScript... Author of IF HEMINGWAY WROTE JAVASCRIPT”<br />
+_Tweets: 4,479, followers: 12K_
+
+
+### [Axel Rauschmayer](https://twitter.com/rauschma "link to @rauschma twitter page")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/at-rauschma.png" %}
+
+ES Next evangelist, author
+
+@rauschma: “JavaScript person: blogger @2ality, trainer @Ecmanauten, organizer @MunichJS. Books (free online): – ES5: http://SpeakingJS.com  – ES6: http://2ality.com/2014/08/es6-today.html”<br />
+_Tweets: 14,7K, followers: 10.4K_
+
+
+### [Brendan Eich](https://twitter.com/BrendanEich "link to @BrendanEich twitter page")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/at-BrendanEich.png" %}
+
+Created JavaScript
+
+@BrendanEich: “Brendan Eich invented JavaScript, co-founded http://mozilla.org , and served as CTO, SVP Eng, and CEO, Mozilla.”<br />
+_Tweets: 14.5K, followers: 36.7K_
+
+
+### [David Nolen](https://twitter.com/swannodette "link to @swannodette twitter page")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/at-swannodette.png" %}
+
+Great functional programming content
+
+@swannodette: “musician, Cognitect, Lisp, JavaScript, Kitchen Table Coders”<br />
+_Tweets: 15K, followers: 10.2K_
+
+
+### [David Herman](https://twitter.com/littlecalculist "link to @littlecalculist twitter page")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/at-littlecalculist.png" %}
+
+Author, _Effective JavaScript_
+
+@littlecalculist: “Programming language propeller-head at Mozilla Research, author of Effective JavaScript (@effectivejs).”<br />
+_Tweets: 15.9K, followers: 9,765_
+
+
+### [EchoJS](https://twitter.com/echojs "link to @echojs twitter page")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/at-echojs.png" %}
+
+News and links
+
+@echojs: “Community-driven news site entirely focused on JavaScript development, HTML5, and front-end news. Maintained by @fcambus.”<br />
+_Tweets: 11.7K, followers: 5,384_
+
+
+### [Eric Elliott](https://twitter.com/_ericelliott "link to @_ericelliott twitter page")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/at-_ericelliott.png" %}
+
+That’s me. O’Reilly author. JavaScript architect. JS Instructor.
+
+@\_ericelliott: “Compassionate entrepreneur on a mission to end homelessness. #jshomes Javascript, tech education, electronic music, photography, film, viral apps.”<br />
+_Tweets: 15.3K, followers: 4,836_
+
+
+### [Jafar Husain](https://twitter.com/jhusain "link to @jhusain twitter page")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/at-jhusain.png" %}
+
+Great talks on RxJS, ES next, etc...
+
+@jhusain<br />
+_Tweets: 356, followers: 1,480_
+
+
+### [James Halliday](https://twitter.com/substack "link to @substack twitter page")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/at-substack.png" %}
+
+aka Substack — author of ~one million~ Node modules you probably use.
+
+@substack: “open source librarian”<br />
+_Tweets: 7,555, followers: 13.3K_
+
+
+### [James Long](https://twitter.com/jlongster "link to @jlongster twitter page")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/at-jlongster.png" %}
+
+CSP, functional programming advocate, Mozilla developer
+
+@jlongster: “Works on Firefox Developer Tools at Mozilla. javascript, node, functional. https://github.com/jlongster”<br /><br />
+_Tweets: 6,143, followers: 2,978_
+
+
+### [JavaScript Cheerleader](https://twitter.com/JS_Cheerleader "link to @JS_Cheerleader twitter page")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/at-JS_Cheerleader.png" %}
+
+Mover &amp; shaker, JavaScript evangelist, documentary film maker
+
+@JS_Cheerleader: “#JavaScript changed my life. I'm a huge fan. Looking for cool JS projects to tweet about. I always loved #geek guys and they never loved me back until now. Yay!”<br />
+_Tweets: 1,470, followers: 875_
+
+
+### [JavaScript Daily](https://twitter.com/JavaScriptDaily "link to @JavaScriptDaily twitter page")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/at-JavaScriptDaily.png" %}
+
+News and links
+
+@JavaScriptDaily: “Daily JavaScript news and links”<br />
+_Tweets: 3,544, followers: 118K_
+
+
+### [Jordan Harband](https://twitter.com/ljharb "link to @ljharb twitter page")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/at-ljharb.png" %}
+
+Keeping us ahead of the JS curve
+
+@ljharb: “software engineer; nerd; gamer; teacher; will try anything once; a surgeon with git rebase. @Twitter, @MobBase. Favorite punctuation: ⸮, fav scent: petrichor”<br />
+_Tweets: 23.3K, followers: 2,414_
+
+
+### [Kyle Simpson](https://twitter.com/getify "link to @getify twitter page")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/at-getify.png" %}
+
+Author, YDKJS — O’Reilly, JS Instructor, open web evangelist
+
+@getify: “All things JavaScript. Open Web Evangelist.” (_see also_ @ydkjs)<br />
+_Tweets: 60.6K, followers: 11.7K_
+
+
+### [Marijn Haverbeke](https://twitter.com/marijnjh "link to @marijnjh twitter page")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/at-marijnjh.png" %}
+
+Author, _Eloquent JavaScript_
+
+@marijnjh: “Prolific coder. Person behind CodeMirror, Eloquent JavaScript, and Tern. Free-lancer.”<br />
+_Tweets: 2,880, followers: 4,002_
+
+
+### [Nicholas C. Zakas](https://twitter.com/slicknet "link to @slicknet twitter page")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/at-slicknet.png" %}
+
+Author, speaker
+
+@slicknet: “Front-end guy at @BoxHQ. Author. Speaker. Philosopher. Boston ex-pat. Lyme disease warrior. Lover of the web.”<br />
+_Tweets: 13.8K, followers: 27.9K_
+
+
+### [Nick Morgan](https://twitter.com/skilldrick "link to @skilldrick twitter page")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/at-skilldrick.png" %}
+
+Author, _JavaScript for Kids_
+
+@skilldrick: “Recovering burrito addict”<br />
+_Tweets: 24.7K, followers: 2,007_
+
+
+### [Paul Irish](https://twitter.com/paul_irish "link to @paul_irish twitter page")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/at-paul_irish.png" %}
+
+Developer evangelist, Chrome dev tools champion
+
+@paul_irish: “The web is awesome • I work on developer productivity for Chrome • Chrome DevTools and front-end tooling • big fan of rye whiskey, research and whimsy”<br />
+_Tweets: 22.7K, followers: 149K_
+
+
+### [Reginald Braithwaite](https://twitter.com/raganwald "link to @raganwald twitter page")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/at-raganwald.png" %}
+
+Author, _JavaScript Allongé_, speaker, GitHub
+
+@raganwald: “Age and treachery will overcome youth and skill. —Fausto Coppi”<br />
+_Tweets: 29K, followers: 10K_
+
+
+### [YDKJS](https://twitter.com/ydkjs "link to @ydkjs twitter page")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/at-ydkjs.png" %}
+
+_You Don't Know JS_, O’Reilly book series by Kyle Simpson
+
+@ydkjs (_see also_ @getify)<br />
+_Tweets: 746, followers: 2,121_
+
+
+<p>&nbsp;</p>
+<hr />
+
+For those who want to make use of this content, it is also published as a gist at <a href="https://gist.github.com/rsperberg/ed44613269be4b1eff79" title="link to gist">gist.github.com/rsperberg/ed44613269be4b1eff79</a>.
 
 
 <p>&nbsp; </p>
 
-<small><a href="https://www.flickr.com/photos/pbekesi/392765048" style="text-decoration:none;">Photo</a> by Peter Békési, <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0)</a></small>
+<small><a href="https://www.flickr.com/photos/pbekesi/392765048" style="text-decoration:none;">Photo</a> of parrot by <a href="https://www.flickr.com/photos/pbekesi/" title="link to Peter Békési Flickr page">Peter Békési</a> (<a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0</a>)</small>
 
 <!--  small><a href="https://www.flickr.com/photos/gopalarathnam_v/48653786" style="text-decoration:none;">Photo</a> by Gopal Venkatesan, <em>Parrots - Jurong Bird Park</em>, <a href="https://creativecommons.org/licenses/by/2.0/">cc by 2.0</a></small  -->
 
