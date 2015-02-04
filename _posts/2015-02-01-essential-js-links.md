@@ -7,7 +7,7 @@ image:
       url: /media/2015-02-01-essential-js-links/cover.jpg
 video: false
 ---
-There is a ton of learning material about JavaScript on the web,  and as a developer looking to achieve “mastery” in JavaScript, AngularJS and famo.us, I have buried myself under the weight of it, not always able to discern difficult-to-grasp concepts from inept explanations written by, well, parrots. (Who are these parrots? Facile developers who quickly picked up some framework — _I’m looking at you, Angular_ — and who by way of explanation merely mouth the words others taught them without clarifying _why_ something different is different or whether that difference is significant or not).
+<p><img src="/media/2015-02-01-essential-js-links/no-parrots-240.png" width="240px" style="float:left;" />There is a ton of learning material about JavaScript on the web,  and as a developer looking to achieve “mastery” in JavaScript, AngularJS and famo.us, I have buried myself under the weight of it, not always able to discern difficult-to-grasp concepts from inept explanations written by, well, parrots. (Who are these parrots? Facile developers who quickly picked up some framework — _I’m looking at you, Angular_ — and who by way of explanation merely mouth the words others taught them without clarifying _why_ something different is different or whether that difference is significant or not).</p>
 
 Of course, my catholic intake of everything Angulared and JavaScripty has led me to lists curated by my elders, the first of which I present here. By “present” I actually mean _re-_present because this list of essential JavaScript links from Eric Elliott was posted as a GitHub gist by Elliott and is not only [still there](https://gist.github.com/ericelliott/d576f72441fc1b27dace title="link to Eric Elliott gist"), it regularly acquires fresh items.
 
@@ -90,7 +90,7 @@ _By Andre Medeiros. Published at Futurice on November 2, 2014_
 “Reactive programming is programming with asynchronous data streams.
 
 “In a way, this isn’t anything new. Event buses or your typical click events are really an asynchronous event stream, on which you can observe and do some side effects. Reactive is that idea on steroids. You are able to create data streams of anything, not just from click and hover events. Streams are cheap and ubiquitous, anything can be a stream: variables, user inputs, properties, caches, data structures, etc. For example, imagine your Twitter feed would be a data stream in the same fashion that click events are. You can listen to that stream and react accordingly.” <br />
-_By André Staltz. &nbsp;<span class="octicon octicon-star"></span>star:&nbsp;3,101 &nbsp;<span class="octicon octicon-repo-forked"></span>fork:&nbsp;282_
+_By André Staltz. <span class="octicon octicon-star"></span>star:&nbsp;3,101 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;282_
 
 
 ### [A General Theory of Reactivity](https://github.com/kriskowal/gtor "link to post")
@@ -100,7 +100,7 @@ _By André Staltz. &nbsp;<span class="octicon octicon-star"></span>star:&nbsp;3,
 What is all this talk about reactive? Functional? Promises? This is the beginning of a reactive programming bible. “In the context of a computer program, reactivity is the process of receiving external stimuli and propagating events. This is a rather broad definition that covers a wide variety of topics. The term is usually reserved for systems that respond in turns to sensors, schedules, and above all, problems that exist between the chair and keyboard....
 
 “[V]arious minds in the field of reactivity have been converging on a model that unifies at least promises and observables.” <br />
-_By Kris Kowal. First posted at github on August 9, 2014. 5 contributors &nbsp;<span class="octicon octicon-star"></span>star:&nbsp;401 &nbsp;<span class="octicon octicon-repo-forked"></span>fork:&nbsp;12_
+_By Kris Kowal. First posted at github on August 9, 2014. 5 contributors <span class="octicon octicon-star"></span>star:&nbsp;401 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;12_
 
 
 ### [ES6 Generators](http://davidwalsh.name/es6-generators "link to post")
@@ -277,17 +277,114 @@ _By Mike Cantelon, Marc Harter, T.J. Holowaychuk and Nathan Rajlich. Published b
 “An epic saga of technological advance that spans the history of modern computers from the Second World War to the explosion of creativity at Xerox PARC in the 1970s to the personal computer boom of the 1980s and the Internet boom of the 1990s.” <br />
 _By M. Mitchell Waldrop. Published on August 27, 2001 by Viking (and in paperback in 2002 by Penguin)_
 
+## Dev tools & collaboration
+
+
+### [nvm](https://github.com/creationix/nvm "link to github site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/nvm.png" %}
+
+**First install this...** “Simple bash script to manage multiple active node.js versions.”<br />
+_Project of Tim Caswell. 105 contributors <span class="octicon octicon-star"></span>star:&nbsp;5,290 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;565_
+
+### [Node](http://nodejs.org/ "link to nodejs.org website")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/nodejs-org.png" %}
+
+**Then install Node (with nvm).** You'll need this even if you're a front-end dev.<br />
+_583&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;34,408 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;7,665_
+
+
+### [npm](https://www.npmjs.com/ "link to npmjs.org")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/npmjs.png" %}
+
+**Install lots of other things with npm**,  _the_ package manager for JavaScript. Comes with Node. “npm makes it easy for JavaScript developers to share and reuse code, and it makes it easy to update the code that you're sharing.”<br />
+_222&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;5,456 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;1,086_
+
+
+### [Sublime Text 3](http://www.sublimetext.com/3 "link to info about ST3")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/sublime-text2.png" %}
+
+“Sublime Text is a sophisticated text editor for code, markup and prose, [with a] slick user interface, extraordinary features and amazing performance.” ST3 was first released in beta in January 2013.<br />
+_ST is developed by Jon Skinner._
+
+
+### [Node Inspector](https://github.com/node-inspector/node-inspector "link to GitHub site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/node-inspector.png" %}
+
+Debug Node code with the Chrome debug tools, e.g., “a debugger interface for Node.js applications that uses the Blink Developer Tools (formerly WebKit Web Inspector).”<br />
+_Project maintenance and support sponsored by <a href="http://strongloop.com/" title="link to strongloop.com">StrongLoop</a>. 38&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;6,127 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;405_
+
+
+### [TraceGL](https://github.com/traceglMPL/tracegl "link to GitHub site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/traceGL.png" %}
+
+Powerful runtime analysis of live JavaScript code. “traceGL transforms your JavaScript, injecting monitoring code that produces a log of everything that happens. This log is streamed from the target (node or browser), via the traceGL node.js process to the UI for visualisation. The UI tries to display the resulting huge amount of information fast, and uses webGL to render everything.”<br />
+_<span class="octicon octicon-star"></span>star:&nbsp;216 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;29_
+
+
+### [Tern](http://ternjs.net/ "link to Tern site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/ternjs.png" %}
+
+Static analysis in JavaScript. “Tern is a stand-alone code-analysis engine for JavaScript. It is intended to be used with a code editor plugin to enhance the editor's support for intelligent JavaScript editing. Features include autocompletion of variables and properties and function argument hints.... Tern is capable of running both on node.js and in the browser.”<br />
+_Project maintained by Marijn Haverbeke. 46&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;1,590 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;146_
+
+
+### [JSDoc](http://usejsdoc.org/ "link to usejsdoc.org/")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/jsdoc.png" %}
+
+Pair with <a href="http://ternjs.net/" rel="noreferrer" title="link to Tern site">Tern</a> for static analysis. “JSDoc 3 is an API documentation generator for JavaScript, similar to JavaDoc or PHPDoc. You add documentation comments directly to your source code, right alongside the code itself. The JSDoc Tool will scan your source code and generate a complete HTML documentation website for you.”<br />
+_52&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;2,673 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;428_
+
+
+### [Nitrous.IO](https://www.nitrous.io/join/uJcRo6yQDvs?utm_source=nitrous.io&amp;utm_medium=copypaste&amp;utm_campaign=referral "link to nitrous.io site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/nitrous.png" %}
+
+(Supports live collaboration / pair programming) “Nitrous is a backend development platform which helps software developers save time by cutting out the repetitive parts of creating development environments and automating them.”
+
+
+### [Slack](https://slack.com/ "link to slack site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/slack.png" %}
+
+Chat for teams, with GitHub and Google hangouts integration. (For hangouts, just type /hangout in any channel.) “Slack is a platform for team communication: everything in one place, instantly searchable, available wherever you go.”
+
+
+### [PrettyDiff](http://prettydiff.com/ "link to prettydiff site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/prettydiff.png" %}
+
+“This tool was originally created to compare minified code by attaching a beautifier and minifier to a file comparison tool. Over the years it has grown into custom language parsers capable of performing a variety of language analysis. This application is 100% vanilla JavaScript and is API independent.”<br />
+_3&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;275 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;31_
+
+
+### [ES6 Fiddle](http://www.es6fiddle.net/ "link to es6fiddle site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/es6fiddle.png" %}
+
+“Fiddlin' with ECMAScript6.” Includes sample code illustrating these ES6 aspects: arrow functions, block scope, classes and inheritance, default parameters, destructured assignment, generators, iterators, map, promises, rest parameters, set, spread operator and template literals.<br />
+_A project of Jeff McRiffey. 2&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;31 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;6_
+
 
 
 
 
 <p>&nbsp; </p>
 
-<small><a href="https://www.flickr.com/photos/gopalarathnam_v/48653786" style="text-decoration:none;">Photo</a> by Gopal Venkatesan, <em>Parrots - Jurong Bird Park</em>, <a href="https://creativecommons.org/licenses/by/2.0/">cc by 2.0</a></small>
+<small><a href="https://www.flickr.com/photos/pbekesi/392765048" style="text-decoration:none;">Photo</a> by Peter Békési, <em>Parrots - Jurong Bird Park</em>, <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0)</a></small>
+
+<!--  small><a href="https://www.flickr.com/photos/gopalarathnam_v/48653786" style="text-decoration:none;">Photo</a> by Gopal Venkatesan, <em>Parrots - Jurong Bird Park</em>, <a href="https://creativecommons.org/licenses/by/2.0/">cc by 2.0</a></small  -->
 
 <!-- a href="https://gist.github.com/ericelliott/d576f72441fc1b27dace" title="link to Eric Elliott gist"><img width="480px" src="https://raw.githubusercontent.com/rsperberg/dev-ref/master/javascript/auxi/pix/essential/elliott-essential-js-links-gist.png" /></a  -->
 
 <!--
 {% include image.html url="media/2015-02-01-essential-js-links/cover.jpg" width="100%" description="No parrots!" %}
 -->
-
+<!-- Peter Békési 2007-0204  Attribution-NonCommercial-ShareAlike 2.0 Generic (CC BY-NC-SA 2.0) https://www.flickr.com/photos/pbekesi/392765048  -->
