@@ -190,7 +190,7 @@
 .octicon-repo-clone:before { content: '\f04c'} /*  */
 .octicon-repo-force-push:before { content: '\f04a'} /*  */
 .octicon-gist-fork:before,
-.octicon-repo-forked:before { content: '\f002'} /*  */
+.octicon-repo-forked:before { content: '\00a0\f002\00a0'} /*  */
 .octicon-repo-pull:before { content: '\f006'} /*  */
 .octicon-repo-push:before { content: '\f005'} /*  */
 .octicon-rocket:before { content: '\f033'} /*  */
@@ -210,7 +210,7 @@
 .octicon-squirrel:before { content: '\f0b2'} /*  */
 .octicon-star-add:before,
 .octicon-star-delete:before,
-.octicon-star:before { content: '\f02a'} /*  */
+.octicon-star:before { content: '\00a0\f02a\00a0'} /*  */
 .octicon-steps:before { content: '\f0c7'} /*  */
 .octicon-stop:before { content: '\f08f'} /*  */
 .octicon-repo-sync:before,
@@ -233,3 +233,6 @@
 .octicon-remove-close:before,
 .octicon-x:before { content: '\f081'} /*  */
 .octicon-zap:before { content: '\26A1'} /* ⚡ */
+
+
+
