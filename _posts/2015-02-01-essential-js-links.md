@@ -184,6 +184,100 @@ Most-recent draft of the ECMAScript 6 specification. <br />
 _Version: Rev 31, January 15, 2014_
 
 
+## Books
+
+### [JavaScript for Kids](http://www.amazon.com/gp/product/B00QL616QE?ie=UTF8&amp;camp=213733&amp;creative=393177&amp;creativeASIN=B00QL616QE&amp;linkCode=shr&amp;tag=ericleads-20&amp;linkId=6AOODC27L6URY3K2 "link to Amazon page for this book")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/js-kids-combo.png" %}
+
+Subtitled _A Playful Introduction to Programming_.  “A lighthearted introduction that teaches programming essentials through patient, step-by-step examples paired with funny illustrations.... Along the way, you’ll write games such as Find the Buried Treasure, Hangman, and Snake.... With visual examples like bouncing balls, animated bees, and racing cars, you can really see what you’re programming. Ages 10+” <br />
+_By Nick Morgan. Published by No Starch Press in December 2014. ISBN: 978-1-59327-408-5. 336 pages_
+
+
+### [Effective JavaScript](http://www.amazon.com/gp/product/0321812182?ie=UTF8&amp;camp=213733&amp;creative=393185&amp;creativeASIN=0321812182&amp;linkCode=shr&amp;tag=ericleads-20&amp;linkId=JIC63I267I6UDQQZ "link to Amazon page for this book")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/effectivejs.png" %}
+
+Subtitled _68 Specific Ways to Harness the Power of JavaScript_. Uses a “scenario-driven style ... to explain the important concepts in JavaScript.” <br />
+_By David Herman. Published by Pearson on December 6, 2012. ISBN-13: 978-0321812186. 200 pages_
+
+
+### [Eloquent JavaScript](http://eloquentjavascript.net/ "link to version online")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/eloquent-js.png" %}
+
+Free online edition.
+
+“To some of us, writing computer programs is a fascinating game. A program is a building of thought. It is costless to build, it is weightless, and it grows easily under our typing hands.
+
+“But without care, a program’s size and complexity will grow out of control, confusing even the person who created it. Keeping programs under control is the main problem of programming. When a program works, it is beautiful. The art of programming is the skill of controlling complexity. The great program is subdued, made simple in its complexity.” <br />
+_By Marijn Haverbeke. Published by No Starch Press in December 2014. ISBN: 978-1-59327-584-6. 472 pages_
+
+
+### [JavaScript: The Good Parts](http://www.amazon.com/gp/product/0596517742?ie=UTF8&amp;camp=213733&amp;creative=393185&amp;creativeASIN=0596517742&amp;linkCode=shr&amp;tag=ericleads-20&amp;linkId=IJKESYSOTWGC27DR "link to Amazon page for this book")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/js-good-parts.png" %}
+
+“Crockford identifies the abundance of good ideas that make JavaScript an outstanding object-oriented programming language-ideas such as functions, loose typing, dynamic objects, and an expressive object literal notation. Unfortunately, these good ideas are mixed in with bad and downright awful ideas, like a programming model based on global variables.” <br />
+_By Douglas Crockford. Published in May, 2008. ISBN13: 978-0596517748. 172 pages_
+
+
+### [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262 "link to version online")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/programming-js-apps.png" %}
+
+Free online edition.
+
+“In the real world, JavaScript applications are fragile, and when you change them things often break. Author Eric Elliott shows you how to add features without creating bugs or negatively impacting the rest of your code during the course of building a large JavaScript application.” <br />
+_By Eric Elliott. Published by O’Reilly on June 22, 2014. ISBN13: 9781449320942. 300 pages_
+
+
+### [JavaScript: The Definitive Guide](http://www.amazon.com/gp/product/0596805527?ie=UTF8&amp;camp=213733&amp;creative=393185&amp;creativeASIN=0596805527&amp;linkCode=shr&amp;tag=ericleads-20&amp;linkId=AENIF5KLRQI3N335 "link to Amazon page for this book")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/js-definitive-guide.png" %}
+
+“A programmer’s guide and comprehensive reference to the core language and to the client-side JavaScript APIs defined by web browsers.... Covers HTML5 and ECMAScript 5.” <br />
+_By David Flanagan. Sixth edition published by O’Reilly on May 13, 2011. ISBN: 9780596805531. 1096 pages_
+
+
+### [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS "link to Github page for this series")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/You-Dont-Know-JS.png" %}
+
+Prerelease (unedited) versions available at Github.
+
+“Books in the _You Don’t Know JS_ series dive into trickier parts of the language that many JavaScript programmers simply avoid. Armed with this knowledge, you can achieve true JavaScript mastery.” <br />
+_By Kyle Simpson. Published By O'Reilly. ‘Scope &amp; Closures,’ published in March 2014, print ISBN: 978-1-4493-3558-8, 98 pages.  ‘this &amp; Object Prototypes,’ July 2014, print ISBN:978-1-4919-0415-2, 174 pages. ‘Types &amp; Grammar,’ to be published in February 2015, print ISBN:978-1-4919-0419-0, 198 pages_
+
+
+### [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/ "link to LeanPub text for this book")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/understanding-ecmascript6.png" %}
+
+Free to read online.
+
+“ECMAScript 6 represents the biggest change to the core of JavaScript in the history of the language. Not only does the sixth edition add new object types, but also new syntax and exciting new capabilities. The result of years of study and debate, ECMAScript 6 reached feature complete status in 2014. While it will take a bit of time before all JavaScript environments support ECMAScript 6, it's still useful to understand what's coming and which features are available already.
+
+“This book is a guide for the transition between ECMAScript 5 and 6. It is not specific to any JavaScript environment, so it is equally useful to web developers as it is Node.js developers.” <br />
+_By Nicholas C. Zakas. Published by LeanPub. 30 percent complete in January 2015_
+
+
+### [Node.js in Action](http://www.manning.com/cantelon/ "link to Manning page for this book")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/node-js-in-action.png" %}
+
+“Dive into asynchronous programming, data storage, and output templating, and interact with the filesystem to create non-HTTP applications like TCP/IP servers and command-line tools. ... Requires basic knowledge of JavaScript.” <br />
+_By Mike Cantelon, Marc Harter, T.J. Holowaychuk and Nathan Rajlich. Published by Manning on November 28, 2013. ISBN-13: 978-1617290572. 395 pages_
+
+
+### [The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal](http://www.amazon.com/gp/product/0670899763?ie=UTF8&amp;camp=213733&amp;creative=393177&amp;creativeASIN=0670899763&amp;linkCode=shr&amp;tag=ericleads-20&amp;linkId=NDUXYQOCMPC47SQI "link to Amazon page for this book")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/the-dream-machine.png" %}
+
+“An epic saga of technological advance that spans the history of modern computers from the Second World War to the explosion of creativity at Xerox PARC in the 1970s to the personal computer boom of the 1980s and the Internet boom of the 1990s.” <br />
+_By M. Mitchell Waldrop. Published on August 27, 2001 by Viking (and in paperback in 2002 by Penguin)_
+
+
 
 
 
