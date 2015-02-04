@@ -1265,7 +1265,7 @@ For those who want to make use of this content, it is also published as a gist a
 
 <p>&nbsp; </p>
 
-<small><a href="https://www.flickr.com/photos/pbekesi/392765048" style="text-decoration:none;">Photo</a> of parrot by <a href="https://www.flickr.com/photos/pbekesi/" title="link to Peter Békési Flickr page">Peter Békési</a> (<a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0</a>)</small>
+<small><a href="https://www.flickr.com/photos/pbekesi/2334916247" style="text-decoration:none;">Photo</a> of parrot by <a href="https://www.flickr.com/photos/pbekesi/" title="link to Peter Békési Flickr page">Peter Békési</a> (<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>). The image has been flopped for presentation purposes.</small>
 
 <!--  small><a href="https://www.flickr.com/photos/gopalarathnam_v/48653786" style="text-decoration:none;">Photo</a> by Gopal Venkatesan, <em>Parrots - Jurong Bird Park</em>, <a href="https://creativecommons.org/licenses/by/2.0/">cc by 2.0</a></small  -->
 
