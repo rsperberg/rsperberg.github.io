@@ -7,13 +7,15 @@ image:
       url: /media/2015-02-01-essential-js-links/cover.jpg
 video: false
 ---
-<p><img src="/media/2015-02-01-essential-js-links/no-parrots-240.png" width="240px" style="float:left;" />There is a ton of learning material about JavaScript on the web,  and as a developer looking to achieve “mastery” in JavaScript, AngularJS and famo.us, I have buried myself under the weight of it, not always able to discern difficult-to-grasp concepts from inept explanations written by, well, parrots. (Who are these parrots? Facile developers who quickly picked up some framework — _I’m looking at you, Angular_ — and who by way of explanation merely mouth the words others taught them without clarifying _why_ something different is different or whether that difference is significant or not).</p>
+<p><img src="/media/2015-02-01-essential-js-links/no-parrots-240.png" width="240px" style="float:left;" />There is a ton of learning material about JavaScript on the web,  and as a developer looking to achieve “mastery” in JavaScript, AngularJS and famo.us, I have buried myself under the weight of it, not always able to discern difficult-to-grasp concepts from inept explanations written by, well, parrots. (Who are these parrots? Facile developers who quickly picked up some framework — <i>I’m looking at you, Angular</i> — and who by way of explanation merely mouth the words others taught them without clarifying <i>why</i> something different is different or whether that difference is significant or not).</p>
 
 Of course, my catholic intake of everything Angulared and JavaScripty has led me to lists curated by my elders, the first of which I present here. By “present” I actually mean _re-_present because this list of essential JavaScript links from Eric Elliott was posted as a GitHub gist by Elliott and is not only [still there](https://gist.github.com/ericelliott/d576f72441fc1b27dace title="link to Eric Elliott gist"), it regularly acquires fresh items.
 
 I lack the credentials to dispute Elliott’s choices or to supplement them, but I hope my _re-_presentation is valuable by the addition of my own obsessive labors providing visuals of each link presented and a short summary or description that the site itself provides.
 
-Elliott’s gist list is quickly scanned, despite its length (134 items at the end of January 2015). My bulky rendition is not. Rather the goal is to enable a quicker decision as to which resources to explore first by providing some sense of what each one is about. &nbsp; *—Roger Sperberg*
+Elliott’s gist list is quickly scanned, despite its length (134 items at the end of January 2015). My bulky rendition is not. Rather the goal is to enable a quicker decision as to which resources to explore first by providing some sense of what each one is about.
+
+Thanks to Eric Elliott for pointing out what sites we should be paying attention to. &nbsp; *—Roger Sperberg*
 
 <p>&nbsp; </p>
 
