@@ -90,7 +90,7 @@ _By Andre Medeiros. Published at Futurice on November 2, 2014_
 “Reactive programming is programming with asynchronous data streams.
 
 “In a way, this isn’t anything new. Event buses or your typical click events are really an asynchronous event stream, on which you can observe and do some side effects. Reactive is that idea on steroids. You are able to create data streams of anything, not just from click and hover events. Streams are cheap and ubiquitous, anything can be a stream: variables, user inputs, properties, caches, data structures, etc. For example, imagine your Twitter feed would be a data stream in the same fashion that click events are. You can listen to that stream and react accordingly.” <br />
-_By André Staltz. &nbsp;<img src="/media/2015-02-01-essential-js-links/star-32.png" width="20px" />star:&nbsp;3,101 &nbsp;<img src="/media/2015-02-01-essential-js-links/repo-forked-24.png" width="16px" />fork:&nbsp;282_
+_By André Staltz. &nbsp;<span class="octicon octicon-star"></span>star:&nbsp;3,101 &nbsp;<span class="octicon octicon-repo-forked"></span>fork:&nbsp;282_
 
 
 ### [A General Theory of Reactivity](https://github.com/kriskowal/gtor "link to post")
@@ -165,6 +165,24 @@ _By David Nolen. Delivered at JSConf. Published on Jul 1, 2014. 5,168 views_
 
 One of the most important but overlooked topics in the development world today — page load times. <br />
 _Keynote by Paul Irish. Delivered at Fluent 2014. Published on March 13, 2014. 35,085 views_
+
+
+## Spec
+
+### [ES5 Spec](http://es5.github.io/ "link to ES5 spec")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/annotated-es5.png"  %}
+
+An annotated, hyperlinked version of the ES5 spec
+
+
+### [ES6 draft](https://people.mozilla.org/%7Ejorendorff/es6-draft.html "link to draft spec")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/annotated-es6.png" %}
+
+Most-recent draft of the ECMAScript 6 specification. <br />
+_Version: Rev 31, January 15, 2014_
+
 
 
 
