@@ -1,4 +1,4 @@
-<a name="heading"></a>---
+---
 layout: post
 title: Eric Elliott’s essential JavaScript links or The way of the parrot, not
 post_author: Roger Sperberg
@@ -641,6 +641,19 @@ _A project of Kyle Simpson. <span class="octicon octicon-star"></span>star:&nbsp
 
 A <a href="https://fetch.spec.whatwg.org/" rel="noreferrer">WHATWG fetch</a> standard polyfill <br />
 _By Matt Andrews. 3 contributors <span class="octicon octicon-star"></span>star:&nbsp;32 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;3_
+
+
+### [sseasy](https://github.com/heroku/sseasy"link to GitHub site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/name.png" %}
+
+Server Sent Events for Node (HTML5 standard push notifications).
+
+### [EventSource browser Polyfill](https://github.com/Yaffle/EventSource/ "link to GitHub site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/name.png" %}
+
+Required client-side patching to support Server Sent Events.
 
 
 ### [jQuery](http://jquery.com/ "link to jQuery site")
