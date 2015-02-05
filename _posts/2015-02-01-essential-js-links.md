@@ -643,17 +643,21 @@ A <a href="https://fetch.spec.whatwg.org/" rel="noreferrer">WHATWG fetch</a> sta
 _By Matt Andrews. 3 contributors <span class="octicon octicon-star"></span>star:&nbsp;32 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;3_
 
 
-### [sseasy](https://github.com/heroku/sseasy"link to GitHub site")
+### [sseasy](https://github.com/heroku/sseasy "link to GitHub site")
 
-{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/name.png" %}
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/sseasy.png" %}
 
-Server Sent Events for Node (HTML5 standard push notifications).
+Server Sent Events for Node (HTML5 standard push notifications). “Server-sent events middleware for [Connect](https://github.com/senchalabs/connect "link to Connect, a middleware layer for Node") & [Express](http://expressjs.com/ "link to expressjs site").
+
+“All messages in a single connection are sent with incrementing IDs. If the client passes an ID in a <code>last-event-id</code> header, the middleware ignores messages until that ID is reached.”<br />
+_A project of Heroku. <span class="octicon octicon-star"></span>star:&nbsp;3 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;1_
 
 ### [EventSource browser Polyfill](https://github.com/Yaffle/EventSource/ "link to GitHub site")
 
-{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/name.png" %}
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/eventsource-polyfill.png" %}
 
-Required client-side patching to support Server Sent Events.
+Required client-side patching to support Server Sent Events. “A polyfill for http://www.w3.org/TR/eventsource/”<br />
+_A project of Yaffle. 7 contributors <span class="octicon octicon-star"></span>star:&nbsp;557 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;78_
 
 
 ### [jQuery](http://jquery.com/ "link to jQuery site")
