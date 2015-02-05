@@ -1,4 +1,4 @@
----
+<a name="heading"></a>---
 layout: post
 title: Eric Elliott’s essential JavaScript links or The way of the parrot, not
 post_author: Roger Sperberg
@@ -151,9 +151,16 @@ _By James Long. Posted on September 08, 2014_
 _By Axel Rauschmayer. Published at 2ality.com on September 7, 2014_
 
 
+
+
+
+<!--  ===============================================================================  -->
+<!--  ===============================================================================  -->
+
+
 ## <a name="required-viewing"></a>Required Viewing
 
-### [Classical Inheritance is Obsolete: How to Think in Prototypal OO](https://vimeo.com/69255635)
+### [Classical Inheritance is Obsolete: How to Think in Prototypal OO](https://vimeo.com/69255635 "link to video on vimeo")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/name.png" %}
 
@@ -213,6 +220,11 @@ An annotated, hyperlinked version of the ES5 spec
 Most-recent draft of the ECMAScript 6 specification. <br />
 _Version: Rev 31, January 15, 2014_
 
+
+
+
+<!--  ===============================================================================  -->
+<!--  ===============================================================================  -->
 
 ## <a name="books"></a>Books
 
@@ -306,6 +318,12 @@ _By Mike Cantelon, Marc Harter, T.J. Holowaychuk and Nathan Rajlich. Published b
 
 “An epic saga of technological advance that spans the history of modern computers from the Second World War to the explosion of creativity at Xerox PARC in the 1970s to the personal computer boom of the 1980s and the Internet boom of the 1990s.” <br />
 _By M. Mitchell Waldrop. Published on August 27, 2001 by Viking (and in paperback in 2002 by Penguin)_
+
+
+
+
+<!--  ===============================================================================  -->
+<!--  ===============================================================================  -->
 
 ## <a name="dev-tools-collaboration"></a>Dev tools & collaboration
 
@@ -402,6 +420,12 @@ _3&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;275 <s
 “Fiddlin' with ECMAScript6.” Includes sample code illustrating these ES6 aspects: arrow functions, block scope, classes and inheritance, default parameters, destructured assignment, generators, iterators, map, promises, rest parameters, set, spread operator and template literals.<br />
 _A project of Jeff McRiffey. 2&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;31 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;6_
 
+
+
+
+<!--  ===============================================================================  -->
+<!--  ===============================================================================  -->
+
 ## <a name="building"></a>Building
 
 ###[Browserify](http://browserify.org/ "link to post")
@@ -425,6 +449,8 @@ _Project of James Halliday. 133 contributors <span class="octicon octicon-star">
 “npm has a great subset of functionality dedicated to running tasks to facilitate in a packages lifecycle — in other words, it is a great tool for build scripts.” <br />
 _By Keith Cirkel. Posted on December 9, 2014_
 
+
+<!--  ===============================================================================  -->
 
 ### <a name="lint-quality-checkers"></a>Lint / Quality checkers
 
@@ -473,7 +499,7 @@ _A project of James Halliday. 23 contributors <span class="octicon octicon-star"
 Use tape and faucet for dead simple unit testing.  Faucet is a “human-readable TAP summarizer” <br />
 _A project of James Halliday. 2 contributors <span class="octicon octicon-star"></span>star:&nbsp;173 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;3_
 
-### [Nightwatch](http://nightwatchjs.org/) 
+### [Nightwatch](http://nightwatchjs.org/ "link to nightwatchjs.org")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/nightwatch.png" %}
 
@@ -481,6 +507,9 @@ Dead simple integration testing with Selenium: “Nightwatch.js is an easy-to-us
 
 “It uses the powerful Selenium WebDriver API to perform commands and assertions on DOM elements.”<br />
 _A project of Andrei Rusu. 28 contributors <span class="octicon octicon-star"></span>star:&nbsp;2,530 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;180_
+
+
+<!--  ===============================================================================  -->
 
 ### <a name="transpilers"></a>Transpilers
 
@@ -526,6 +555,11 @@ _A project of Addy Osmani. 26 contributors <span class="octicon octicon-star"></
 
 
 
+
+<!--  ===============================================================================  -->
+<!--  ===============================================================================  -->
+
+
 ## <a name="javascript-environments"></a>JavaScript environments
 
 ### [Node](http://nodejs.org/ "link to nodejs.org website")
@@ -551,6 +585,11 @@ The Node fork.
 _626 contributors <span class="octicon octicon-star"></span>star:&nbsp;9,054 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;526_
 
 
+
+
+<!--  ===============================================================================  -->
+<!--  ===============================================================================  -->
+
 ## <a name="libraries"></a>Libraries
 
 ### [es5-shim](https://github.com/es-shims/es5-shim "link to GitHub site")
@@ -575,13 +614,13 @@ _29 contributors <span class="octicon octicon-star"></span>star:&nbsp;42 <span c
 
 “es7-shim.js exports an object that contains shims that can be used to monkeypatch a JavaScript context to contain all ECMAScript 7 methods that can be faithfully emulated with a legacy JavaScript engine.” Experimental. Use with caution.
 
-### [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills) 
+### [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills "link to Modernizr GitHub wiki page on HTML5 cross-browser polyfills")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/name.png" %}
 
 A fairly comprehensive list of HTML5 API polyfills.
 
-### [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate "link to GitHub site") 
+### [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate "link to GitHub site")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/name.png" %}
 
@@ -695,6 +734,12 @@ Great for model validations: “JSON Schema describes your JSON data format.”<
 _12&nbsp;contributors (at github.com/json-schema)<span class="octicon octicon-star"></span>star:&nbsp;438 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;95_
 
 
+
+
+
+<!--  ===============================================================================  -->
+<!--  ===============================================================================  -->
+
 ## <a name="web-components"></a>Web Components
 
 
@@ -769,6 +814,12 @@ This web component wins the internet: “<code>&lt;x-gif></code> is a web compon
 _A project of Glen Maddern. 4&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;1,502 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;71_
 
 
+
+
+
+<!--  ===============================================================================  -->
+<!--  ===============================================================================  -->
+
 ## <a name="qa-deployment-monitoring-ci"></a>QA / Deployment / Monitoring / CI
 
 
@@ -827,6 +878,10 @@ Docker-based hosted build / CI.
 
 
 
+
+<!--  ===============================================================================  -->
+<!--  ===============================================================================  -->
+
 ## <a name="community"></a>Community
 
 
@@ -878,6 +933,12 @@ irc://irc.freenode.net/node.js
 
 irc://irc.freenode.net/io.js — the Node fork
 
+
+
+
+
+<!--  ===============================================================================  -->
+<!--  ===============================================================================  -->
 
 ## <a name="news"></a>News
 
