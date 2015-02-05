@@ -23,7 +23,7 @@ So herewith I offer thanks to Eric Elliott for pointing out what sites we should
 
 <hr />
 
-_PS: If you wish know of other valuable JavaScript resources, please suggest them at the original [source gist](https://gist.github.com/ericelliott/d576f72441fc1b27dace title="link to Eric Elliott gist"). I will endeavor to keep this annotated list in sync with it._
+_PS: If you know of other valuable JavaScript resources, please suggest them at the original [source gist](https://gist.github.com/ericelliott/d576f72441fc1b27dace title="link to Eric Elliott gist"). I will endeavor to keep this annotated list in sync with it._
 
 <p>&nbsp; </p>
 
