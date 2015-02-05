@@ -27,7 +27,7 @@ _PS: If you know of other valuable JavaScript resources, please suggest them at 
 
 <p>&nbsp; </p>
 
-## Required Reading (Online resources)
+## <a name="required-reading-online-resources"></a>Required Reading (Online resources)
 
 ### [Learn JavaScript Essentials (for all skill levels)](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2 "link to article at medium.com")
 
@@ -151,7 +151,14 @@ _By James Long. Posted on September 08, 2014_
 _By Axel Rauschmayer. Published at 2ality.com on September 7, 2014_
 
 
-## Required Viewing
+## <a name="required-viewing"></a>Required Viewing
+
+### [Classical Inheritance is Obsolete: How to Think in Prototypal OO](https://vimeo.com/69255635)
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/name.png" %}
+
+by [Eric Elliott](https://twitter.com/_ericelliott "link to @\_ericelliott twitter page")
+
 ### [Asynchronous Programming at Netflix](https://www.youtube.com/watch?v=gawmdhCNy-A "link to talk on YouTube") — [Jafar Husain](https://twitter.com/jhusain" "link to Jafar Husain on Twitter")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/asynchronous-programming.png" %}
@@ -176,8 +183,21 @@ _By David Nolen. Delivered at JSConf. Published on July 1, 2014. 5,168&nbsp;view
 One of the most important but overlooked topics in the development world today — page load times. <br />
 _Keynote by Paul Irish. Delivered at Fluent 2014. Published on March&nbsp;13, 2014. 35,085&nbsp;views_
 
+### [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI&list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr "link to YouTube video")
 
-## Spec
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/name.png" %}
+
+by [Lee Byron](https://twitter.com/leeb "link to @leeb twitter page")
+
+
+### [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0 "link to YouTube video")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/name.png" %}
+
+A later version of the influential talk "Simple Made Easy" by [Rich Hickey](https://twitter.com/richhickey "link to @richhickey twitter page")
+
+
+## <a name="spec"></a>Spec
 
 ### [ES5 Spec](http://es5.github.io/ "link to ES5 spec")
 
@@ -194,9 +214,9 @@ Most-recent draft of the ECMAScript 6 specification. <br />
 _Version: Rev 31, January 15, 2014_
 
 
-## Books
+## <a name="books"></a>Books
 
-### [JavaScript for Kids](http://www.amazon.com/gp/product/B00QL616QE?ie=UTF8&amp;camp=213733&amp;creative=393177&amp;creativeASIN=B00QL616QE&amp;linkCode=shr&amp;tag=ericleads-20&amp;linkId=6AOODC27L6URY3K2 "link to Amazon page for this book")
+### [<a name="javascript-for-kids"></a>JavaScript for Kids](http://www.amazon.com/gp/product/B00QL616QE?ie=UTF8&amp;camp=213733&amp;creative=393177&amp;creativeASIN=B00QL616QE&amp;linkCode=shr&amp;tag=ericleads-20&amp;linkId=6AOODC27L6URY3K2 "link to Amazon page for this book")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/js-kids-combo.png" %}
 
@@ -287,7 +307,7 @@ _By Mike Cantelon, Marc Harter, T.J. Holowaychuk and Nathan Rajlich. Published b
 “An epic saga of technological advance that spans the history of modern computers from the Second World War to the explosion of creativity at Xerox PARC in the 1970s to the personal computer boom of the 1980s and the Internet boom of the 1990s.” <br />
 _By M. Mitchell Waldrop. Published on August 27, 2001 by Viking (and in paperback in 2002 by Penguin)_
 
-## Dev tools & collaboration
+## <a name="dev-tools-collaboration"></a>Dev tools & collaboration
 
 
 ### [nvm](https://github.com/creationix/nvm "link to github site")
@@ -382,7 +402,7 @@ _3&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;275 <s
 “Fiddlin' with ECMAScript6.” Includes sample code illustrating these ES6 aspects: arrow functions, block scope, classes and inheritance, default parameters, destructured assignment, generators, iterators, map, promises, rest parameters, set, spread operator and template literals.<br />
 _A project of Jeff McRiffey. 2&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;31 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;6_
 
-## Building
+## <a name="building"></a>Building
 
 ###[Browserify](http://browserify.org/ "link to post")
 
@@ -406,7 +426,7 @@ _Project of James Halliday. 133 contributors <span class="octicon octicon-star">
 _By Keith Cirkel. Posted on December 9, 2014_
 
 
-### Lint / Quality checkers
+### <a name="lint-quality-checkers"></a>Lint / Quality checkers
 
 ### [JSHint](http://jshint.com/ "link to site")
 
@@ -462,7 +482,7 @@ Dead simple integration testing with Selenium: “Nightwatch.js is an easy-to-us
 “It uses the powerful Selenium WebDriver API to perform commands and assertions on DOM elements.”<br />
 _A project of Andrei Rusu. 28 contributors <span class="octicon octicon-star"></span>star:&nbsp;2,530 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;180_
 
-### Transpilers
+### <a name="transpilers"></a>Transpilers
 
 ### [6to5](https://github.com/6to5/6to5 "link to GitHub site")
 
@@ -506,7 +526,7 @@ _A project of Addy Osmani. 26 contributors <span class="octicon octicon-star"></
 
 
 
-## JavaScript environments
+## <a name="javascript-environments"></a>JavaScript environments
 
 ### [Node](http://nodejs.org/ "link to nodejs.org website")
 
@@ -531,7 +551,7 @@ The Node fork.
 _626 contributors <span class="octicon octicon-star"></span>star:&nbsp;9,054 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;526_
 
 
-## Libraries
+## <a name="libraries"></a>Libraries
 
 ### [es5-shim](https://github.com/es-shims/es5-shim "link to GitHub site")
 
@@ -554,6 +574,18 @@ _29 contributors <span class="octicon octicon-star"></span>star:&nbsp;42 <span c
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/es7-shim.png" %}
 
 “es7-shim.js exports an object that contains shims that can be used to monkeypatch a JavaScript context to contain all ECMAScript 7 methods that can be faithfully emulated with a legacy JavaScript engine.” Experimental. Use with caution.
+
+### [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills) 
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/name.png" %}
+
+A fairly comprehensive list of HTML5 API polyfills.
+
+### [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate "link to GitHub site") 
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/name.png" %}
+
+For educational use only. You'll want to cherry-pick the best of this for your production apps.
 
 
 ### [native-promise-only](https://github.com/getify/native-promise-only "link to GitHub site")
@@ -648,7 +680,7 @@ _A project of Eric Elliott. 4&nbsp;contributors<span class="octicon octicon-star
 
 ### [Velocity](http://julian.com/research/velocity/ "link to Velocity site")
  &amp; [Velocity Motion Designer (VMD)](ttp://julian.com/research/velocity/#vmd "link to VMD section")
- 
+
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/velocity.png" %}
 
 UI animation library: “Velocity is an animation engine with the same API as jQuery's <code>$.animate()</code>. It works with and without jQuery. It’s incredibly fast, and it features color animation, transforms, loops, easings, SVG support, and scrolling. It is the best of jQuery and CSS transitions combined.”<br />
@@ -663,7 +695,7 @@ Great for model validations: “JSON Schema describes your JSON data format.”<
 _12&nbsp;contributors (at github.com/json-schema)<span class="octicon octicon-star"></span>star:&nbsp;438 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;95_
 
 
-## Web Components
+## <a name="web-components"></a>Web Components
 
 
 ### [FIRST](http://addyosmani.com/first/ "link to post")
@@ -737,7 +769,7 @@ This web component wins the internet: “<code>&lt;x-gif></code> is a web compon
 _A project of Glen Maddern. 4&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;1,502 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;71_
 
 
-## QA / Deployment / Monitoring / CI
+## <a name="qa-deployment-monitoring-ci"></a>QA / Deployment / Monitoring / CI
 
 
 ### [PM2](https://github.com/Unitech/pm2 "link to GitHub site")
@@ -795,7 +827,7 @@ Docker-based hosted build / CI.
 
 
 
-## Community
+## <a name="community"></a>Community
 
 
 ### [ES Discuss](https://esdiscuss.org/ "link to esdiscuss.org")
@@ -847,7 +879,7 @@ irc://irc.freenode.net/node.js
 irc://irc.freenode.net/io.js — the Node fork
 
 
-## News
+## <a name="news"></a>News
 
 
 ### [JavaScript Weekly](http://javascriptweekly.com/ "link to site")
@@ -907,7 +939,7 @@ _Moderated by Charles Max Wood, with regular panel members and a weekly guest_
 
 <!--  ===============================================================================  -->
 <!--  ===============================================================================  -->
-## Pasting / sharing code
+## <a name="pasting-sharing-code"></a>Pasting / sharing code
 
 
 ### [Codepen](http://codepen.io/pen/ "link to site")
@@ -928,7 +960,7 @@ _Moderated by Charles Max Wood, with regular panel members and a weekly guest_
 
 <!--  ===============================================================================  -->
 <!--  ===============================================================================  -->
-## Contests
+## <a name="contests"></a>Contests
 
 
 ### [DemoJS](http://demojs.org/ "link to site")
@@ -976,7 +1008,7 @@ In 2014, contestants could compete ‘virtually’ from anywhere in the world, w
 
 <!--  ===============================================================================  -->
 <!--  ===============================================================================  -->
-## Hackable Hardware
+## <a name="hackable-hardware"></a>Hackable Hardware
 
 
 ### [Nodebots](http://nodebots.io/ "link to site")
@@ -1024,7 +1056,7 @@ In 2014, contestants could compete ‘virtually’ from anywhere in the world, w
 
 <!--  ===============================================================================  -->
 <!--  ===============================================================================  -->
-## Hosting
+## <a name="hosting"></a>Hosting
 
 
 ### [DigitalOcean](https://www.digitalocean.com/?refcode=fdcfedac5208 "link to digitalocean.com")
@@ -1038,7 +1070,11 @@ In 2014, contestants could compete ‘virtually’ from anywhere in the world, w
 
 <!--  ===============================================================================  -->
 <!--  ===============================================================================  -->
-## For kids (and people who just love to have fun)
+## <a name="for-kids"></a>For kids (and people who just love to have fun)
+
+### [JavaScript for Kids](http://www.amazon.com/gp/product/B00QL616QE?ie=UTF8&camp=213733&creative=393177&creativeASIN=B00QL616QE&linkCode=shr&tag=ericleads-20&linkId=6AOODC27L6URY3K2"link to Amazon page for this book")
+
+See [information](#javascript-for-kids) above in [Books](#books) section.
 
 
 ### [LearnToMod](http://www.learntomod.com/ "link to site")
@@ -1052,7 +1088,7 @@ Mod Minecraft with JavaScript: “LearnToMod lets you mod Minecraft with either 
 
 <!--  ===============================================================================  -->
 <!--  ===============================================================================  -->
-## Twitter (alphabetical order)
+## <a name="twitter"></a>Twitter (alphabetical order)
 
 
 ### [Addy Osmani](https://twitter.com/addyosmani "link to @addyosmani twitter page")
