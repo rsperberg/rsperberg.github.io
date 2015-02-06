@@ -162,16 +162,21 @@ _By Axel Rauschmayer. Published at 2ality.com on September 7, 2014_
 
 ### [Classical Inheritance is Obsolete: How to Think in Prototypal OO](https://vimeo.com/69255635 "link to video on vimeo")
 
-{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/name.png" %}
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/classical-inheritance.png" %}
 
-by [Eric Elliott](https://twitter.com/_ericelliott "link to @\_ericelliott twitter page")
+“Learn about the limitations of classical inheritance, and the power and flexibility of prototypal OO that exists natively in JavaScript.
+* How to inherit from multiple ancestors
+* How to inherit privileged members and private state
+* How to compose objects and object factories”
+
+_A talk given by [Eric Elliott](https://twitter.com/_ericelliott "link to @\_ericelliott twitter page") at O’Reilly’s Fluent Conference: JavaScript and Beyond, 2013. Length: 43:18_
 
 ### [Asynchronous Programming at Netflix](https://www.youtube.com/watch?v=gawmdhCNy-A "link to talk on YouTube") — [Jafar Husain](https://twitter.com/jhusain" "link to Jafar Husain on Twitter")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/asynchronous-programming.png" %}
 
 “What does a mouse drag event have in common with an array of numbers? The answer to this question may surprise you: they are both collections. This insight holds the key to dramatically simplifying asynchronous programming in JavaScript. In this talk you will learn how you can use the familiar JavaScript Array methods to create surprisingly expressive asynchronous programs.” <br />
-_By Jafar Husain. Delivered at @Scale 2014. Published on September 22, 2014. 5,560&nbsp;views_
+_By Jafar Husain. Delivered at @Scale 2014. Published on September 22, 2014. Length: 41:46, 5,753&nbsp;views_
 
 
 ### [Immutability: Putting The Dream Machine To Work](https://www.youtube.com/watch?v=SiFwRtCnxv4 "link to talk on YouTube") — [David Nolen](https://twitter.com/swannodette "link to David Nolen on Twitter")
@@ -181,20 +186,25 @@ _By Jafar Husain. Delivered at @Scale 2014. Published on September 22, 2014. 5,5
 “We live in a time of vast computational resources — many of us carry around in our pockets what just thirty years ago would have been considered a supercomputer. But it’s not just the hardware, these bite-sized supercomputers run software using state-of-the-art dynamic compilation techniques to deliver stellar performance without sacrificing flexibility.
 
 “While all of this may sound incredibly futuristic, many of us still program these Dream Machines with miserly techniques not far removed from the best practices of the 1960s. <br />
-_By David Nolen. Delivered at JSConf. Published on July 1, 2014. 5,168&nbsp;views_
+_By David Nolen. Delivered at JSConf. Published on July 1, 2014. Length: 22:05, 5,292&nbsp;views_
 
 ### [Delivering the goods](https://www.youtube.com/watch?v=R8W_6xWphtw "link to YouTube video") — Paul Irish
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/delivering-the-goods.png" %}
 
-One of the most important but overlooked topics in the development world today — page load times. <br />
-_Keynote by Paul Irish. Delivered at Fluent 2014. Published on March&nbsp;13, 2014. 35,085&nbsp;views_
+One of the most important but overlooked topics in the development world today — page load times: “[A]nd finally answering the ‘page size vs # of requests’ question...”<br />
+_Keynote by [Paul Irish](https://twitter.com/paul_irish "link to @paul_irish twitter page"). Delivered at Fluent 2014. Published on March&nbsp;13, 2014. Length: 23:24, 35,275&nbsp;views_
 
 ### [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI&list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr "link to YouTube video")
 
-{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/name.png" %}
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/immutable-data-and-react.png" %}
 
-by [Lee Byron](https://twitter.com/leeb "link to @leeb twitter page")
+“Immutable data unlocks powerful memoization techniques and prohibits accidental coupling via shared mutable state. It’s no accident that these are the the same benefits provided by React.
+
+“Persistent data structures provide the benefits of immutability while maintaining high performance reads and writes and present a familiar API.
+
+“Learn about how persistent immutable data structures work, and techniques for using them in your React applications with Immutable.js, a library of fully persistent immutable data structures.”<br />
+_Given by [Lee Byron](https://twitter.com/leeb "link to @leeb twitter page") at React.js Conf 2015, January 29, 2015. Length: 31:10, 6,710 views_
 
 
 ### [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0 "link to YouTube video")
