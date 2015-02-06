@@ -209,10 +209,16 @@ _Given by [Lee Byron](https://twitter.com/leeb "link to @leeb twitter page") at 
 
 ### [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0 "link to YouTube video")
 
-{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/name.png" %}
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/simplicity-matters.png" %}
 
-A later version of the influential talk "Simple Made Easy" by [Rich Hickey](https://twitter.com/richhickey "link to @richhickey twitter page")
+A later version of the influential talk “Simple Made Easy”: “Simplicity is prerequisite to reliability — Edsger Dijkstra”<br />
+_Keynote by [Rich Hickey](https://twitter.com/richhickey "link to @richhickey twitter page"). Delivered at RailsConf2012, April 23, 2012. Length: 36:53, 40,744 views_
 
+
+
+
+<!--  ===============================================================================  -->
+<!--  ===============================================================================  -->
 
 ## <a name="spec"></a>Spec
 
