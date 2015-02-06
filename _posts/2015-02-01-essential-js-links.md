@@ -63,7 +63,7 @@ _By Eric Elliot. Published at medium.com on December 12, 2014_
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/javascript-objects.png" %}
 
-An excellent explanation of inheritance in JavaScript. “JavaScript has been plagued since the beginning with misunderstanding and awkwardness around its ‘prototypal inheritance’ system, mostly due to the fact that ‘inheritance’ isn't how JS works at all, and trying to do that only leads to gotchas and confusions that we have to pave over with user-land helper libs. Instead, embracing that JS has ‘behavior delegation’ (merely delegation links between objects) fits naturally with how JS syntax works, which creates more sensible code without the need of helpers.” <br />
+An excellent explanation of inheritance in JavaScript. “JavaScript has been plagued since the beginning with misunderstanding and awkwardness around its ‘prototypal inheritance’ system, mostly due to the fact that ‘inheritance’ isn’t how JS works at all, and trying to do that only leads to gotchas and confusions that we have to pave over with user-land helper libs. Instead, embracing that JS has ‘behavior delegation’ (merely delegation links between objects) fits naturally with how JS syntax works, which creates more sensible code without the need of helpers.” <br />
 _By Kyle Simpson. Published at davidwalsh.com on April 22, 2013_
 
 
@@ -89,11 +89,11 @@ _By Addy Osmani. Published at medium.com on December 15, 2014_
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/reactive-mvc-and-the-virtual-dom.png" %}
 
-Great read, even if you're not a React user. “The new great idea in React is Virtual DOM Rendering. The gist is to frequently re-render a complete and lightweight representation of the DOM, then apply a difference filter to detect the minimum changes that need to be made to the DOM. A similar technique has existed in game development long before React: re-render the game screen in every game loop, but only update the minimum portion of the screen which changed compared to the previously rendered screen.” <br />
+Great read, even if you’re not a React user. “The new great idea in React is Virtual DOM Rendering. The gist is to frequently re-render a complete and lightweight representation of the DOM, then apply a difference filter to detect the minimum changes that need to be made to the DOM. A similar technique has existed in game development long before React: re-render the game screen in every game loop, but only update the minimum portion of the screen which changed compared to the previously rendered screen.” <br />
 _By Andre Medeiros. Published at Futurice on November 2, 2014_
 
 
-### [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754 title="link to gist")
+### [The introduction to Reactive Programming you’ve been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754 title="link to gist")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/introrx.png" %}
 
@@ -117,7 +117,7 @@ _By Kris Kowal. First posted at github on August 9, 2014. 5 contributors <span c
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/es6-generators.png" %}
 
-A series of blog postson ES6 generators: “Whether you realized it or not, you've always been able to assume something fairly fundamental about your functions: once the function starts running, it will always run to completion before any other JS code can run....
+A series of blog postson ES6 generators: “Whether you realized it or not, you’ve always been able to assume something fairly fundamental about your functions: once the function starts running, it will always run to completion before any other JS code can run....
 
 “With ES6 generators, we have a different kind of function, which may be paused in the middle, one or many times, and resumed later, allowing other code to run during these paused periods.” <br />
 _By Kyle Simpson. Published at davidwalsh.com, July – August 2014_
@@ -282,14 +282,14 @@ _By Eric Elliott. Published by O’Reilly on June 22, 2014. ISBN13: 978144932094
 _By David Flanagan. Sixth edition published by O’Reilly on May 13, 2011. ISBN: 9780596805531. 1096 pages_
 
 
-### [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS "link to Github page for this series")
+### [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS "link to Github page for this series")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/You-Dont-Know-JS.png" %}
 
 Prerelease (unedited) versions available at Github.
 
 “Books in the _You Don’t Know JS_ series dive into trickier parts of the language that many JavaScript programmers simply avoid. Armed with this knowledge, you can achieve true JavaScript mastery.” <br />
-_By Kyle Simpson. Published By O'Reilly. ‘Scope &amp; Closures,’ published in March 2014, print ISBN: 978-1-4493-3558-8, 98 pages.  ‘this &amp; Object Prototypes,’ July 2014, print ISBN:978-1-4919-0415-2, 174 pages. ‘Types &amp; Grammar,’ to be published in February 2015, print ISBN:978-1-4919-0419-0, 198 pages_
+_By Kyle Simpson. Published By O’Reilly. ‘Scope &amp; Closures,’ published in March 2014, print ISBN: 978-1-4493-3558-8, 98 pages.  ‘this &amp; Object Prototypes,’ July 2014, print ISBN:978-1-4919-0415-2, 174 pages. ‘Types &amp; Grammar,’ to be published in February 2015, print ISBN:978-1-4919-0419-0, 198 pages_
 
 
 ### [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/ "link to LeanPub text for this book")
@@ -298,7 +298,7 @@ _By Kyle Simpson. Published By O'Reilly. ‘Scope &amp; Closures,’ published i
 
 Free to read online.
 
-“ECMAScript 6 represents the biggest change to the core of JavaScript in the history of the language. Not only does the sixth edition add new object types, but also new syntax and exciting new capabilities. The result of years of study and debate, ECMAScript 6 reached feature complete status in 2014. While it will take a bit of time before all JavaScript environments support ECMAScript 6, it's still useful to understand what's coming and which features are available already.
+“ECMAScript 6 represents the biggest change to the core of JavaScript in the history of the language. Not only does the sixth edition add new object types, but also new syntax and exciting new capabilities. The result of years of study and debate, ECMAScript 6 reached feature complete status in 2014. While it will take a bit of time before all JavaScript environments support ECMAScript 6, it’s still useful to understand what’s coming and which features are available already.
 
 “This book is a guide for the transition between ECMAScript 5 and 6. It is not specific to any JavaScript environment, so it is equally useful to web developers as it is Node.js developers.” <br />
 _By Nicholas C. Zakas. Published by LeanPub. 30 percent complete in January 2015_
@@ -339,7 +339,7 @@ _Project of Tim Caswell. 105 contributors <span class="octicon octicon-star"></s
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/nodejs-org.png" %}
 
-**Then install Node (with nvm).** You'll need this even if you're a front-end dev.<br />
+**Then install Node (with nvm).** You’ll need this even if you’re a front-end dev.<br />
 _583&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;34,408 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;7,665_
 
 
@@ -347,7 +347,7 @@ _583&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;34,4
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/npmjs.png" %}
 
-**Install lots of other things with npm**,  _the_ package manager for JavaScript. Comes with Node. “npm makes it easy for JavaScript developers to share and reuse code, and it makes it easy to update the code that you're sharing.”<br />
+**Install lots of other things with npm**,  _the_ package manager for JavaScript. Comes with Node. “npm makes it easy for JavaScript developers to share and reuse code, and it makes it easy to update the code that you’re sharing.”<br />
 _222&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;5,456 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;1,086_
 
 
@@ -379,7 +379,7 @@ _<span class="octicon octicon-star"></span>star:&nbsp;216 <span class="octicon o
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/ternjs.png" %}
 
-Static analysis in JavaScript. “Tern is a stand-alone code-analysis engine for JavaScript. It is intended to be used with a code editor plugin to enhance the editor's support for intelligent JavaScript editing. Features include autocompletion of variables and properties and function argument hints.... Tern is capable of running both on node.js and in the browser.”<br />
+Static analysis in JavaScript. “Tern is a stand-alone code-analysis engine for JavaScript. It is intended to be used with a code editor plugin to enhance the editor’s support for intelligent JavaScript editing. Features include autocompletion of variables and properties and function argument hints.... Tern is capable of running both on node.js and in the browser.”<br />
 _Project maintained by Marijn Haverbeke. 46&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;1,590 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;146_
 
 
@@ -417,7 +417,7 @@ _3&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;275 <s
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/es6fiddle.png" %}
 
-“Fiddlin' with ECMAScript6.” Includes sample code illustrating these ES6 aspects: arrow functions, block scope, classes and inheritance, default parameters, destructured assignment, generators, iterators, map, promises, rest parameters, set, spread operator and template literals.<br />
+“Fiddlin’ with ECMAScript6.” Includes sample code illustrating these ES6 aspects: arrow functions, block scope, classes and inheritance, default parameters, destructured assignment, generators, iterators, map, promises, rest parameters, set, spread operator and template literals.<br />
 _A project of Jeff McRiffey. 2&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;31 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;6_
 
 
@@ -434,7 +434,7 @@ _A project of Jeff McRiffey. 2&nbsp;contributors <span class="octicon octicon-st
 
 Bundle modules for the browser. “browserify is a tool for compiling node-flavored commonjs modules for the browser.
 
-“You can use browserify to organize your code and use third-party libraries even if you don't use node itself in any other capacity except for bundling and installing packages with npm.
+“You can use browserify to organize your code and use third-party libraries even if you don’t use node itself in any other capacity except for bundling and installing packages with npm.
 
 “The module system that browserify uses is the same as node, so packages published to npm that were originally intended for use in node but not browsers will work just fine in the browser too.
 
@@ -624,14 +624,14 @@ A fairly comprehensive list of HTML5 API polyfills.
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/name.png" %}
 
-For educational use only. You'll want to cherry-pick the best of this for your production apps.
+For educational use only. You’ll want to cherry-pick the best of this for your production apps.
 
 
 ### [native-promise-only](https://github.com/getify/native-promise-only "link to GitHub site")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/native-promise-only.png" %}
 
-An ECMAScript-standard promise polyfill by <i>Kyle Simpson</i>. “The aim of this project is to be the smallest polyfill for Promises, staying as close as possible to what's specified in both Promises/A+ and the upcoming ES6 specification.”<br />
+An ECMAScript-standard promise polyfill by <i>Kyle Simpson</i>. “The aim of this project is to be the smallest polyfill for Promises, staying as close as possible to what’s specified in both Promises/A+ and the upcoming ES6 specification.”<br />
 _A project of Kyle Simpson. <span class="octicon octicon-star"></span>star:&nbsp;255 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;16_
 
 
@@ -672,7 +672,7 @@ _213 contributors <span class="octicon octicon-star"></span>star:&nbsp;33,188 <s
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/blaze.png" %}
 
-DOM-diffing isomorphic reactive templates from Meteor. “HTML templating is central to web applications. With Blaze, Meteor's live page update technology, you can render your HTML reactively, meaning that it will update automatically to track changes in the data used to generate it.”<br />
+DOM-diffing isomorphic reactive templates from Meteor. “HTML templating is central to web applications. With Blaze, Meteor’s live page update technology, you can render your HTML reactively, meaning that it will update automatically to track changes in the data used to generate it.”<br />
 _2 contributors <span class="octicon octicon-star"></span>star:&nbsp;69 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;9_
 
 
@@ -739,7 +739,7 @@ _A project of Eric Elliott. 4&nbsp;contributors<span class="octicon octicon-star
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/velocity.png" %}
 
-UI animation library: “Velocity is an animation engine with the same API as jQuery's <code>$.animate()</code>. It works with and without jQuery. It’s incredibly fast, and it features color animation, transforms, loops, easings, SVG support, and scrolling. It is the best of jQuery and CSS transitions combined.”<br />
+UI animation library: “Velocity is an animation engine with the same API as jQuery’s <code>$.animate()</code>. It works with and without jQuery. It’s incredibly fast, and it features color animation, transforms, loops, easings, SVG support, and scrolling. It is the best of jQuery and CSS transitions combined.”<br />
 _A project of Julian Shapiro. 14&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;6,567 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;514_
 
 
@@ -778,7 +778,7 @@ _By Addy Osmani. Posted circa May 9, 2014_
 
 “<code>webcomponents.js</code> is a set of polyfills built on top of the **Web Components** specifications. It makes it possible for developers to use these standards today across all modern browsers.
 
-“As these technologies are implemented in browsers, the polyfills will shrink and you'll gain the benefits of native implementations. <code>webcomponents.js</code> automatically detects native support and switches to the fast path when available. Your elements seamlessly start relying on the native stuff — and get faster in the process.
+“As these technologies are implemented in browsers, the polyfills will shrink and you’ll gain the benefits of native implementations. <code>webcomponents.js</code> automatically detects native support and switches to the fast path when available. Your elements seamlessly start relying on the native stuff — and get faster in the process.
 
 “**Note:** The <code>webcomponents.js</code> polyfill layer is no longer needed for browsers that fully implement the Web Components APIs, such as Chrome 36+.”<br />
 _20&nbsp;contributors (at github.com/webcomponents/webcomponentsjs)<span class="octicon octicon-star"></span>star:&nbsp;331 <br /><span class="octicon octicon-repo-forked"></span>fork:&nbsp;56_
@@ -788,9 +788,9 @@ _20&nbsp;contributors (at github.com/webcomponents/webcomponentsjs)<span class="
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/html-imports.png" %}
 
-“Template, Shadow DOM, and Custom Elements enable you to build UI components easier than before. But it's not efficient to load each resources such as HTML, CSS and JavaScript separately.
+“Template, Shadow DOM, and Custom Elements enable you to build UI components easier than before. But it’s not efficient to load each resources such as HTML, CSS and JavaScript separately.
 
-“Deduping dependencies isn't easy either. To load a library like jQuery UI or Bootstrap today requires using separate tags for JavaScript, CSS, and Web Fonts. Things get even more complex if you deal with Web Components with multiple dependencies.
+“Deduping dependencies isn’t easy either. To load a library like jQuery UI or Bootstrap today requires using separate tags for JavaScript, CSS, and Web Fonts. Things get even more complex if you deal with Web Components with multiple dependencies.
 
 “HTML Imports allow you to load those resources as an aggregated HTML file.”<br />
 _By Eiji Kitamura. Includes 8:12 video. Published at webcomponents.org on January 4, 2015_
@@ -1026,7 +1026,7 @@ _Moderated by Charles Max Wood, with regular panel members and a weekly guest_
 
 “CodePen is for web designers and front-end developers.
 
-“It is an HTML, CSS, and JavaScript code editor in your browser with instant previews of the code you see and write. It is a searchable trove of your own creations, and a world of other people's creations. A place to troubleshoot, to teach, to learn, to test, and to grow.”
+“It is an HTML, CSS, and JavaScript code editor in your browser with instant previews of the code you see and write. It is a searchable trove of your own creations, and a world of other people’s creations. A place to troubleshoot, to teach, to learn, to test, and to grow.”
 
 
 ### [RequireBin](http://requirebin.com/ "link to site")
@@ -1068,7 +1068,7 @@ _Organized by [Andrzej Mazur](https://twitter.com/end3r "link to @end3r Twitter 
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/fightcodegame.png" %}
 
-Program virtual battle bots and climb the leaderboard: “fightcodegame.com is a free-to-play game and you can create as many robots as you'd like.
+Program virtual battle bots and climb the leaderboard: “fightcodegame.com is a free-to-play game and you can create as many robots as you’d like.
 <br />
 “Coding your robots is very easy and should be natural if you’ve ever had any JavaScript experience.”<br />
 _“Battle against 26,532 other robots”_
@@ -1078,7 +1078,7 @@ _“Battle against 26,532 other robots”_
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/nodeknockout.png" %}
 
-The legendary Node competition: “Node Knockout is the world's biggest Node.js programming competition — a 48-hour coding contest featuring node.js”
+The legendary Node competition: “Node Knockout is the world’s biggest Node.js programming competition — a 48-hour coding contest featuring node.js”
 
 In 2014, contestants could compete ‘virtually’ from anywhere in the world, with Knockout HQ located in San Francisco and competition sites in Chicago, Tokyo, Venice, Taipei and Reno, Nevada.
 
@@ -1095,7 +1095,7 @@ In 2014, contestants could compete ‘virtually’ from anywhere in the world, w
 
 “Robots powered by JavaScript.<br />
 
-“That's right... if you’ve any JavaScript experience, you can now use your powers to manipulate the machines. From [blinking lights](http://instagram.com/p/cFVNtmJxlc/ "link to video on Instagram") to [Sumo Bot battles](http://nodebots.io/sumo.html "link to Sumo competition rules"), [remote-control cats](http://www.youtube.com/watch?v=6NYyGC-wZKU "link to video on YouTube"), and [bull fighting with quadcopters](https://github.com/substack/matador-copter "code for the Parrot AR Quadricopter")....”
+“That’s right... if you’ve any JavaScript experience, you can now use your powers to manipulate the machines. From [blinking lights](http://instagram.com/p/cFVNtmJxlc/ "link to video on Instagram") to [Sumo Bot battles](http://nodebots.io/sumo.html "link to Sumo competition rules"), [remote-control cats](http://www.youtube.com/watch?v=6NYyGC-wZKU "link to video on YouTube"), and [bull fighting with quadcopters](https://github.com/substack/matador-copter "code for the Parrot AR Quadricopter")....”
 
 
 ### [Cylon](http://cylonjs.com/ "link to site")
@@ -1129,7 +1129,7 @@ In 2014, contestants could compete ‘virtually’ from anywhere in the world, w
 
 “While Tessel and Espruino both run JavaScript, they’re very different. Tessel is aimed at internet-connected devices (it’s more like a Raspberry Pi), and Espruino is aimed at low-power devices (more like an Arduino).
 
-“The two areas overlap a lot, but the main differences are: Espruino is a lot cheaper (1/3 of the price), Tessel has more memory, Espruino uses a lot less power so it can run for years on a battery, Tessel is faster, Tessel has WiFi built in (but you can plug WiFi or Ethernet modules into Espruino), and Tessel provides pre-made modules that can be plugged in for certain things — Espruino's emphasis is on using standard hardware that’s available cheaply from a variety of vendors.”
+“The two areas overlap a lot, but the main differences are: Espruino is a lot cheaper (1/3 of the price), Tessel has more memory, Espruino uses a lot less power so it can run for years on a battery, Tessel is faster, Tessel has WiFi built in (but you can plug WiFi or Ethernet modules into Espruino), and Tessel provides pre-made modules that can be plugged in for certain things — Espruino’s emphasis is on using standard hardware that’s available cheaply from a variety of vendors.”
 
 
 <!--  ===============================================================================  -->
@@ -1285,7 +1285,7 @@ _Tweets: 6,143, followers: 2,978_
 
 Mover &amp; shaker, JavaScript evangelist, documentary film maker
 
-@JS_Cheerleader: “#JavaScript changed my life. I'm a huge fan. Looking for cool JS projects to tweet about. I always loved #geek guys and they never loved me back until now. Yay!”<br />
+@JS_Cheerleader: “#JavaScript changed my life. I’m a huge fan. Looking for cool JS projects to tweet about. I always loved #geek guys and they never loved me back until now. Yay!”<br />
 _Tweets: 1,470, followers: 875_
 
 
@@ -1373,7 +1373,7 @@ _Tweets: 29K, followers: 10K_
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/at-ydkjs.png" %}
 
-_You Don't Know JS_, O’Reilly book series by Kyle Simpson
+_You Don’t Know JS_, O’Reilly book series by Kyle Simpson
 
 @ydkjs (_see also_ @getify)<br />
 _Tweets: 746, followers: 2,121_
