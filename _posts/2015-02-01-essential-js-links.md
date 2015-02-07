@@ -642,7 +642,8 @@ _311 items arranged by 69 main categories_
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/html5-boilerplate.png" %}
 
 For educational use only. You’ll want to cherry-pick the best of this for your production apps: “A professional front-end template for building fast, robust, and adaptable web apps or sites.”<br />
-_A project of [H5BP](https://github.com/h5bp "link to GitHub site") maintained by Mathias Bynens and Hans Christian Reinl. 189 contributors <span class="octicon octicon-star"></span>star:&nbsp;28,466 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;7,391_
+_A project of [H5BP](https://github.com/h5bp "link to GitHub site") maintained by Mathias Bynens and Hans Christian Reinl. <br />
+189 contributors <span class="octicon octicon-star"></span>star:&nbsp;28,466 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;7,391_
 
 
 ### [native-promise-only](https://github.com/getify/native-promise-only "link to GitHub site")
