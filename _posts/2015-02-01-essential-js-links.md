@@ -632,9 +632,10 @@ _29 contributors <span class="octicon octicon-star"></span>star:&nbsp;42 <span c
 
 ### [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills "link to Modernizr GitHub wiki page on HTML5 cross-browser polyfills")
 
-{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/name.png" %}
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/html5-cross-browser-polyfills.png" %}
 
-A fairly comprehensive list of HTML5 API polyfills.
+A fairly comprehensive list of HTML5 API polyfills. <br />
+_311 items arranged by 69 main categories_
 
 ### [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate "link to GitHub site")
 
@@ -1403,7 +1404,7 @@ For those who want to make use of this content, it is also published as a gist a
 
 <p>&nbsp; </p>
 
-<small><a href="https://www.flickr.com/photos/htakashi/5291203955/ " style="text-decoration:none;">Photo</a> of parrots by <a href="https://www.flickr.com/photos/htakashi/" title="link to Takashi Hososhima Flickr page">Takashi Hososhima</a> (<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>). The image has been cropped and flipped horizontally for presentation purposes.</small>
+<small><a href="https://www.flickr.com/photos/htakashi/5291203955/ " style="text-decoration:none;">Photo</a> of parrots by <a href="https://www.flickr.com/photos/htakashi/" title="link to Takashi Hososhima Flickr page">Takashi Hososhima</a> (<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>). The image has been cropped and flipped horizontally html5-cross-browser-polyfillsfor presentation purposes.</small>
 
 <!--  small><a href="https://www.flickr.com/photos/gopalarathnam_v/48653786" style="text-decoration:none;">Photo</a> by Gopal Venkatesan, <em>Parrots - Jurong Bird Park</em>, <a href="https://creativecommons.org/licenses/by/2.0/">cc by 2.0</a></small  -->
 
