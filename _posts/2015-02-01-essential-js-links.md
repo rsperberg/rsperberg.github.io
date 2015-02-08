@@ -705,9 +705,10 @@ _91 contributors <span class="octicon octicon-star"></span>star:&nbsp;2,952 <spa
 
 ### [Page.js](https://github.com/visionmedia/page.js)
 
-{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/name.png" %}
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/visionmedia-page-js.png" %}
 
-Tiny client-side router, inspired by Express.
+Tiny client-side router, inspired by Express: “~1200 bytes.”<br />
+_Project maintained by Visionmedia. 42 contributors <span class="octicon octicon-star"></span>star:&nbsp;1,899 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;197_
 
 
 ### [Moment](http://momentjs.com )
