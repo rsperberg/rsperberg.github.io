@@ -703,6 +703,13 @@ Reactive extensions for JavaScript. [What’s reactive?](https://medium.com/java
 _91 contributors <span class="octicon octicon-star"></span>star:&nbsp;2,952 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;275_
 
 
+### [Page.js](https://github.com/visionmedia/page.js)
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/name.png" %}
+
+Tiny client-side router, inspired by Express.
+
+
 ### [Moment](http://momentjs.com )
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/moment.png" %}
