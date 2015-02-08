@@ -252,14 +252,6 @@ Subtitled _A Playful Introduction to Programming_.  “A lighthearted introducti
 _By Nick Morgan. Published by No Starch Press in December 2014. ISBN: 978-1-59327-408-5. 336 pages_
 
 
-### [Effective JavaScript](http://www.amazon.com/gp/product/0321812182?ie=UTF8&amp;camp=213733&amp;creative=393185&amp;creativeASIN=0321812182&amp;linkCode=shr&amp;tag=ericleads-20&amp;linkId=JIC63I267I6UDQQZ "link to Amazon page for this book")
-
-{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/effectivejs.png" %}
-
-Subtitled _68 Specific Ways to Harness the Power of JavaScript_. Uses a “scenario-driven style ... to explain the important concepts in JavaScript.” <br />
-_By David Herman. Published by Pearson on December 6, 2012. ISBN-13: 978-0321812186. 200 pages_
-
-
 ### [Eloquent JavaScript](http://eloquentjavascript.net/ "link to version online")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/eloquent-js.png" %}
@@ -280,11 +272,19 @@ _By Marijn Haverbeke. Published by No Starch Press in December 2014. ISBN: 978-1
 _By Douglas Crockford. Published in May, 2008. ISBN13: 978-0596517748. 172 pages_
 
 
-### [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262 "link to version online")
+### [Effective JavaScript](http://www.amazon.com/gp/product/0321812182?ie=UTF8&amp;camp=213733&amp;creative=393185&amp;creativeASIN=0321812182&amp;linkCode=shr&amp;tag=ericleads-20&amp;linkId=JIC63I267I6UDQQZ "link to Amazon page for this book")
 
-{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/programming-js-apps.png" %}
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/effectivejs.png" %}
 
-Free online edition.
+Subtitled _68 Specific Ways to Harness the Power of JavaScript_. Uses a “scenario-driven style ... to explain the important concepts in JavaScript.” <br />
+_By David Herman. Published by Pearson on December 6, 2012. ISBN-13: 978-0321812186. 200 pages_
+
+
+### [Programming JavaScript Applications](http://pjabook.com "link to book page at ericelliottjs.com")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/programming-js-apps-ericelliott.png" %}
+
+Free [online](http://chimera.labs.oreilly.com/books/1234000000262 "link to version online") edition.
 
 “In the real world, JavaScript applications are fragile, and when you change them things often break. Author Eric Elliott shows you how to add features without creating bugs or negatively impacting the rest of your code during the course of building a large JavaScript application.” <br />
 _By Eric Elliott. Published by O’Reilly on June 22, 2014. ISBN13: 9781449320942. 300 pages_
