@@ -284,7 +284,7 @@ _By David Herman. Published by Pearson on December 6, 2012. ISBN-13: 978-0321812
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/programming-js-apps-ericelliott.png" %}
 
-Free [online](http://chimera.labs.oreilly.com/books/1234000000262 "link to version online") edition.
+Link to the print-plus-ebook bundle for this book.  (There is also an [online](http://chimera.labs.oreilly.com/books/1234000000262 "link to version online") version of this title.)
 
 “In the real world, JavaScript applications are fragile, and when you change them things often break. Author Eric Elliott shows you how to add features without creating bugs or negatively impacting the rest of your code during the course of building a large JavaScript application.” <br />
 _By Eric Elliott. Published by O’Reilly on June 22, 2014. ISBN13: 9781449320942. 300 pages_
