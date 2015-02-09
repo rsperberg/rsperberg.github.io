@@ -499,22 +499,26 @@ _Created by Nicholas C. Zakas in June 2013. 121 contributors <span class="octico
 Code coverage reporting. <br />
 _A project of Krishnan Anantheswaran. 36 contributors <span class="octicon octicon-star"></span>star:&nbsp;2,131 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;203_
 
-
 ### [tape](https://github.com/substack/tape "link to GitHub site")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/tape.png" %}
 
-Use tape and faucet for dead simple unit testing. Tape is a “tap-producing test harness for node and browsers.” <br />
-_A project of James Halliday. 23 contributors <span class="octicon octicon-star"></span>star:&nbsp;514 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;59_
-
+Minimal, dead simple unit testing. (This is all you need, really!) Tape is a “tap-producing test harness for node and browsers.” <br />
+_A project of James Halliday. 24 contributors <span class="octicon octicon-star"></span>star:&nbsp;533 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;62_]
 
 ### [faucet](https://github.com/substack/faucet "link to GitHub site")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/faucet.png" %}
 
-Use tape and faucet for dead simple unit testing.  Faucet is a “human-readable TAP summarizer” <br />
-_A project of James Halliday. 2 contributors <span class="octicon octicon-star"></span>star:&nbsp;173 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;3_
+Prettify unit testing output (like what comes from tape). Faucet is a “human-readable TAP summarizer” <br />
+_A project of James Halliday. 2 contributors <span class="octicon octicon-star"></span>star:&nbsp;180 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;3_
 
+### [Supertest](https://github.com/tj/supertest"link to GitHub site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/name.png" %}
+
+The best way to test HTTP endpoints.
+<!--  
 ### [Nightwatch](http://nightwatchjs.org/ "link to nightwatchjs.org")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/nightwatch.png" %}
@@ -523,7 +527,7 @@ Dead simple integration testing with Selenium: “Nightwatch.js is an easy-to-us
 
 “It uses the powerful Selenium WebDriver API to perform commands and assertions on DOM elements.”<br />
 _A project of Andrei Rusu. 28 contributors <span class="octicon octicon-star"></span>star:&nbsp;2,530 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;180_
-
+-->
 
 <!--  ===============================================================================  -->
 
