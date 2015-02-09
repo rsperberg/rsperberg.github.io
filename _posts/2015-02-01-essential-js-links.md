@@ -681,9 +681,10 @@ _A project of Yaffle. 7 contributors <span class="octicon octicon-star"></span>s
 
 ### [RequireFrom](https://github.com/DSKrepps/requireFrom "link to GitHub site")
 
-{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/name.png" %}
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/requireFrom.png" %}
 
-Cross-platform require relative to your project root.
+Cross-platform require relative to your project root.<br />
+_A project of Dylan Krepps. 2 contributors <span class="octicon octicon-star"></span>star:&nbsp;17 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;3_
 
 
 ### [jQuery](http://jquery.com/ "link to jQuery site")
