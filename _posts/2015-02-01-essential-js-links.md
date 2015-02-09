@@ -468,7 +468,7 @@ _By Keith Cirkel. Posted on December 9, 2014_
 
 <!--  ===============================================================================  -->
 
-### <a name="lint-quality-checkers"></a>Lint / Quality checkers
+### <a name="testing-lint-quality-checkers"></a>Testing / Lint / Quality checkers
 
 ### [JSHint](http://jshint.com/ "link to site")
 
@@ -504,7 +504,7 @@ _A project of Krishnan Anantheswaran. 36 contributors <span class="octicon octic
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/tape.png" %}
 
 Minimal, dead simple unit testing. (This is all you need, really!) Tape is a “tap-producing test harness for node and browsers.” <br />
-_A project of James Halliday. 24 contributors <span class="octicon octicon-star"></span>star:&nbsp;533 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;62_]
+_A project of James Halliday. 24 contributors <span class="octicon octicon-star"></span>star:&nbsp;533 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;62_
 
 ### [faucet](https://github.com/substack/faucet "link to GitHub site")
 
@@ -513,7 +513,7 @@ _A project of James Halliday. 24 contributors <span class="octicon octicon-star"
 Prettify unit testing output (like what comes from tape). Faucet is a “human-readable TAP summarizer” <br />
 _A project of James Halliday. 2 contributors <span class="octicon octicon-star"></span>star:&nbsp;180 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;3_
 
-### [Supertest](https://github.com/tj/supertest"link to GitHub site")
+### [Supertest](https://github.com/tj/supertest "link to GitHub site")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/name.png" %}
 
@@ -682,14 +682,14 @@ _A project of Heroku. <span class="octicon octicon-star"></span>star:&nbsp;3 <sp
 Required client-side patching to support Server Sent Events. “A polyfill for http://www.w3.org/TR/eventsource/”<br />
 _A project of Yaffle. 7 contributors <span class="octicon octicon-star"></span>star:&nbsp;557 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;78_
 
-
+<!--
 ### [RequireFrom](https://github.com/DSKrepps/requireFrom "link to GitHub site")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/requireFrom.png" %}
 
 Cross-platform require relative to your project root.<br />
 _A project of Dylan Krepps. 2 contributors <span class="octicon octicon-star"></span>star:&nbsp;17 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;3_
-
+-->
 
 ### [jQuery](http://jquery.com/ "link to jQuery site")
 
