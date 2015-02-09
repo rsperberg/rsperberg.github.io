@@ -506,6 +506,7 @@ _A project of Krishnan Anantheswaran. 36 contributors <span class="octicon octic
 Minimal, dead simple unit testing. (This is all you need, really!) Tape is a “tap-producing test harness for node and browsers.” <br />
 _A project of James Halliday. 24 contributors <span class="octicon octicon-star"></span>star:&nbsp;533 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;62_
 
+
 ### [faucet](https://github.com/substack/faucet "link to GitHub site")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/faucet.png" %}
@@ -513,21 +514,14 @@ _A project of James Halliday. 24 contributors <span class="octicon octicon-star"
 Prettify unit testing output (like what comes from tape). Faucet is a “human-readable TAP summarizer” <br />
 _A project of James Halliday. 2 contributors <span class="octicon octicon-star"></span>star:&nbsp;180 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;3_
 
+
 ### [Supertest](https://github.com/tj/supertest "link to GitHub site")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/name.png" %}
 
 The best way to test HTTP endpoints.
-<!--  
-### [Nightwatch](http://nightwatchjs.org/ "link to nightwatchjs.org")
 
-{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/nightwatch.png" %}
 
-Dead simple integration testing with Selenium: “Nightwatch.js is an easy-to-use Node.js-based End-to-End (E2E) testing solution for browser-based apps and websites.
-
-“It uses the powerful Selenium WebDriver API to perform commands and assertions on DOM elements.”<br />
-_A project of Andrei Rusu. 28 contributors <span class="octicon octicon-star"></span>star:&nbsp;2,530 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;180_
--->
 
 <!--  ===============================================================================  -->
 
@@ -696,14 +690,6 @@ _A project of Heroku. <span class="octicon octicon-star"></span>star:&nbsp;3 <sp
 Required client-side patching to support Server Sent Events. “A polyfill for http://www.w3.org/TR/eventsource/”<br />
 _A project of Yaffle. 7 contributors <span class="octicon octicon-star"></span>star:&nbsp;557 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;78_
 
-<!--
-### [RequireFrom](https://github.com/DSKrepps/requireFrom "link to GitHub site")
-
-{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/requireFrom.png" %}
-
-Cross-platform require relative to your project root.<br />
-_A project of Dylan Krepps. 2 contributors <span class="octicon octicon-star"></span>star:&nbsp;17 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;3_
--->
 
 ### [jQuery](http://jquery.com/ "link to jQuery site")
 
