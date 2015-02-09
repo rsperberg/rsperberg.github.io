@@ -650,6 +650,13 @@ _A project of [H5BP](https://github.com/h5bp "link to GitHub site") maintained b
 189 contributors <span class="octicon octicon-star"></span>star:&nbsp;28,466 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;7,391_
 
 
+### [The Isomorphic Express Boilerplate](https://github.com/ericelliott/isomorphic-express-boilerplate "link to GitHub site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/name.png" %}
+
+Write apps using the same code for both the client and the server using Node, Express, and Browserify.
+
+
 ### [native-promise-only](https://github.com/getify/native-promise-only "link to GitHub site")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/native-promise-only.png" %}
