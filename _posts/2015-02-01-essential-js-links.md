@@ -679,6 +679,13 @@ Required client-side patching to support Server Sent Events. “A polyfill for h
 _A project of Yaffle. 7 contributors <span class="octicon octicon-star"></span>star:&nbsp;557 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;78_
 
 
+### [RequireFrom](https://github.com/DSKrepps/requireFrom "link to GitHub site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/name.png" %}
+
+Cross-platform require relative to your project root.
+
+
 ### [jQuery](http://jquery.com/ "link to jQuery site")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/jquery.png" %}
