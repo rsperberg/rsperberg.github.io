@@ -657,6 +657,13 @@ _A project of [H5BP](https://github.com/h5bp "link to GitHub site") maintained b
 Write apps using the same code for both the client and the server using Node, Express, and Browserify.
 
 
+### [rootrequire](https://github.com/ericelliott/rootrequire "link to GitHub site")
+
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/name.png" %}
+
+Require files relative to your project path using the normal node <code>require()</code>.
+
+
 ### [native-promise-only](https://github.com/getify/native-promise-only "link to GitHub site")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/native-promise-only.png" %}
