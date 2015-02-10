@@ -519,7 +519,9 @@ _A project of James Halliday. 2 contributors <span class="octicon octicon-star">
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/supertest.png" %}
 
-The best way to test HTTP endpoints: “Super-agent driven library for testing node.js HTTP servers using a fluent API.”<br />
+The best way to test HTTP endpoints: “Super-agent driven library for testing node.js HTTP servers using a fluent API.
+
+“The motivation with this module is to provide a high-level abstraction for testing HTTP, while still allowing you to drop down to the lower-level API provided by super-agent.”<br />
 _Project maintained by Visionmedia. 30 contributors <span class="octicon octicon-star"></span>star:&nbsp;1,725 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;136_
 
 
