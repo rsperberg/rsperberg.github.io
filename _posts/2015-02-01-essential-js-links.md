@@ -648,9 +648,16 @@ _A project of [H5BP](https://github.com/h5bp "link to GitHub site") maintained b
 
 ### [The Isomorphic Express Boilerplate](https://github.com/ericelliott/isomorphic-express-boilerplate "link to GitHub site")
 
-{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/name.png" %}
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/isomorphic-express-boilerplate.png" %}
 
-Write apps using the same code for both the client and the server using Node, Express, and Browserify.
+Write apps using the same code for both the client and the server using Node, Express, and Browserify: “Isomorphic means that it’s designed to run a lot of the same code on both the client and the server. There are many advantages to building apps this way, but the primary advantages are:
+
+- Cross-functional teams. Since everything is written in JavaScript, it’s easier to build teams who know how to work on both the client and server sides of the app.
+
+- Write once, run everywhere. With the exception of a few library substitutions and browser polyfills, the code is shared, which means you have to write about half the code you’d write working on a non-isomorphic app.
+
+- More productive developers. Since the app is more consistent across the stack, there’s no context switching when you need to maintain application behavior on both sides of the stack. Write the behavior once, and you’re done.<br />
+_A project of Eric Elliott. 2 contributors <span class="octicon octicon-star"></span>star:&nbsp;17 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;2_
 
 
 ### [rootrequire](https://github.com/ericelliott/rootrequire "link to GitHub site")
