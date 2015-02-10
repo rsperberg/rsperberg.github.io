@@ -517,10 +517,10 @@ _A project of James Halliday. 2 contributors <span class="octicon octicon-star">
 
 ### [Supertest](https://github.com/tj/supertest "link to GitHub site")
 
-{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/name.png" %}
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/supertest.png" %}
 
-The best way to test HTTP endpoints.
-
+The best way to test HTTP endpoints: “Super-agent driven library for testing node.js HTTP servers using a fluent API.”<br />
+_Project maintained by Visionmedia. 30 contributors <span class="octicon octicon-star"></span>star:&nbsp;1,725 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;136_
 
 
 <!--  ===============================================================================  -->
