@@ -460,7 +460,7 @@ _A project of Jeff McRiffey. 2&nbsp;contributors <span class="octicon octicon-st
 
 ## <a name="building"></a>Building
 
-###[Browserify](http://browserify.org/ "link to post")
+###[Browserify](http://browserify.org/ "link to browserify.org")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/browserify.png" %}
 
@@ -486,7 +486,7 @@ _By Keith Cirkel. Posted on December 9, 2014_
 
 ### <a name="testing-lint-quality-checkers"></a>Testing / Lint / Quality checkers
 
-### [JSHint](http://jshint.com/ "link to site")
+### [JSHint](http://jshint.com/ "link to jshint.com")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/jshint.png" %}
 
@@ -496,7 +496,7 @@ _By Keith Cirkel. Posted on December 9, 2014_
 _JSHint created and maintained by Anton Kovalyov. 184 contributors <span class="octicon octicon-star"></span>star:&nbsp;4,526 <br /><span class="octicon octicon-repo-forked"></span>fork:&nbsp;951_
 
 
-### [ESLint](http://eslint.org/ "link to site")
+### [ESLint](http://eslint.org/ "link to eslint.org")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/eslint.png" %}
 
@@ -895,6 +895,8 @@ _By Eiji Kitamura. Includes 8:12 video. Published at webcomponents.org on Januar
 _By Eiji Kitamura. Includes 8:16 video. Published at webcomponents.org on November&nbsp;23, 2014_
 
 
+### [Templates](http://webcomponents.org/articles/introduction-to-template-element/ "link to article at webcomponents.org")
+
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/templates.png" %}
 
 “‘Templates’ used to be a technology frequently used with server-side technologies such as PHP, Django (Python) or Ruby on Rails. But lately it’s becoming more common to use templates in the browser.
@@ -919,6 +921,8 @@ _By Eiji Kitamura. Includes 8:16 video. Published at webcomponents.org on Novemb
 
 This web component wins the internet: “<code>&lt;x-gif></code> is a web component for flexible GIF playback. Speed them up, slow them down, play them in reverse, synch multiple beats to a rhythm, synch them to audio, whatever you like.”<br />
 _A project of Glen Maddern. 4&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;1,502 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;71_
+
+
 
 
 
@@ -982,6 +986,9 @@ _469&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;18,7
 Docker-based hosted build / CI.
 
 “Chris Corriveau, CTO, StockTwits: ‘If your goal is to commit code often, test it, and ship to production as fast as possible to keep up with your companies changing features and initiatives there is no better product than Shippable! Using Shippable cut down our testing time from over 20 mins to under 8 mins.’ ”
+
+
+
 
 
 
@@ -1050,7 +1057,7 @@ irc://irc.freenode.net/io.js — the Node fork
 ## <a name="news"></a>News
 
 
-### [JavaScript Weekly](http://javascriptweekly.com/ "link to site")
+### [JavaScript Weekly](http://javascriptweekly.com/ "link to javascriptweekly site")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/javascriptweekly.png" %}
 
@@ -1060,7 +1067,7 @@ irc://irc.freenode.net/io.js — the Node fork
 _Published by [Cooper Press](https://cooperpress.com/ "link to Cooper Press") and curated by [Peter Cooper](http://twitter.com/peterc "link to @peterc Twitter page")_
 
 
-### [Node Weekly](http://nodeweekly.com/ "link to site")
+### [Node Weekly](http://nodeweekly.com/ "link to nodeweekly site")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/nodeweekly.png" %}
 
@@ -1070,7 +1077,7 @@ _Published by [Cooper Press](https://cooperpress.com/ "link to Cooper Press") an
 _Published by [Cooper Press](https://cooperpress.com/ "link to Cooper Press")_
 
 
-### [HTML5 Weekly](http://html5weekly.com/ "link to site")
+### [HTML5 Weekly](http://html5weekly.com/ "link to html5weekly site")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/html5weekly.png" %}
 
@@ -1080,7 +1087,7 @@ _Published by [Cooper Press](https://cooperpress.com/ "link to Cooper Press")_
 _Published by [Cooper Press](https://cooperpress.com/ "link to Cooper Press") and curated by [Peter Cooper](http://twitter.com/peterc "link to @peterc Twitter page")_
 
 
-### [EchoJS](http://www.echojs.com/ "link to site")
+### [EchoJS](http://www.echojs.com/ "link to echojssite")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/echojs.png" %}
 
@@ -1088,7 +1095,7 @@ _Published by [Cooper Press](https://cooperpress.com/ "link to Cooper Press") an
 _Founder and maintainer: Frederic Cambus, advisor: Fabien Allanic_
 
 
-### [DailyJS](http://dailyjs.com/ "link to site")
+### [DailyJS](http://dailyjs.com/ "link to dailyjssite")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/dailyjs.png" %}
 
@@ -1096,7 +1103,7 @@ Daily round-ups, dating back to November 2009.<br />
 _Editor-in-chief: [Alex R. Young](http://twitter.com/#!/alex_young "link to @alex_young Twitter page"), proofreader: [Yuka Young](http://twitter.com/#!/YukaYoung "link to @YukaYoung Twitter page")_
 
 
-### [JavaScript Jabber](http://devchat.tv/js-jabber/ "link to site")
+### [JavaScript Jabber](http://devchat.tv/js-jabber/ "link to JavaScript Jabber site")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/js-jabber.png" %}
 
@@ -1105,12 +1112,15 @@ _Moderated by Charles Max Wood, with regular panel members and a weekly guest_
 
 
 
+
+
+
 <!--  ===============================================================================  -->
 <!--  ===============================================================================  -->
 ## <a name="pasting-sharing-code"></a>Pasting / sharing code
 
 
-### [Codepen](http://codepen.io/pen/ "link to site")
+### [Codepen](http://codepen.io/pen/ "link to codepen.io")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/codepen.png" %}
 
@@ -1119,11 +1129,14 @@ _Moderated by Charles Max Wood, with regular panel members and a weekly guest_
 “It is an HTML, CSS, and JavaScript code editor in your browser with instant previews of the code you see and write. It is a searchable trove of your own creations, and a world of other people’s creations. A place to troubleshoot, to teach, to learn, to test, and to grow.”
 
 
-### [RequireBin](http://requirebin.com/ "link to site")
+### [RequireBin](http://requirebin.com/ "link to requirebin.com")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/requirebin-demo.png" %}
 
 “Shareable JavaScript programs powered by NPM and browserify” (e.g., you can require npm modules from the browser via browserify and browserify-cdn).
+
+
+
 
 
 <!--  ===============================================================================  -->
@@ -1131,14 +1144,14 @@ _Moderated by Charles Max Wood, with regular panel members and a weekly guest_
 ## <a name="contests"></a>Contests
 
 
-### [DemoJS](http://demojs.org/ "link to site")
+### [DemoJS](http://demojs.org/ "link to demojs.org")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/demojs.png" %}
 
 The JavaScript demoscene party: “DemoJS is a day-long, open-to-all, web-based, but not only, free [demoparty](http://en.wikipedia.org/wiki/Demoparty "link to Wikipedia entry for demoparty")
 
 
-### [JS1k](http://js1k.com/ "link to site")
+### [JS1k](http://js1k.com/ "link to js1k.com")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/js1k.png" %}
 
@@ -1146,7 +1159,7 @@ JavaScript demos in 1k of memory: JS1K “runs yearly, usually in or around Febr
 _Created and  maintained by Peter van der Zee_
 
 
-### [JS13k Games](http://js13kgames.com/ "link to site")
+### [JS13k Games](http://js13kgames.com/ "link to js13kgames.com")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/js13kgames.png" %}
 
@@ -1154,7 +1167,7 @@ JavaScript games in 13k of memory: “Js13kGames is a JavaScript coding competit
 _Organized by [Andrzej Mazur](https://twitter.com/end3r "link to @end3r Twitter page")_
 
 
-### [FightCode game](http://fightcodegame.com/ "link to site")
+### [FightCode game](http://fightcodegame.com/ "link to fightcodegame.com")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/fightcodegame.png" %}
 
@@ -1164,7 +1177,7 @@ Program virtual battle bots and climb the leaderboard: “fightcodegame.com is a
 _“Battle against 26,532 other robots”_
 
 
-### [Node Knockout](http://nodeknockout.com/ "link to site")
+### [Node Knockout](http://nodeknockout.com/ "link to nodeknockout.com")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/nodeknockout.png" %}
 
@@ -1174,12 +1187,14 @@ In 2014, contestants could compete ‘virtually’ from anywhere in the world, w
 
 
 
+
+
 <!--  ===============================================================================  -->
 <!--  ===============================================================================  -->
 ## <a name="hackable-hardware"></a>Hackable Hardware
 
 
-### [Nodebots](http://nodebots.io/ "link to site")
+### [Nodebots](http://nodebots.io/ "link to nodebots.io")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/nodebots.png" %}
 
@@ -1188,14 +1203,14 @@ In 2014, contestants could compete ‘virtually’ from anywhere in the world, w
 “That’s right... if you’ve any JavaScript experience, you can now use your powers to manipulate the machines. From [blinking lights](http://instagram.com/p/cFVNtmJxlc/ "link to video on Instagram") to [Sumo Bot battles](http://nodebots.io/sumo.html "link to Sumo competition rules"), [remote-control cats](http://www.youtube.com/watch?v=6NYyGC-wZKU "link to video on YouTube"), and [bull fighting with quadcopters](https://github.com/substack/matador-copter "code for the Parrot AR Quadricopter")....”
 
 
-### [Cylon](http://cylonjs.com/ "link to site")
+### [Cylon](http://cylonjs.com/ "link to cylonjs.com")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/cylonjs.png" %}
 
 “Cylon.js is a JavaScript framework for robotics, physical computing, and the Internet of Things. It makes it incredibly easy to command robots and devices.”
 
 
-### [Nodecopter](http://www.nodecopter.com/ "link to site")
+### [Nodecopter](http://www.nodecopter.com/ "link to nodecopter.com")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/nodecopter.png" %}
 
@@ -1204,7 +1219,7 @@ In 2014, contestants could compete ‘virtually’ from anywhere in the world, w
 “Each team receives one Parrot AR Drone 2.0 and spends the day programming and playing with it. At the end of the day, each team gets to present their work to the other attendees.”
 
 
-### [Tessel](https://tessel.io/ "link to site")
+### [Tessel](https://tessel.io/ "link to tessel.io")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/tessel.png" %}
 
@@ -1213,13 +1228,16 @@ In 2014, contestants could compete ‘virtually’ from anywhere in the world, w
 “Tessel runs JavaScript — no server necessary. Just like web or mobile development, use your own IDE and libraries to program physical applications. Tessel supports packages from npm — that’s HTTP, Twitter, web server, color, and async support right out of the box.”
 
 
-### [Espruino](http://www.espruino.com/ "link to site")
+### [Espruino](http://www.espruino.com/ "link to espruino.com")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/espruino.png" %}
 
 “While Tessel and Espruino both run JavaScript, they’re very different. Tessel is aimed at internet-connected devices (it’s more like a Raspberry Pi), and Espruino is aimed at low-power devices (more like an Arduino).
 
 “The two areas overlap a lot, but the main differences are: Espruino is a lot cheaper (1/3 of the price), Tessel has more memory, Espruino uses a lot less power so it can run for years on a battery, Tessel is faster, Tessel has WiFi built in (but you can plug WiFi or Ethernet modules into Espruino), and Tessel provides pre-made modules that can be plugged in for certain things — Espruino’s emphasis is on using standard hardware that’s available cheaply from a variety of vendors.”
+
+
+
 
 
 <!--  ===============================================================================  -->
@@ -1236,22 +1254,28 @@ In 2014, contestants could compete ‘virtually’ from anywhere in the world, w
 “DigitalOcean is a simple and fast cloud hosting provider built for developers. Customers can create a cloud server in 55 seconds, and pricing plans start at only $5 per month for 512MB of RAM, 20GB SSD, 1 CPU, and 1TB Transfer.”
 
 
+
+
+
 <!--  ===============================================================================  -->
 <!--  ===============================================================================  -->
 ## <a name="for-kids"></a>For kids (and people who just love to have fun)
 
-### [JavaScript for Kids](http://www.amazon.com/gp/product/B00QL616QE?ie=UTF8&camp=213733&creative=393177&creativeASIN=B00QL616QE&linkCode=shr&tag=ericleads-20&linkId=6AOODC27L6URY3K2"link to Amazon page for this book")
+### [JavaScript for Kids](http://www.amazon.com/gp/product/B00QL616QE?ie=UTF8&camp=213733&creative=393177&creativeASIN=B00QL616QE&linkCode=shr&tag=ericleads-20&linkId=6AOODC27L6URY3K2 "link to Amazon page for this book")
 
 See [information](#javascript-for-kids) above in [Books](#books) section.
 
 
-### [LearnToMod](http://www.learntomod.com/ "link to site")
+### [LearnToMod](http://www.learntomod.com/ "link to learntomod.com")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/learntomod.png" %}
 
 Mod Minecraft with JavaScript: “LearnToMod lets you mod Minecraft with either JavaScript or Blockly — or even a combination of the two. Blockly is accessible to children as young as 8. And JavaScript can be challenging to coders of any age.
 
 “Blockly is a great way to learn deep computer science concepts like if-statements, loops, data types, boolean logic, object-oriented programming, event-driven programming, and more. Once you’ve learned these concepts in Blockly, the only hurdle that remains is to learn the syntax of JavaScript. This is much easier than trying to learn these concepts and the syntax of JavaScript simultaneously.”
+
+
+
 
 
 <!--  ===============================================================================  -->
