@@ -542,6 +542,9 @@ The best way to test HTTP endpoints: “Super-agent driven library for testing n
 _Project maintained by Visionmedia. 30 contributors <span class="octicon octicon-star"></span>star:&nbsp;1,730 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;136_
 
 
+
+
+
 <!--  ===============================================================================  -->
 
 ### <a name="transpilers"></a>Transpilers
@@ -551,7 +554,7 @@ _Project maintained by Visionmedia. 30 contributors <span class="octicon octicon
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/6to5.png" %}
 
 (ES6) “6to5 turns ES6+ code into vanilla ES5, so you can use next-generation features today.”<br />
-_44 contributors <span class="octicon octicon-star"></span>star:&nbsp;2,272 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;94_
+_50 contributors <span class="octicon octicon-star"></span>star:&nbsp;2,887 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;116_
 
 
 ### [CoffeeScript](http://coffeescript.org/ "link to coffeescript site")
@@ -561,14 +564,15 @@ _44 contributors <span class="octicon octicon-star"></span>star:&nbsp;2,272 <spa
 “CoffeeScript is a little language that compiles into JavaScript. Underneath that awkward Java-esque patina, JavaScript has always had a gorgeous heart. CoffeeScript is an attempt to expose the good parts of JavaScript in a simple way.
 
 “The golden rule of CoffeeScript is: ‘It’s just JavaScript.’ The code compiles one-to-one into the equivalent JS, and there is no interpretation at runtime. You can use any existing JavaScript library seamlessly from CoffeeScript (and vice-versa). The compiled output is readable and pretty-printed, will work in every JavaScript runtime, and tends to run as fast or faster than the equivalent handwritten JavaScript.”<br />
-_A project of Jeeremy Ashkenas. 167 contributors <span class="octicon octicon-star"></span>star:&nbsp;10,603 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;1,383_
+_A project of Jeremy Ashkenas. 169 contributors <span class="octicon octicon-star"></span>star:&nbsp;10,686 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;1,401_
+
 
 ### [Emscripten](http://kripken.github.io/emscripten-site/ "link to GitHub site")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/emscripten.png" %}
 
 (frequently used for C/C++ JavaScript ports) “Practically any portable C or C++ codebase can be compiled into JavaScript using Emscripten, ranging from high-performance games that need to render graphics, play sounds, and load and process files, through to application frameworks like Qt.” <br />
-_A project of Alon Zakai. 161 contributors <span class="octicon octicon-star"></span>star:&nbsp;7,751 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;850_
+_A project of Alon Zakai. 161 contributors <span class="octicon octicon-star"></span>star:&nbsp;7,816 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;865_
 
 
 ### [Traceur](https://github.com/google/traceur-compiler "link to GitHub site")
@@ -576,7 +580,7 @@ _A project of Alon Zakai. 161 contributors <span class="octicon octicon-star"></
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/traceur-compiler.png" %}
 
 (ES.next) “Traceur is a JavaScript.next-to-JavaScript-of-today compiler that allows you to use features from the future today.... Traceur allows you to try out new and proposed language features today, helping you say what you mean in your code while informing the standards process.”<br />
-_53 contributors <span class="octicon octicon-star"></span>star:&nbsp;4,388 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;259_
+_54 contributors <span class="octicon octicon-star"></span>star:&nbsp;4,523 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;270_
 
 
 ### [ES6 tools](https://github.com/addyosmani/es6-tools "link to GitHub site")
@@ -584,7 +588,10 @@ _53 contributors <span class="octicon octicon-star"></span>star:&nbsp;4,388 <spa
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/es6-tools.png" %}
 
 ES6 Tools list (112 listed in Jan 2015) <br />
-_A project of Addy Osmani. 26 contributors <span class="octicon octicon-star"></span>star:&nbsp;1,381 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;76_
+_A project of Addy Osmani. 26 contributors <span class="octicon octicon-star"></span>star:&nbsp;1,440 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;78_
+
+
+
 
 
 
