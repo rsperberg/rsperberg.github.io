@@ -471,7 +471,7 @@ Bundle modules for the browser. “browserify is a tool for compiling node-flavo
 “The module system that browserify uses is the same as node, so packages published to npm that were originally intended for use in node but not browsers will work just fine in the browser too.
 
 “Increasingly, people are publishing modules to npm which are intentionally designed to work in both node and in the browser using browserify and many packages on npm are intended for use in just the browser. [npm is for all javascript](http://maxogden.com/node-packaged-modules.html "link to post on using npm for client-side programs"), front or backend alike.” <br />
-_Project of James Halliday. 133 contributors <span class="octicon octicon-star"></span>star:&nbsp;6,403 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;571_
+_Project of James Halliday. 134 contributors <span class="octicon octicon-star"></span>star:&nbsp;6,520 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;582_
 
 
 ###[How to use NPM as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/ "link to post")
@@ -493,7 +493,7 @@ _By Keith Cirkel. Posted on December 9, 2014_
 “JSHint scans a program written in JavaScript and reports about commonly made mistakes and potential bugs. The potential problem could be a syntax error, a bug due to implicit type conversion, a leaking variable or something else.
 
 “Only 15% of all programs linted on this website pass the JSHint checks. In all other cases, JSHint finds some red flags that could’ve been bugs or potential problems.” <br />
-_JSHint created and maintained by Anton Kovalyov. 183 contributors <span class="octicon octicon-star"></span>star:&nbsp;4,438 <br /><span class="octicon octicon-repo-forked"></span>fork:&nbsp;932_
+_JSHint created and maintained by Anton Kovalyov. 184 contributors <span class="octicon octicon-star"></span>star:&nbsp;4,526 <br /><span class="octicon octicon-repo-forked"></span>fork:&nbsp;951_
 
 
 ### [ESLint](http://eslint.org/ "link to site")
@@ -505,7 +505,7 @@ _JSHint created and maintained by Anton Kovalyov. 183 contributors <span class="
 “The primary reason ESLint was created was to allow developers to create their own linting rules. ESLint is designed to have all rules completely pluggable. The default rules are written just like any plugin rules would be. They can all follow the same pattern, both for the rules themselves as well as tests. ...
 
 “ESLint is written using Node.js to provide a fast runtime environment and easy installation via npm.”<br />
-_Created by Nicholas C. Zakas in June 2013. 121 contributors <span class="octicon octicon-star"></span>star:&nbsp;1,524 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;254_
+_Created by Nicholas C. Zakas in June 2013. 127 contributors <span class="octicon octicon-star"></span>star:&nbsp;1,572 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;265_
 
 
 ### [Istanbul](https://github.com/gotwarlost/istanbul "link to GitHub site")
@@ -513,7 +513,8 @@ _Created by Nicholas C. Zakas in June 2013. 121 contributors <span class="octico
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/istanbul.png" %}
 
 Code coverage reporting. <br />
-_A project of Krishnan Anantheswaran. 36 contributors <span class="octicon octicon-star"></span>star:&nbsp;2,131 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;203_
+_A project of Krishnan Anantheswaran. 36 contributors <span class="octicon octicon-star"></span>star:&nbsp;2,177 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;206_
+
 
 ### [tape](https://github.com/substack/tape "link to GitHub site")
 
@@ -538,7 +539,7 @@ _A project of James Halliday. 2 contributors <span class="octicon octicon-star">
 The best way to test HTTP endpoints: “Super-agent driven library for testing node.js HTTP servers using a fluent API.
 
 “The motivation with this module is to provide a high-level abstraction for testing HTTP, while still allowing you to drop down to the lower-level API provided by super-agent.”<br />
-_Project maintained by Visionmedia. 30 contributors <span class="octicon octicon-star"></span>star:&nbsp;1,725 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;136_
+_Project maintained by Visionmedia. 30 contributors <span class="octicon octicon-star"></span>star:&nbsp;1,730 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;136_
 
 
 <!--  ===============================================================================  -->
