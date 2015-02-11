@@ -607,7 +607,7 @@ _A project of Addy Osmani. 26 contributors <span class="octicon octicon-star"></
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/nodejs-org.png" %}
 
 Server-side JavaScript and more <br />
-_583 contributors <span class="octicon octicon-star"></span>star:&nbsp;34,408 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;7,665_
+_585&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;34,655 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;7,718_
 
 
 
@@ -622,7 +622,9 @@ The Node fork.
 “Why? io.js aims to provide faster and predictable release cycles. It currently merges in the latest language, API and performance improvements to V8 while also updating libuv and other base libraries.
 
 “This project aims to continue development of io.js under an ‘[open governance model](https://github.com/iojs/io.js/blob/v1.x/GOVERNANCE.md#readme "link to io.js project governance document")’ as opposed to corporate stewardship.”<br />
-_626 contributors <span class="octicon octicon-star"></span>star:&nbsp;9,054 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;526_
+_632 contributors <span class="octicon octicon-star"></span>star:&nbsp;9,880 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;599_
+
+
 
 
 
