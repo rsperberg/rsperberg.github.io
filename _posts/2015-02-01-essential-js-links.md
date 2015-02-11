@@ -93,7 +93,7 @@ Great read, even if you’re not a React user. “The new great idea in React is
 _By Andre Medeiros. Published at Futurice on November 2, 2014_
 
 
-### [The introduction to Reactive Programming you’ve been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754 title="link to gist")
+### [The introduction to Reactive Programming you’ve been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754 "link to gist")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/introrx.png" %}
 
