@@ -242,7 +242,7 @@ An annotated, hyperlinked version of the ES5 spec
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/annotated-es6.png" %}
 
 Most-recent draft of the ECMAScript 6 specification. <br />
-_Version: Rev 31, January 15, 2014_
+_Version: Rev 32, February 2, 2015_
 
 
 
