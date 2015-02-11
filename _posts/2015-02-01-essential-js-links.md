@@ -100,7 +100,7 @@ _By Andre Medeiros. Published at Futurice on November 2, 2014_
 “Reactive programming is programming with asynchronous data streams.
 
 “In a way, this isn’t anything new. Event buses or your typical click events are really an asynchronous event stream, on which you can observe and do some side effects. Reactive is that idea on steroids. You are able to create data streams of anything, not just from click and hover events. Streams are cheap and ubiquitous, anything can be a stream: variables, user inputs, properties, caches, data structures, etc. For example, imagine your Twitter feed would be a data stream in the same fashion that click events are. You can listen to that stream and react accordingly.” <br />
-_By André Staltz. <span class="octicon octicon-star"></span>star:&nbsp;3,101 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;282_
+_By André Staltz. <span class="octicon octicon-star"></span>star:&nbsp;3,169 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;286_
 
 
 ### [A General Theory of Reactivity](https://github.com/kriskowal/gtor "link to post")
@@ -110,7 +110,7 @@ _By André Staltz. <span class="octicon octicon-star"></span>star:&nbsp;3,101 <s
 What is all this talk about reactive? Functional? Promises? This is the beginning of a reactive programming bible. “In the context of a computer program, reactivity is the process of receiving external stimuli and propagating events. This is a rather broad definition that covers a wide variety of topics. The term is usually reserved for systems that respond in turns to sensors, schedules, and above all, problems that exist between the chair and keyboard....
 
 “[V]arious minds in the field of reactivity have been converging on a model that unifies at least promises and observables.” <br />
-_By Kris Kowal. First posted at github on August 9, 2014. 5 contributors <span class="octicon octicon-star"></span>star:&nbsp;401 <br /><span class="octicon octicon-repo-forked"></span>fork:&nbsp;12_
+_By Kris Kowal. First posted at github on August 9, 2014. 5 contributors <span class="octicon octicon-star"></span>star:&nbsp;416 <br /><span class="octicon octicon-repo-forked"></span>fork:&nbsp;14_
 
 
 ### [ES6 Generators](http://davidwalsh.name/es6-generators "link to post")
