@@ -232,7 +232,7 @@ _Keynote by [Rich Hickey](https://twitter.com/richhickey "link to @richhickey tw
 
 ### [ES5 Spec](http://es5.github.io/ "link to ES5 spec")
 
-{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/annotated-es5.png"  %}
+{% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/annotated-es5.png" %}
 
 An annotated, hyperlinked version of the ES5 spec
 
