@@ -993,6 +993,7 @@ Docker-based hosted build / CI.
 
 
 
+
 <!--  ===============================================================================  -->
 <!--  ===============================================================================  -->
 
@@ -1046,6 +1047,9 @@ irc://irc.freenode.net/node.js
 ### IRC #io.js
 
 irc://irc.freenode.net/io.js — the Node fork
+
+
+
 
 
 
@@ -1115,6 +1119,8 @@ _Moderated by Charles Max Wood, with regular panel members and a weekly guest_
 
 
 
+
+
 <!--  ===============================================================================  -->
 <!--  ===============================================================================  -->
 ## <a name="pasting-sharing-code"></a>Pasting / sharing code
@@ -1134,6 +1140,9 @@ _Moderated by Charles Max Wood, with regular panel members and a weekly guest_
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/requirebin-demo.png" %}
 
 “Shareable JavaScript programs powered by NPM and browserify” (e.g., you can require npm modules from the browser via browserify and browserify-cdn).
+
+
+
 
 
 
@@ -1174,7 +1183,7 @@ _Organized by [Andrzej Mazur](https://twitter.com/end3r "link to @end3r Twitter 
 Program virtual battle bots and climb the leaderboard: “fightcodegame.com is a free-to-play game and you can create as many robots as you’d like.
 <br />
 “Coding your robots is very easy and should be natural if you’ve ever had any JavaScript experience.”<br />
-_“Battle against 26,532 other robots”_
+_“Battle against 26,782 other robots”_
 
 
 ### [Node Knockout](http://nodeknockout.com/ "link to nodeknockout.com")
@@ -1184,6 +1193,8 @@ _“Battle against 26,532 other robots”_
 The legendary Node competition: “Node Knockout is the world’s biggest Node.js programming competition — a 48-hour coding contest featuring node.js”
 
 In 2014, contestants could compete ‘virtually’ from anywhere in the world, with Knockout HQ located in San Francisco and competition sites in Chicago, Tokyo, Venice, Taipei and Reno, Nevada.
+
+
 
 
 
@@ -1240,6 +1251,8 @@ In 2014, contestants could compete ‘virtually’ from anywhere in the world, w
 
 
 
+
+
 <!--  ===============================================================================  -->
 <!--  ===============================================================================  -->
 ## <a name="hosting"></a>Hosting
@@ -1252,6 +1265,8 @@ In 2014, contestants could compete ‘virtually’ from anywhere in the world, w
 “DigitalOcean is a platform created for developers who need to launch and scale their applications quickly. Additionally, DigitalOcean provides the perfect environment for developers to play around on the command line and learn more about customizing their own servers.
 
 “DigitalOcean is a simple and fast cloud hosting provider built for developers. Customers can create a cloud server in 55 seconds, and pricing plans start at only $5 per month for 512MB of RAM, 20GB SSD, 1 CPU, and 1TB Transfer.”
+
+
 
 
 
