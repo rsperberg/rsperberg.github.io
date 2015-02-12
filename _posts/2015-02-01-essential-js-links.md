@@ -871,7 +871,7 @@ _By Addy Osmani. Posted circa May 9, 2014_
 “As these technologies are implemented in browsers, the polyfills will shrink and you’ll gain the benefits of native implementations. <code>webcomponents.js</code> automatically detects native support and switches to the fast path when available. Your elements seamlessly start relying on the native stuff — and get faster in the process.
 
 “**Note:** The <code>webcomponents.js</code> polyfill layer is no longer needed for browsers that fully implement the Web Components APIs, such as Chrome 36+.”<br />
-_20&nbsp;contributors (at github.com/webcomponents/webcomponentsjs)<span class="octicon octicon-star"></span>star:&nbsp;331 <br /><span class="octicon octicon-repo-forked"></span>fork:&nbsp;56_
+_24&nbsp;contributors (at github.com/webcomponents/webcomponentsjs)<span class="octicon octicon-star"></span>star:&nbsp;371 <br /><span class="octicon octicon-repo-forked"></span>fork:&nbsp;65_
 
 
 ### [HTML Imports](http://webcomponents.org/articles/introduction-to-html-imports/ "link to article at webcomponents.org")
@@ -920,7 +920,7 @@ _By Eiji Kitamura. Includes 8:16 video. Published at webcomponents.org on Novemb
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/x-gif.png" %}
 
 This web component wins the internet: “<code>&lt;x-gif></code> is a web component for flexible GIF playback. Speed them up, slow them down, play them in reverse, synch multiple beats to a rhythm, synch them to audio, whatever you like.”<br />
-_A project of Glen Maddern. 4&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;1,502 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;71_
+_A project of Glen Maddern. 4&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;1,522 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;72_
 
 
 
