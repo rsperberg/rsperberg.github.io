@@ -939,7 +939,7 @@ _A project of Glen Maddern. 4&nbsp;contributors<span class="octicon octicon-star
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/pm2.png" %}
 
 Process monitoring / self repair: “PM2 is a production process manager for Node.js applications with a built-in load balancer. Perfectly designed for microservice architecture. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks.”<br />
-_A project of Alexandre Strzelewicz. 72&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;6,205 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;459_
+_A project of Alexandre Strzelewicz. 74&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;6,364 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;472_
 
 
 ### [New Relic](http://newrelic.com/ "link to New Relic site")
@@ -976,7 +976,7 @@ Run your CI process using the same OS configs as your production systems.<br />
 
 “Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications. Consisting of Docker Engine, a portable, lightweight runtime and packaging tool, and Docker Hub, a cloud service for sharing applications and automating workflows, Docker enables apps to be quickly assembled from components and eliminates the friction between development, QA, and production environments.”
 <br />
-_469&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;18,780 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;3,871_
+_765&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;19,118 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;3,946_
 
 
 ### [Shippable](https://www.shippable.com/ "link to shippable.com")
