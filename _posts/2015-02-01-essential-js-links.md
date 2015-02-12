@@ -1013,7 +1013,7 @@ Notably (as the GitHub site puts it), “esdiscuss.org aims to produce a readabl
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/js-on-google-plus.png" %}
 
 
-_104,305 members. You can view pages or posts in areas identified as “questions, beginners, discussion, ‘show your work,’ MV* frameworks, libraries, guides/tutorials, books, widgets (jQuery, etc) and videos,” as well as shared photos and off-topic items._
+_106,012 members. You can view pages or posts in areas identified as “questions, beginners, discussion, ‘show your work,’ MV* frameworks, libraries, guides/tutorials, books, widgets (jQuery, etc) and videos,” as well as shared photos and off-topic items._
 
 
 ### [HTML5 on Google+](https://plus.google.com/communities/103299867207875326585 "link to html5 community on Google+")
@@ -1023,14 +1023,14 @@ _104,305 members. You can view pages or posts in areas identified as “question
 “A community for html5-related stuff. Links from all around the web, new spec announcements, cool new stuff and other things.<br />
 
 “We talk about: HTML, CSS, CSS3, JS, JavaScript, web development, front end, open source, webGL, Google chrome extensions, browsers, Mozilla Firefox, Internet Explorer, Safari, Opera, development, code, coffeescript, responsive design, web tools, web applications, w3c standards, and other cool stuff.”<br />
-_215,314 members_
+_219,283 members_
 
 
 ### [Node.js on Google+](https://plus.google.com/communities/115365528781941125390 "link to node.js community on Google+")
 
 {% include image-no-descrip.html url="/media/2015-02-01-essential-js-links/node-on-google-plus.png" %}
 
-_49,573 members. You can view pages or posts in areas identified as “discussion, question, libraries &amp; frameworks, tutorials &amp; books and showcase,” as well as shared photos._
+_50,558 members. You can view pages or posts in areas identified as “discussion, question, libraries &amp; frameworks, tutorials &amp; books and showcase,” as well as shared photos._
 
 
 ### IRC ##JavaScript
