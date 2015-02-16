@@ -549,12 +549,12 @@ _Project maintained by Visionmedia. 30 contributors <span class="octicon octicon
 
 ### <a name="transpilers"></a>Transpilers
 
-### [6to5](https://github.com/6to5/6to5 "link to GitHub site")
+### [Babel](https://github.com/babel/babel "link to GitHub site")
 
-{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/6to5.png" %}
+{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/babel.png" %}
 
-(ES6) “6to5 turns ES6+ code into vanilla ES5, so you can use next-generation features today.”<br />
-_50 contributors <span class="octicon octicon-star"></span>star:&nbsp;2,887 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;116_
+Transpile ES6, ES7 to ES5: “Babel is a transpiler for writing next-generation JavaScript. (Previously 6to5)” (link to [babeljs.io](http://babeljs.io "link to babeljs.io site"))<br />
+_50 contributors <span class="octicon octicon-star"></span>star:&nbsp;3,430 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;127_
 
 
 ### [CoffeeScript](http://coffeescript.org/ "link to coffeescript site")
