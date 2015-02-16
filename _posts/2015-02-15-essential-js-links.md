@@ -571,16 +571,8 @@ _A project of Jeremy Ashkenas. 169 contributors <span class="octicon octicon-sta
 
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/emscripten.png" %}
 
-(frequently used for C/C++ JavaScript ports) “Practically any portable C or C++ codebase can be compiled into JavaScript using Emscripten, ranging from high-performance games that need to render graphics, play sounds, and load and process files, through to application frameworks like Qt.” <br />
+Frequently used for C/C++ JavaScript ports: “Practically any portable C or C++ codebase can be compiled into JavaScript using Emscripten, ranging from high-performance games that need to render graphics, play sounds, and load and process files, through to application frameworks like Qt.” <br />
 _A project of Alon Zakai. 161 contributors <span class="octicon octicon-star"></span>star:&nbsp;7,816 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;865_
-
-
-### [Traceur](https://github.com/google/traceur-compiler "link to GitHub site")
-
-{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/traceur-compiler.png" %}
-
-(ES.next) “Traceur is a JavaScript.next-to-JavaScript-of-today compiler that allows you to use features from the future today.... Traceur allows you to try out new and proposed language features today, helping you say what you mean in your code while informing the standards process.”<br />
-_54 contributors <span class="octicon octicon-star"></span>star:&nbsp;4,523 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;270_
 
 
 ### [ES6 tools](https://github.com/addyosmani/es6-tools "link to GitHub site")
