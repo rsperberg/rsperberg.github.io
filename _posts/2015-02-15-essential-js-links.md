@@ -17,7 +17,7 @@ That’s what I like about this list.
 
 Of course, I lack the experience to dispute Elliott’s choices or even to supplement them, but I hope nonetheless that my _re-_presentation is valuable by the addition of my own obsessive labors providing visuals of each link presented and a short summary or self-description that the site itself provides.
 
-Elliott’s gist list is quickly scanned, despite its length (134 items at the end of January 2015). My bulky rendition is not. But I’ve kept the list as a single post and not divided it into two or three pieces to enable a quicker decision as to which resources to explore first by providing some sense of what each one is about.
+Elliott’s gist list is quickly scanned, despite its length (141 items in mid-February 2015). My bulky rendition is not. But I’ve kept the list as a single post and not divided it into two or three pieces to enable a quicker decision as to which resources to explore first by providing some sense of what each one is about.
 
 So herewith I offer thanks to Eric Elliott for pointing out what sites we should be paying attention to. &nbsp; *—&nbsp;Roger Sperberg*
 
@@ -117,7 +117,7 @@ _By Kris Kowal. First posted at github on August 9, 2014. 5 contributors <span c
 
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/es6-generators.png" %}
 
-A series of blog postson ES6 generators: “Whether you realized it or not, you’ve always been able to assume something fairly fundamental about your functions: once the function starts running, it will always run to completion before any other JS code can run....
+A series of blog posts on ES6 generators: “Whether you realized it or not, you’ve always been able to assume something fairly fundamental about your functions: once the function starts running, it will always run to completion before any other JS code can run....
 
 “With ES6 generators, we have a different kind of function, which may be paused in the middle, one or many times, and resumed later, allowing other code to run during these paused periods.” <br />
 _By Kyle Simpson. Published at davidwalsh.com, July – August 2014_
@@ -1508,7 +1508,7 @@ For those who want to make use of this content, it is also published as a gist a
 
 <p>&nbsp; </p>
 
-<small><a href="https://www.flickr.com/photos/htakashi/5291203955/ " style="text-decoration:none;">Photo</a> of parrots by <a href="https://www.flickr.com/photos/htakashi/" title="link to Takashi Hososhima Flickr page">Takashi Hososhima</a> (<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>). The image has been cropped and flipped horizontally html5-cross-browser-polyfillsfor presentation purposes.</small>
+<small><a href="https://www.flickr.com/photos/htakashi/5291203955/ " style="text-decoration:none;">Photo</a> of parrots by <a href="https://www.flickr.com/photos/htakashi/" title="link to Takashi Hososhima Flickr page">Takashi Hososhima</a> (<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>). The image has been cropped and flipped horizontally for presentation purposes.</small>
 
 <!--  small><a href="https://www.flickr.com/photos/gopalarathnam_v/48653786" style="text-decoration:none;">Photo</a> by Gopal Venkatesan, <em>Parrots - Jurong Bird Park</em>, <a href="https://creativecommons.org/licenses/by/2.0/">cc by 2.0</a></small  -->
 
