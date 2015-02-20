@@ -64,6 +64,7 @@ div#article h2 {
 h3 {
 	margin-top: 20px;
 	font-size: 24px;
+            -webkit-margin-after: 2pt;
 }
 /*
 img {
