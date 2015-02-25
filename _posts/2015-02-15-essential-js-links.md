@@ -579,8 +579,8 @@ _A project of Alon Zakai. 161 contributors <span class="octicon octicon-star"></
 
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/es6-tools.png" %}
 
-ES6 Tools list (112 listed in Jan 2015) <br />
-_A project of Addy Osmani. 26 contributors <span class="octicon octicon-star"></span>star:&nbsp;1,440 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;78_
+ES6 Tools list (113 listed in February 2015). (See [annotated version](http://www.super-script.us/2015/es6-tools.html "link to annotated version here at super-script.us")) <br />
+_A project of Addy Osmani. 27 contributors <span class="octicon octicon-star"></span>star:&nbsp;1,510 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;81_
 
 
 
