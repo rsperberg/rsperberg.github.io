@@ -100,7 +100,7 @@ img {
 }
 
 #post-info h2:after {
-	content: "&#x201d;";
+	content: "”";
 }
 
 #post-info h3 {
