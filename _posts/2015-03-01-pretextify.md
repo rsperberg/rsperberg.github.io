@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When code editors fail ... 
-h1_color: #fc0
+hcolor: #fc0
 post_author: Roger Sperberg
 quote: Pretextify makes typewriter text into _print_-worthy text
 image:

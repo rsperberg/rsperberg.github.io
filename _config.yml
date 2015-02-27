@@ -21,6 +21,9 @@ paginate:   5
 icon:    /assets/images/icon-S.png
 cover:      /assets/images/cover.jpg
 
+page:
+  hcolor: #fff
+
 social:
   - icon:   twitter
     url: https://twitter.com/RogerSPress
@@ -37,14 +40,14 @@ social:
   - icon:   feed
     url: http://super-script.us/atom.xml
     desc:   Subscribe to my feed
-    
+
 menu:
   - title:  Home
     url: /
-    
+
   - title:  About
     url: /about
-    
+
 copyright:
   author:   Roger Sperberg
   url:      http://super-script.us
