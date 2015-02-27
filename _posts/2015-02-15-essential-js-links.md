@@ -916,6 +916,12 @@ This web component wins the internet: “<code>&lt;x-gif></code> is a web compon
 _A project of Glen Maddern. 4&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;1,522 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;72_
 
 
+### [Vulcanize](https://github.com/Polymer/vulcanize "link to GitHub page")
+
+{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/vulcanize.png" %}
+
+Don't let web components slow your app down. Bundle your HTML imports: “Build tool for HTMLImports and Web Components. Named for the Vulcanization process that turns polymers into more durable materials.”<br />
+_12&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;566 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;51_
 
 
 
