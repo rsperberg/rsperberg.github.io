@@ -1,6 +1,7 @@
 ---
 layout: post
 title: JavaScripting My Way
+hcolor: '#eeeeee'
 post_author: Roger Sperberg
 quote: The arc describing the change in my work as a developer is bending furiously into JavaScript
 image: /media/2014-08-11-javascripting-my-way/cover.jpg

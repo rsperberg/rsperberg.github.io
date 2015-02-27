@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Eric Elliott’s essential JavaScript links or The way of the parrot, not
+hcolor: '#eeeeee'
 post_author: Roger Sperberg
 quote: How does the novice learner distinguish difficult-to-grasp concepts from inept explanations written by parrots? Follow an expert’s directions.
 image:

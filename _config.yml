@@ -22,7 +22,7 @@ icon:    /assets/images/icon-S.png
 cover:      /assets/images/cover.jpg
 
 page:
-  hcolor: '#fff'
+  hcolor: '#eeeeee'
 
 social:
   - icon:   twitter
