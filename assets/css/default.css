@@ -77,12 +77,13 @@ img {
 	font-size: 14px;
 	position: absolute;
 	z-index: 2;
+            background-color: rgba(0,0,0,0.08);
 }
 
 #post-info h1 {
 	font-weight: bold;
 	margin: 15px 0px;
-            background-color: rgba(0,0,0,0.125);
+ /*           background-color: rgba(0,0,0,0.125);  */
 }
 
 #post-info h2 {
@@ -93,24 +94,24 @@ img {
 /*	text-align: justify;*/
 	font-weight: lighter;
 	margin: 15px 0px;
-            background-color: rgba(0,0,0,0.125);
+/*            background-color: rgba(0,0,0,0.125);  */
 }
 
 #post-info h2:before {
 	content: "“";
-                background-color: rgba(0,0,0,0.125);
+/*                background-color: rgba(0,0,0,0.125);  */
 }
 
 #post-info h2:after {
 	content: "”";
-                background-color: rgba(0,0,0,0.125);
+ /*               background-color: rgba(0,0,0,0.125);  */
 }
 
 #post-info h3 {
 	text-transform: uppercase;
 	font-size: 18px;
 	margin-bottom: -10px;
-                background-color: rgba(0,0,0,0.125);
+ /*               background-color: rgba(0,0,0,0.125);  */
 }
 
 #home-title {
