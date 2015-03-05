@@ -998,7 +998,7 @@ Docker-based hosted build / CI.
 
 ## <a name="community"></a>Community
 
-
+<!--
 ### [ES Discuss](https://esdiscuss.org/ "link to esdiscuss.org")
 
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/esdiscuss.png" %}
@@ -1006,6 +1006,7 @@ Docker-based hosted build / CI.
 The mailing list where all the ECMAScript standard discussion action is.<br />
 
 Notably (as the GitHub site puts it), “esdiscuss.org aims to produce a readable copy of the [esdiscuss mailing list archives](https://mail.mozilla.org/pipermail/es-discuss/ "link to es-discuss at mozilla.org").
+-->
 
 
 ### [JavaScript on Google+](https://plus.google.com/communities/100875929141897651837 "link to JavaScript community on Google+")
