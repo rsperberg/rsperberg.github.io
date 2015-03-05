@@ -1289,6 +1289,23 @@ Mod Minecraft with JavaScript: “LearnToMod lets you mod Minecraft with either 
 “Blockly is a great way to learn deep computer science concepts like if-statements, loops, data types, boolean logic, object-oriented programming, event-driven programming, and more. Once you’ve learned these concepts in Blockly, the only hurdle that remains is to learn the syntax of JavaScript. This is much easier than trying to learn these concepts and the syntax of JavaScript simultaneously.”
 
 
+### [The Young Person’s Guide to Programming in Minecraft](https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md#the-young-persons-guide-to-programming-in-minecraft "link to GitHub page")
+
+{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/ypguide.png" %}
+
+“I created ScriptCraft to make it easier for younger programmers to
+create their own Minecraft Mods. Mods are written using the
+Javascript programming language. Once the ScriptCraft mod is
+installed, you can add your own new Mods by adding Javascript (.js)
+files in a directory.”<br />
+_A project of Walter Higgins. 24&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;532 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;85_
+
+
+<!-- 
+ * “If you're new to programming and want to start modding Minecraft, then [Start Here](https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md "link to docs").
+ * “If you've already used [Scratch](http://scratch.mit.edu/ "link to scratch.mit.edu"), have attended a few [CoderDojo](http://coderdojo.com/ "link to coderdojo.com") sessions, or have already dabbled with Javascript, then [Start Here][http://cdathenry.wordpress.com/category/modderdojo/].
+ * “Watch some [demos](http://www.youtube.com/watch?v=DDp20SKm43Y&list=PL4Tw0AgXQZH5BiFHqD2hXyXQi0-qFbGp_ "link to YouTube") of what you can do with ScriptCraft.”
+-->
 
 
 
