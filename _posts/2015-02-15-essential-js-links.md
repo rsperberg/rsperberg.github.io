@@ -45,7 +45,7 @@ _By Eric Elliot. Published at medium.com on August 2, 2014_
 _By Eric Elliot. Published at medium.com on December 29, 2014_
 
 
-### [How to Fix the `class` Keyword](https://medium.com/p/how-to-fix-the-es6-class-keyword-2d42bb3f4caf)
+### [How to Fix the `class` Keyword](https://medium.com/p/how-to-fix-the-es6-class-keyword-2d42bb3f4caf  "link to article at medium.com")
 
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/how-to-fix-es6-class-keyword.png" %}
 
