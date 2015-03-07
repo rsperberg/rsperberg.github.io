@@ -45,6 +45,14 @@ _By Eric Elliot. Published at medium.com on August 2, 2014_
 _By Eric Elliot. Published at medium.com on December 29, 2014_
 
 
+### [How to Fix the `class` Keyword](https://medium.com/p/how-to-fix-the-es6-class-keyword-2d42bb3f4caf)
+
+{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/how-to-fix-es6-class-keyword.png" %}
+
+TL;DR `class` is broken. Don’t use it until it’s fixed.<br />
+_By Eric Elliot. Published at medium.com on March 3, 2015_
+
+
 ### [The Two Pillars of JavaScript Part 1: Prototypal OO](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3 "link to article at medium.com")
 
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/the-two-pillars-of-javascript-pt-1.png" %}
