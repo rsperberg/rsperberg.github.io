@@ -760,7 +760,7 @@ _2 contributors <span class="octicon octicon-star"></span>star:&nbsp;74 <span cl
 
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/lodash-fp.png" %}
 
-Like Underscore, but much faster, and featuring a more expressive API.<br />
+Like Underscore, but much faster, and featuring a more expressive API: “[lodash](https://lodash.com/ "link to lodash.com") with auto-curried iteratee-first methods.”<br />
 _1 contributor <span class="octicon octicon-star"></span>star:&nbsp;102 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;2_
 
 ### [RxJS](https://github.com/Reactive-Extensions/RxJS "link to GitHub site")
