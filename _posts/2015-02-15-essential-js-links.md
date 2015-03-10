@@ -797,6 +797,14 @@ i18n / translate your app for many languages and locations (locales). “Each la
 _26 contributors <span class="octicon octicon-star"></span>star:&nbsp;1,497 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;335_
 
 
+### [Lusca](https://github.com/krakenjs/lusca "link to GitHub page")
+
+{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/lusca.png" %}
+
+Secure your Express application. By the Kraken team at PayPal.<br />
+_17 contributors <span class="octicon octicon-star"></span>star:&nbsp;629 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;58_
+
+
 ### [Express](http://expressjs.com/ "link to expressjs.com")
 
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/express.png" %}
