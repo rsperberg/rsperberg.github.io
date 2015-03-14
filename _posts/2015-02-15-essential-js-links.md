@@ -845,17 +845,29 @@ _A project of Eric Elliott. 4&nbsp;contributors<span class="octicon octicon-star
 UI animation library: “Velocity is an animation engine with the same API as jQuery’s <code>$.animate()</code>. It works with and without jQuery. It’s incredibly fast, and it features color animation, transforms, loops, easings, SVG support, and scrolling. It is the best of jQuery and CSS transitions combined.”<br />
 _A project of Julian Shapiro. 14&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;6,725 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;520_
 
-
+<!--
 ### [json-schema](https://github.com/kriszyp/json-schema "link to GitHub site")
 
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/json-schema.png" %}
 
 Great for model validations: “JSON Schema describes your JSON data format.”<br />
 _12&nbsp;contributors (at github.com/json-schema)<span class="octicon octicon-star"></span>star:&nbsp;453 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;97_
+-->
+
+### [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid "link to GitHub site")
+
+{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/is-my-json-valid.png" %}
+
+A fast [json-schema](http://json-schema.org/ "link to json-schema.org") validator: “A JSONSchema validator that uses code generation to be extremely fast.”<br />
+_A project of Mathias Buus. 8&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;173 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;13_
 
 
+### [inquirer.js](https://github.com/SBoudrias/Inquirer.js "link to GitHub site")
 
+{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/is-my-json-valid.png" %}
 
+Great library for building CLI tools: “A collection of common interactive command line user interfaces.”<br />
+_A project of Simon Boudrias. 24&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;1,314 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;90_
 
 
 
