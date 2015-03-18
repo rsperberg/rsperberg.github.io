@@ -119,7 +119,7 @@ _By André Staltz. <span class="octicon octicon-star"></span>star:&nbsp;3,465 <s
 What is all this talk about reactive? Functional? Promises? This is the beginning of a reactive programming bible. “In the context of a computer program, reactivity is the process of receiving external stimuli and propagating events. This is a rather broad definition that covers a wide variety of topics. The term is usually reserved for systems that respond in turns to sensors, schedules, and above all, problems that exist between the chair and keyboard....
 
 “[V]arious minds in the field of reactivity have been converging on a model that unifies at least promises and observables.” <br />
-_By Kris Kowal. First posted at github on August 9, 2014. 5 contributors <span class="octicon octicon-star"></span>star:&nbsp;416 <br /><span class="octicon octicon-repo-forked"></span>fork:&nbsp;14_
+_By Kris Kowal. First posted at github on August 9, 2014. 5 contributors <span class="octicon octicon-star"></span>star:&nbsp;463 <br /><span class="octicon octicon-repo-forked"></span>fork:&nbsp;16_
 
 
 ### [ES6 Generators](http://davidwalsh.name/es6-generators "link to post")
