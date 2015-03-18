@@ -188,7 +188,7 @@ _A talk given by [Eric Elliott](https://twitter.com/_ericelliott "link to @\_eri
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/asynchronous-programming.png" %}
 
 “What does a mouse drag event have in common with an array of numbers? The answer to this question may surprise you: they are both collections. This insight holds the key to dramatically simplifying asynchronous programming in JavaScript. In this talk you will learn how you can use the familiar JavaScript Array methods to create surprisingly expressive asynchronous programs.” <br />
-_By Jafar Husain. Delivered at @Scale 2014. Published on September 22, 2014. Length: 41:46, 5,823&nbsp;views_
+_By Jafar Husain. Delivered at @Scale 2014. Published on September 22, 2014. Length: 41:46, 6,819&nbsp;views_
 
 
 ### [Immutability: Putting The Dream Machine To Work](https://www.youtube.com/watch?v=SiFwRtCnxv4 "link to talk on YouTube") — [David Nolen](https://twitter.com/swannodette "link to David Nolen on Twitter")
@@ -198,7 +198,7 @@ _By Jafar Husain. Delivered at @Scale 2014. Published on September 22, 2014. Len
 “We live in a time of vast computational resources — many of us carry around in our pockets what just thirty years ago would have been considered a supercomputer. But it’s not just the hardware, these bite-sized supercomputers run software using state-of-the-art dynamic compilation techniques to deliver stellar performance without sacrificing flexibility.
 
 “While all of this may sound incredibly futuristic, many of us still program these Dream Machines with miserly techniques not far removed from the best practices of the 1960s. <br />
-_By David Nolen. Delivered at JSConf. Published on July 1, 2014. Length: 22:05, 5,348&nbsp;views_
+_By David Nolen. Delivered at JSConf. Published on July 1, 2014. Length: 22:05, 6,248&nbsp;views_
 
 
 ### [Delivering the goods](https://www.youtube.com/watch?v=R8W_6xWphtw "link to YouTube video") — Paul Irish
@@ -206,7 +206,7 @@ _By David Nolen. Delivered at JSConf. Published on July 1, 2014. Length: 22:05, 
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/delivering-the-goods.png" %}
 
 One of the most important but overlooked topics in the development world today — page load times: “[A]nd finally answering the ‘page size vs # of requests’ question...”<br />
-_Keynote by [Paul Irish](https://twitter.com/paul_irish "link to @paul_irish twitter page"). Delivered at Fluent 2014. Published on March&nbsp;13, 2014. Length: 23:24, 35,357&nbsp;views_
+_Keynote by [Paul Irish](https://twitter.com/paul_irish "link to @paul_irish twitter page"). Delivered at Fluent 2014. Published on March&nbsp;13, 2014. Length: 23:24, 36,283&nbsp;views_
 
 
 ### [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI&list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr "link to YouTube video")
@@ -218,7 +218,7 @@ _Keynote by [Paul Irish](https://twitter.com/paul_irish "link to @paul_irish twi
 “Persistent data structures provide the benefits of immutability while maintaining high performance reads and writes and present a familiar API.
 
 “Learn about how persistent immutable data structures work, and techniques for using them in your React applications with Immutable.js, a library of fully persistent immutable data structures.”<br />
-_Given by [Lee Byron](https://twitter.com/leeb "link to @leeb twitter page") at React.js Conf 2015, January 29, 2015. Length: 31:10, 11,592 views_
+_Given by [Lee Byron](https://twitter.com/leeb "link to @leeb twitter page") at React.js Conf 2015, January 29, 2015. Length: 31:10, 19,575&nbsp;views_
 
 
 ### [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0 "link to YouTube video")
@@ -226,7 +226,7 @@ _Given by [Lee Byron](https://twitter.com/leeb "link to @leeb twitter page") at 
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/simplicity-matters.png" %}
 
 A later version of the influential talk “Simple Made Easy”: “Simplicity is prerequisite to reliability — Edsger Dijkstra”<br />
-_Keynote by [Rich Hickey](https://twitter.com/richhickey "link to @richhickey twitter page"). Delivered at RailsConf2012, April 23, 2012. Length: 36:53, 41,062 views_
+_Keynote by [Rich Hickey](https://twitter.com/richhickey "link to @richhickey twitter page"). Delivered at RailsConf2012, April 23, 2012. Length: 36:53, 43,525&nbsp;views_
 
 
 
