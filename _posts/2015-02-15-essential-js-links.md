@@ -322,7 +322,7 @@ _By David Flanagan. Sixth edition published by O’Reilly on May 13, 2011. ISBN:
 Prerelease (unedited) versions available at Github.
 
 “Books in the _You Don’t Know JS_ series dive into trickier parts of the language that many JavaScript programmers simply avoid. Armed with this knowledge, you can achieve true JavaScript mastery.” <br />
-_By Kyle Simpson. Published By O’Reilly. ‘Scope &amp; Closures,’ published in March 2014, print ISBN: 978-1-4493-3558-8, 98 pages.  ‘this &amp; Object Prototypes,’ July 2014, print ISBN:978-1-4919-0415-2, 174 pages. ‘Types &amp; Grammar,’ to be published in February 2015, print ISBN:978-1-4919-0419-0, 198 pages_
+_By Kyle Simpson. Published By O’Reilly. ‘Scope &amp; Closures,’ published in March 2014, print ISBN: 978-1-4493-3558-8, 98 pages.  ‘this &amp; Object Prototypes,’ July 2014, print ISBN:978-1-4919-0415-2, 174 pages. ‘Types &amp; Grammar,’ February 2015, print ISBN:978-1-4919-0419-0, 198 pages. 'Async &amp; Performance,' February 2015, print ISBN:978-1-4919-0422-0, 296 pages. 'Up &amp; Going,' in production, est. April 2015, print ISBN:978-1-4919-2446-4, 88 pages_
 
 
 ### [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/ "link to LeanPub text for this book")
@@ -334,7 +334,7 @@ Free to read online.
 “ECMAScript 6 represents the biggest change to the core of JavaScript in the history of the language. Not only does the sixth edition add new object types, but also new syntax and exciting new capabilities. The result of years of study and debate, ECMAScript 6 reached feature complete status in 2014. While it will take a bit of time before all JavaScript environments support ECMAScript 6, it’s still useful to understand what’s coming and which features are available already.
 
 “This book is a guide for the transition between ECMAScript 5 and 6. It is not specific to any JavaScript environment, so it is equally useful to web developers as it is Node.js developers.” <br />
-_By Nicholas C. Zakas. Published by LeanPub. 30 percent complete in January 2015_
+_By Nicholas C. Zakas. Published by LeanPub. 30 percent complete in March 2015_
 
 
 ### [Node.js in Action](http://www.manning.com/cantelon/ "link to Manning page for this book")
