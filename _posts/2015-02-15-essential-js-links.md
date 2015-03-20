@@ -379,6 +379,7 @@ _Project of Tim Caswell. 110 contributors <span class="octicon octicon-star"></s
 
 **Then install Node (with nvm).** You’ll need this even if you’re a front-end dev.<br />
 _595&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;35,244 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;7,870_
+<!--  update entry around line 615 in JavaScript environments -->
 
 
 ### [npm](https://www.npmjs.com/ "link to npmjs.org")
@@ -565,7 +566,7 @@ _Project maintained by Visionmedia. 30 contributors <span class="octicon octicon
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/babel.png" %}
 
 Transpile ES6, ES7 to ES5: “Babel is a transpiler for writing next-generation JavaScript. (Previously 6to5)” (link to [babeljs.io](http://babeljs.io "link to babeljs.io site"))<br />
-_50 contributors <span class="octicon octicon-star"></span>star:&nbsp;3,430 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;127_
+_59 contributors <span class="octicon octicon-star"></span>star:&nbsp;4,462 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;177_
 
 
 ### [CoffeeScript](http://coffeescript.org/ "link to coffeescript site")
@@ -575,7 +576,8 @@ _50 contributors <span class="octicon octicon-star"></span>star:&nbsp;3,430 <spa
 “CoffeeScript is a little language that compiles into JavaScript. Underneath that awkward Java-esque patina, JavaScript has always had a gorgeous heart. CoffeeScript is an attempt to expose the good parts of JavaScript in a simple way.
 
 “The golden rule of CoffeeScript is: ‘It’s just JavaScript.’ The code compiles one-to-one into the equivalent JS, and there is no interpretation at runtime. You can use any existing JavaScript library seamlessly from CoffeeScript (and vice-versa). The compiled output is readable and pretty-printed, will work in every JavaScript runtime, and tends to run as fast or faster than the equivalent handwritten JavaScript.”<br />
-_A project of Jeremy Ashkenas. 169 contributors <span class="octicon octicon-star"></span>star:&nbsp;10,686 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;1,401_
+_A project of Jeremy Ashkenas. 176 contributors <span class="octicon octicon-star"></span>star:&nbsp;10,919 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;1,454_
+<!--  https://github.com/jashkenas/coffeescript  -->
 
 
 ### [Emscripten](http://kripken.github.io/emscripten-site/ "link to GitHub site")
@@ -583,7 +585,7 @@ _A project of Jeremy Ashkenas. 169 contributors <span class="octicon octicon-sta
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/emscripten.png" %}
 
 Frequently used for C/C++ JavaScript ports: “Practically any portable C or C++ codebase can be compiled into JavaScript using Emscripten, ranging from high-performance games that need to render graphics, play sounds, and load and process files, through to application frameworks like Qt.” <br />
-_A project of Alon Zakai. 161 contributors <span class="octicon octicon-star"></span>star:&nbsp;7,816 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;865_
+_A project of Alon Zakai. 161 contributors <span class="octicon octicon-star"></span>star:&nbsp;8,029 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;905_
 
 
 ### [ES6 tools](https://github.com/addyosmani/es6-tools "link to GitHub site")
@@ -591,7 +593,7 @@ _A project of Alon Zakai. 161 contributors <span class="octicon octicon-star"></
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/es6-tools.png" %}
 
 ES6 Tools list (113 listed in February 2015). (See [annotated version](http://www.super-script.us/2015/es6-tools.html "link to annotated version here at super-script.us")) <br />
-_A project of Addy Osmani. 27 contributors <span class="octicon octicon-star"></span>star:&nbsp;1,510 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;81_
+_A project of Addy Osmani. 29 contributors <span class="octicon octicon-star"></span>star:&nbsp;1,590 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;83_
 
 
 
@@ -610,8 +612,8 @@ _A project of Addy Osmani. 27 contributors <span class="octicon octicon-star"></
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/nodejs-org.png" %}
 
 Server-side JavaScript and more <br />
-_585&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;34,655 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;7,718_
-
+_595&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;35,244 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;7,870_
+<!-- update from entry around line 376 -->
 
 
 ### [io.js](https://iojs.org/ "link to iojs.org")
@@ -625,7 +627,7 @@ The Node fork.
 “Why? io.js aims to provide faster and predictable release cycles. It currently merges in the latest language, API and performance improvements to V8 while also updating libuv and other base libraries.
 
 “This project aims to continue development of io.js under an ‘[open governance model](https://github.com/iojs/io.js/blob/v1.x/GOVERNANCE.md#readme "link to io.js project governance document")’ as opposed to corporate stewardship.”<br />
-_632 contributors <span class="octicon octicon-star"></span>star:&nbsp;9,880 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;599_
+_661 contributors <span class="octicon octicon-star"></span>star:&nbsp;11,171 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;747_
 
 
 
