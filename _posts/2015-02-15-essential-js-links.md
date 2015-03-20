@@ -907,7 +907,8 @@ _By Addy Osmani. Posted circa May 9, 2014_
 “As these technologies are implemented in browsers, the polyfills will shrink and you’ll gain the benefits of native implementations. <code>webcomponents.js</code> automatically detects native support and switches to the fast path when available. Your elements seamlessly start relying on the native stuff — and get faster in the process.
 
 “**Note:** The <code>webcomponents.js</code> polyfill layer is no longer needed for browsers that fully implement the Web Components APIs, such as Chrome 36+.”<br />
-_24&nbsp;contributors (at github.com/webcomponents/webcomponentsjs)<span class="octicon octicon-star"></span>star:&nbsp;371 <br /><span class="octicon octicon-repo-forked"></span>fork:&nbsp;65_
+_30&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;542 <br /><span class="octicon octicon-repo-forked"></span>fork:&nbsp;95_
+<!-- https://github.com/webcomponents/webcomponents.github.io  -->
 
 
 ### [HTML Imports](http://webcomponents.org/articles/introduction-to-html-imports/ "link to article at webcomponents.org")
@@ -956,7 +957,7 @@ _By Eiji Kitamura. Includes 8:16 video. Published at webcomponents.org on Novemb
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/x-gif.png" %}
 
 This web component wins the internet: “<code>&lt;x-gif></code> is a web component for flexible GIF playback. Speed them up, slow them down, play them in reverse, synch multiple beats to a rhythm, synch them to audio, whatever you like.”<br />
-_A project of Glen Maddern. 4&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;1,522 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;72_
+_A project of Glen Maddern. 4&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;1,562 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;74_
 
 
 ### [Vulcanize](https://github.com/Polymer/vulcanize "link to GitHub page")
@@ -964,7 +965,7 @@ _A project of Glen Maddern. 4&nbsp;contributors<span class="octicon octicon-star
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/vulcanize.png" %}
 
 Don't let web components slow your app down. Bundle your HTML imports: “Build tool for HTMLImports and Web Components. Named for the Vulcanization process that turns polymers into more durable materials.”<br />
-_12&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;566 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;51_
+_12&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;596 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;53_
 
 
 
@@ -981,7 +982,7 @@ _12&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;566 <s
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/pm2.png" %}
 
 Process monitoring / self repair: “PM2 is a production process manager for Node.js applications with a built-in load balancer. Perfectly designed for microservice architecture. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks.”<br />
-_A project of Alexandre Strzelewicz. 74&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;6,364 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;472_
+_A project of Alexandre Strzelewicz. 79&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;6,854 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;523, downloads in the last month from npm:&nbsp;88,208_
 
 
 ### [New Relic](http://newrelic.com/ "link to New Relic site")
@@ -1018,7 +1019,7 @@ Run your CI process using the same OS configs as your production systems.<br />
 
 “Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications. Consisting of Docker Engine, a portable, lightweight runtime and packaging tool, and Docker Hub, a cloud service for sharing applications and automating workflows, Docker enables apps to be quickly assembled from components and eliminates the friction between development, QA, and production environments.”
 <br />
-_765&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;19,118 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;3,946_
+_815&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;19,999 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;4,216_
 
 
 ### [Shippable](https://www.shippable.com/ "link to shippable.com")
