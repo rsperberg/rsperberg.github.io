@@ -370,7 +370,7 @@ _By M. Mitchell Waldrop. Published on August 27, 2001 by Viking (and in paperbac
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/nvm.png" %}
 
 **First install this...** “Simple bash script to manage multiple active node.js versions.”<br />
-_Project of Tim Caswell. 107 contributors <span class="octicon octicon-star"></span>star:&nbsp;5,465 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;574_
+_Project of Tim Caswell. 110 contributors <span class="octicon octicon-star"></span>star:&nbsp;5,913 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;604_
 
 
 ### [Node](http://nodejs.org/ "link to nodejs.org website")
@@ -378,7 +378,7 @@ _Project of Tim Caswell. 107 contributors <span class="octicon octicon-star"></s
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/nodejs-org.png" %}
 
 **Then install Node (with nvm).** You’ll need this even if you’re a front-end dev.<br />
-_585&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;34,655 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;7,718_
+_595&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;35,244 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;7,870_
 
 
 ### [npm](https://www.npmjs.com/ "link to npmjs.org")
@@ -386,7 +386,7 @@ _585&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;34,6
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/npmjs.png" %}
 
 **Install lots of other things with npm**,  _the_ package manager for JavaScript. Comes with Node. “npm makes it easy for JavaScript developers to share and reuse code, and it makes it easy to update the code that you’re sharing.”<br />
-_226&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;5,539 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;1,108_
+_247&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;5,805 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;1,165_
 
 
 ### [Sublime Text 3](http://www.sublimetext.com/3 "link to info about ST3")
@@ -402,7 +402,7 @@ _ST is developed by Jon Skinner._
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/node-inspector.png" %}
 
 Debug Node code with the Chrome debug tools, e.g., “a debugger interface for Node.js applications that uses the Blink Developer Tools (formerly WebKit Web Inspector).”<br />
-_Project maintenance and support sponsored by <a href="http://strongloop.com/" title="link to strongloop.com">StrongLoop</a>. 38&nbsp;contributors <br /><span class="octicon octicon-star"></span>star:&nbsp;6,200 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;407_
+_Project maintenance and support sponsored by <a href="http://strongloop.com/" title="link to strongloop.com">StrongLoop</a>. 43&nbsp;contributors <br /><span class="octicon octicon-star"></span>star:&nbsp;6,458 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;423_
 
 
 ### [TraceGL](https://github.com/traceglMPL/tracegl "link to GitHub site")
@@ -410,7 +410,7 @@ _Project maintenance and support sponsored by <a href="http://strongloop.com/" t
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/traceGL.png" %}
 
 Powerful runtime analysis of live JavaScript code. “traceGL transforms your JavaScript, injecting monitoring code that produces a log of everything that happens. This log is streamed from the target (node or browser), via the traceGL node.js process to the UI for visualisation. The UI tries to display the resulting huge amount of information fast, and uses webGL to render everything.”<br />
-_<span class="octicon octicon-star"></span>star:&nbsp;222 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;29_
+_<span class="octicon octicon-star"></span>star:&nbsp;243 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;31_
 
 
 ### [Tern](http://ternjs.net/ "link to Tern site")
@@ -418,7 +418,7 @@ _<span class="octicon octicon-star"></span>star:&nbsp;222 <span class="octicon o
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/ternjs.png" %}
 
 Static analysis in JavaScript. “Tern is a stand-alone code-analysis engine for JavaScript. It is intended to be used with a code editor plugin to enhance the editor’s support for intelligent JavaScript editing. Features include autocompletion of variables and properties and function argument hints.... Tern is capable of running both on node.js and in the browser.”<br />
-_Project maintained by Marijn Haverbeke. 46&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;1,607 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;148_
+_Project maintained by Marijn Haverbeke. 48&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;1,665 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;154_
 
 
 ### [JSDoc](http://usejsdoc.org/ "link to usejsdoc.org/")
@@ -426,7 +426,7 @@ _Project maintained by Marijn Haverbeke. 46&nbsp;contributors <span class="octic
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/jsdoc.png" %}
 
 Pair with <a href="http://ternjs.net/" rel="noreferrer" title="link to Tern site">Tern</a> for static analysis. “JSDoc 3 is an API documentation generator for JavaScript, similar to JavaDoc or PHPDoc. You add documentation comments directly to your source code, right alongside the code itself. The JSDoc Tool will scan your source code and generate a complete HTML documentation website for you.”<br />
-_53&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;2,732 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;437_
+_56&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;2,888 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;449_
 
 
 ### [Nitrous.IO](https://www.nitrous.io/join/uJcRo6yQDvs?utm_source=nitrous.io&amp;utm_medium=copypaste&amp;utm_campaign=referral "link to nitrous.io site")
@@ -448,7 +448,7 @@ Chat for teams, with GitHub and Google hangouts integration. (For hangouts, just
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/prettydiff.png" %}
 
 “This tool was originally created to compare minified code by attaching a beautifier and minifier to a file comparison tool. Over the years it has grown into custom language parsers capable of performing a variety of language analysis. This application is 100% vanilla JavaScript and is API independent.”<br />
-_3&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;277 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;31_
+_3&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;294 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;34_
 
 
 ### [ES6 Fiddle](http://www.es6fiddle.net/ "link to es6fiddle site")
@@ -456,8 +456,8 @@ _3&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;277 <s
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/es6fiddle.png" %}
 
 “Fiddlin’ with ECMAScript6.” Includes sample code illustrating these ES6 aspects: arrow functions, block scope, classes and inheritance, default parameters, destructured assignment, generators, iterators, map, promises, rest parameters, set, spread operator and template literals.<br />
-_A project of Jeff McRiffey. 2&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;31 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;5_
-
+_A project of Jeff McRiffey. 2&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;32 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;6_
+<!--  https://github.com/jmcriffey/es6-fiddle-web  -->
 
 
 
