@@ -1058,7 +1058,7 @@ Notably (as the GitHub site puts it), “esdiscuss.org aims to produce a readabl
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/js-on-google-plus.png" %}
 
 
-_106,012 members. You can view pages or posts in areas identified as “questions, beginners, discussion, ‘show your work,’ MV* frameworks, libraries, guides/tutorials, books, widgets (jQuery, etc) and videos,” as well as shared photos and off-topic items._
+_110,581 members. You can view pages or posts in areas identified as “questions, beginners, discussion, ‘show your work,’ MV* frameworks, libraries, guides/tutorials, books, widgets (jQuery, etc) and videos,” as well as shared photos and off-topic items._
 
 
 ### [HTML5 on Google+](https://plus.google.com/communities/103299867207875326585 "link to html5 community on Google+")
@@ -1068,14 +1068,14 @@ _106,012 members. You can view pages or posts in areas identified as “question
 “A community for html5-related stuff. Links from all around the web, new spec announcements, cool new stuff and other things.<br />
 
 “We talk about: HTML, CSS, CSS3, JS, JavaScript, web development, front end, open source, webGL, Google chrome extensions, browsers, Mozilla Firefox, Internet Explorer, Safari, Opera, development, code, coffeescript, responsive design, web tools, web applications, w3c standards, and other cool stuff.”<br />
-_219,283 members_
+_229,662 members_
 
 
 ### [Node.js on Google+](https://plus.google.com/communities/115365528781941125390 "link to node.js community on Google+")
 
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/node-on-google-plus.png" %}
 
-_50,558 members. You can view pages or posts in areas identified as “discussion, question, libraries &amp; frameworks, tutorials &amp; books and showcase,” as well as shared photos._
+_52,843 members. You can view pages or posts in areas identified as “discussion, question, libraries &amp; frameworks, tutorials &amp; books and showcase,” as well as shared photos._
 
 
 ### IRC ##JavaScript
@@ -1227,7 +1227,7 @@ _Organized by [Andrzej Mazur](https://twitter.com/end3r "link to @end3r Twitter 
 Program virtual battle bots and climb the leaderboard: “fightcodegame.com is a free-to-play game and you can create as many robots as you’d like.
 <br />
 “Coding your robots is very easy and should be natural if you’ve ever had any JavaScript experience.”<br />
-_“Battle against 26,782 other robots”_
+_“Battle against 27,638 other robots”_
 
 
 ### [Node Knockout](http://nodeknockout.com/ "link to nodeknockout.com")
@@ -1343,7 +1343,7 @@ create their own Minecraft Mods. Mods are written using the
 Javascript programming language. Once the ScriptCraft mod is
 installed, you can add your own new Mods by adding Javascript (.js)
 files in a directory.”<br />
-_A project of Walter Higgins. 24&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;532 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;85_
+_A project of Walter Higgins. 25&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;540 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;89_
 
 
 <!-- 
