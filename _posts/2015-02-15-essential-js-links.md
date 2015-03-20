@@ -528,14 +528,16 @@ _Created by Nicholas C. Zakas in June 2013. 149 contributors <span class="octico
 
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/name.png" %}
 
-Allow ES6 features to pass ESLint.
+Allow ES6 features to pass ESLint.<br />
+_8&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;152 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;8_
 
 
 ### [eslint-plugin-no-class](https://github.com/emmenko/eslint-plugin-no-class "link to GitHub site")
 
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/name.png" %}
 
-Forbid the ES6 `class` keyword. [Why?](https://github.com/eslint/eslint/pull/2096#issuecomment-83044888 "link to GitHub issue comment by Eric Elliott")
+Forbid the ES6 `class` keyword. [Why?](https://github.com/eslint/eslint/pull/2096#issuecomment-83044888 "link to GitHub issue comment by Eric Elliott")<br />
+_A project of Nicola Molinari. <span class="octicon octicon-star"></span>star:&nbsp;1_
 
 
 ### [Istanbul](https://github.com/gotwarlost/istanbul "link to GitHub site")
@@ -735,7 +737,8 @@ _A project of Eric Elliott. <span class="octicon octicon-star"></span>star:&nbsp
 
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/name.png" %}
 
-Get deep properties using dot notation without throwing. e.g., `dotty.get(req, 'user.id');`
+Get deep properties using dot notation without throwing. e.g., `dotty.get(req, 'user.id');`<br />
+_A project of Conrad Pankoff. 2 contributors <span class="octicon octicon-star"></span>star:&nbsp;56 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;7_
 
 
 ### [native-promise-only](https://github.com/getify/native-promise-only "link to GitHub site")
