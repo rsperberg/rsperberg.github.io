@@ -520,6 +520,20 @@ _JSHint created and maintained by Anton Kovalyov. 188 contributors <span class="
 _Created by Nicholas C. Zakas in June 2013. 149 contributors <span class="octicon octicon-star"></span>star:&nbsp;1,854 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;314_
 
 
+### [babel-eslint](https://github.com/babel/babel-eslint "link to GitHub site")
+
+{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/name.png" %}
+
+Allow ES6 features to pass ESLint.
+
+
+### [eslint-plugin-no-class](https://github.com/emmenko/eslint-plugin-no-class "link to GitHub site")
+
+{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/name.png" %}
+
+Forbid the ES6 `class` keyword. [Why?](https://github.com/eslint/eslint/pull/2096#issuecomment-83044888 "link to GitHub issue comment by Eric Elliott")
+
+
 ### [Istanbul](https://github.com/gotwarlost/istanbul "link to GitHub site")
 
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/istanbul.png" %}
@@ -709,6 +723,13 @@ Require files relative to your project path using the normal node <code>require(
 
 - “Dazzle your coworkers.”<br />
 _A project of Eric Elliott. <span class="octicon octicon-star"></span>star:&nbsp;6_
+
+
+### [dotty](https://github.com/deoxxa/dotty "link to GitHub site")
+
+{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/name.png" %}
+
+Get deep properties using dot notation without throwing. e.g., `dotty.get(req, 'user.id');`
 
 
 ### [native-promise-only](https://github.com/getify/native-promise-only "link to GitHub site")
