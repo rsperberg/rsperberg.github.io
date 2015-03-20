@@ -379,6 +379,7 @@ _Project of Tim Caswell. 110 contributors <span class="octicon octicon-star"></s
 
 **Then install Node (with nvm).** You’ll need this even if you’re a front-end dev.<br />
 _595&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;35,244 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;7,870_
+
 <!--  update entry around line 615 in JavaScript environments -->
 
 
@@ -458,6 +459,7 @@ _3&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;294 <s
 
 “Fiddlin’ with ECMAScript6.” Includes sample code illustrating these ES6 aspects: arrow functions, block scope, classes and inheritance, default parameters, destructured assignment, generators, iterators, map, promises, rest parameters, set, spread operator and template literals.<br />
 _A project of Jeff McRiffey. 2&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;32 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;6_
+
 <!--  https://github.com/jmcriffey/es6-fiddle-web  -->
 
 
@@ -482,6 +484,7 @@ Bundle modules for the browser. “browserify is a tool for compiling node-flavo
 
 “Increasingly, people are publishing modules to npm which are intentionally designed to work in both node and in the browser using browserify and many packages on npm are intended for use in just the browser. [npm is for all javascript](http://maxogden.com/node-packaged-modules.html "link to post on using npm for client-side programs"), front or backend alike.” <br />
 _Project of James Halliday. 138 contributors <span class="octicon octicon-star"></span>star:&nbsp;6,859 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;602_
+
 <!--  https://github.com/substack/node-browserify  -->
 
 
@@ -505,6 +508,7 @@ _By Keith Cirkel. Posted on December 9, 2014_
 
 “Only 15% of all programs linted on this website pass the JSHint checks. In all other cases, JSHint finds some red flags that could’ve been bugs or potential problems.” <br />
 _JSHint created and maintained by Anton Kovalyov. 188 contributors <span class="octicon octicon-star"></span>star:&nbsp;4,735 <br /><span class="octicon octicon-repo-forked"></span>fork:&nbsp;996_
+
 <!--  https://github.com/jshint/jshint  -->
 
 
@@ -591,6 +595,7 @@ _59 contributors <span class="octicon octicon-star"></span>star:&nbsp;4,462 <spa
 
 “The golden rule of CoffeeScript is: ‘It’s just JavaScript.’ The code compiles one-to-one into the equivalent JS, and there is no interpretation at runtime. You can use any existing JavaScript library seamlessly from CoffeeScript (and vice-versa). The compiled output is readable and pretty-printed, will work in every JavaScript runtime, and tends to run as fast or faster than the equivalent handwritten JavaScript.”<br />
 _A project of Jeremy Ashkenas. 176 contributors <span class="octicon octicon-star"></span>star:&nbsp;10,919 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;1,454_
+
 <!--  https://github.com/jashkenas/coffeescript  -->
 
 
@@ -627,6 +632,7 @@ _A project of Addy Osmani. 29 contributors <span class="octicon octicon-star"></
 
 Server-side JavaScript and more <br />
 _595&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;35,244 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;7,870_
+
 <!-- update from entry around line 376 -->
 
 
@@ -838,6 +844,7 @@ _17 contributors <span class="octicon octicon-star"></span>star:&nbsp;632 <span 
 
 The most popular framework for Node. “A fast, un-opinionated, minimalist web framework for Node.js applications.” <br />
 _176 contributors <span class="octicon octicon-star"></span>star:&nbsp;17,976 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;3,640, downloads in the last month from npm:&nbsp;2,326,436_
+
 <!--  https://github.com/strongloop/express  -->
 
 
@@ -872,6 +879,7 @@ _A project of Eric Elliott. 4&nbsp;contributors<span class="octicon octicon-star
 
 UI animation library: “Velocity is an animation engine with the same API as jQuery’s <code>$.animate()</code>. It works with and without jQuery. It’s incredibly fast, and it features color animation, transforms, loops, easings, SVG support, and scrolling. It is the best of jQuery and CSS transitions combined.”<br />
 _A project of Julian Shapiro. 14&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;7,028 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;562_
+
 <!--  https://github.com/julianshapiro/velocity  -->
 
 <!--
@@ -929,6 +937,7 @@ _By Addy Osmani. Posted circa May 9, 2014_
 
 “**Note:** The <code>webcomponents.js</code> polyfill layer is no longer needed for browsers that fully implement the Web Components APIs, such as Chrome 36+.”<br />
 _30&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;542 <br /><span class="octicon octicon-repo-forked"></span>fork:&nbsp;95_
+
 <!-- https://github.com/webcomponents/webcomponents.github.io  -->
 
 
@@ -1608,4 +1617,5 @@ _Tweets: 1,034, followers: 2,920_
 <!--
 {% include image.html url="media/2015-02-15-essential-js-links/cover.jpg" width="100%" description="No parrots!" %}
 -->
+
 <!-- Peter Békési 2007-0204  Attribution-NonCommercial-ShareAlike 2.0 Generic (CC BY-NC-SA 2.0) https://www.flickr.com/photos/pbekesi/392765048  -->
