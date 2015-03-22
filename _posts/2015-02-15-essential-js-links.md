@@ -526,7 +526,7 @@ _Created by Nicholas C. Zakas in June 2013. 149 contributors <span class="octico
 
 ### [babel-eslint](https://github.com/babel/babel-eslint "link to GitHub site")
 
-{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/name.png" %}
+{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/babel-eslint.png" %}
 
 Allow ES6 features to pass ESLint.<br />
 _8&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;152 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;8_
@@ -534,7 +534,7 @@ _8&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;152 <sp
 
 ### [eslint-plugin-no-class](https://github.com/emmenko/eslint-plugin-no-class "link to GitHub site")
 
-{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/name.png" %}
+{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/eslint-plugin-no-class.png" %}
 
 Forbid the ES6 `class` keyword. [Why?](https://github.com/eslint/eslint/pull/2096#issuecomment-83044888 "link to GitHub issue comment by Eric Elliott")<br />
 _A project of Nicola Molinari. <span class="octicon octicon-star"></span>star:&nbsp;1_
@@ -735,10 +735,10 @@ _A project of Eric Elliott. <span class="octicon octicon-star"></span>star:&nbsp
 
 ### [dotty](https://github.com/deoxxa/dotty "link to GitHub site")
 
-{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/name.png" %}
+{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/dotty.png" %}
 
 Get deep properties using dot notation without throwing. e.g., `dotty.get(req, 'user.id');`<br />
-_A project of Conrad Pankoff. 2 contributors <span class="octicon octicon-star"></span>star:&nbsp;56 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;7_
+_A project of Kyle Simpson. 2 contributors <span class="octicon octicon-star"></span>star:&nbsp;56 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;7_
 
 
 ### [native-promise-only](https://github.com/getify/native-promise-only "link to GitHub site")
