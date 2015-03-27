@@ -16,7 +16,7 @@ His compilation demonstrates an awareness of knowledgeable guides, right-minded 
 
 That’s what I like about this list.
 
-Of course, I lack the experience to dispute Elliott’s choices or even to supplement them, but I hope nonetheless that my _re-_presentation is valuable by the addition of my own obsessive labors providing visuals of each link presented and a short summary or self-description that the site itself provides.
+Of course, I lack the experience to dispute Elliott’s choices or even to supplement them, but I hope nonetheless that my _re-_presentation is valuable by the addition of my own obsessive labors providing visuals of each link presented,  a short summary or self-description that the site itself provides and some GitHub, npm and YouTube metadata.
 
 Elliott’s gist list is quickly scanned, despite its length (143 items in March 2015). My bulky rendition is not. But I’ve kept the list as a single post and not divided it into two or three pieces to enable a quicker decision as to which resources to explore first by providing some sense of what each one is about.
 
