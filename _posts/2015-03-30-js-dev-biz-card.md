@@ -32,11 +32,13 @@ Here is what the other side (the front) of this business card looks like. I’ll
 
 <img src="/media/2015-03-30-js-dev-biz-card/biz-card-front-500px.png" width="500px" style="float:left; padding-right: 200px;" />
 
+Obviously centering a title and catchline on a business card-sized template can be done in many programs. For consistency, black remains the background color. [Share Bold](http://www.google.com/fonts/specimen/Share) is used, since Share Tech lacks a bold weight.
+
 <p>&nbsp; </p>
 
 <small>last updated: March 30, 2015</small>
 
-<small>The main art on this page is a word cloud of Roger Sperberg’s resume that was created by <a href="http://tagxedo" title="link to Tagxedo site">Tagxedo</a>, using MKorsair, Franchise and Duality fonts, a custom rectangular shape dropping out the characters J and S, and the Wanderer color scheme (which I created and contributed to Tagxedo). If Wanderer doesn’t show up in Tagxedo, you can submit your own “theme” using the same colors: #087CF4 #D40A5A #FDC20F #03D518 #03B5D5.</small>
+<small><img src="/media/2015-03-30-js-dev-biz-card/my-resume-word-cloud-240px.png" width="240px" style="float:left; padding-right: 10px;" />The main art on this page is a word cloud of Roger Sperberg’s resume that was created by <a href="http://tagxedo" title="link to Tagxedo site">Tagxedo</a>, using MKorsair, Franchise and Duality fonts, a custom rectangular shape dropping out the characters J and S, and the Wanderer color scheme (which I created and contributed to Tagxedo). If Wanderer doesn’t show up in Tagxedo, you can submit your own “theme” using the same colors: #087CF4 #D40A5A #FDC20F #03D518 #03B5D5.</small>
 
 <p>&nbsp; </p>
 
