@@ -36,7 +36,7 @@ Here is what the other side (the front) of this business card looks like. I’ll
 
 <small>last updated: March 30, 2015</small>
 
-<small>The main art on this page is a word cloud of Roger Sperberg’s resume that was created by <a href="http://tagxedo" title="link to Tagxedo site">Tagxedo</a>, using MKorsair, Franchise and Duality fonts, the Wanderer color scheme (which I created and contributed to Tagxedo) and a custom rectangular shape dropping out the characters J and S.</small>
+<small>The main art on this page is a word cloud of Roger Sperberg’s resume that was created by <a href="http://tagxedo" title="link to Tagxedo site">Tagxedo</a>, using MKorsair, Franchise and Duality fonts, a custom rectangular shape dropping out the characters J and S, and the Wanderer color scheme (which I created and contributed to Tagxedo). If Wanderer doesn’t show up in Tagxedo, you can submit your own “theme” using the same colors: #087CF4 #D40A5A #FDC20F #03D518 #03B5D5.</small>
 
 <p>&nbsp; </p>
 
