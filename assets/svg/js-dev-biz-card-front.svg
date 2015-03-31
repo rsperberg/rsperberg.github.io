@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -43,31 +42,27 @@
   <g
      id="layer6"
      style="display:inline">
-    <g
-       transform="translate(-6,2.0932292)"
-       id="g3720">
-      <text
-         x="30.762775"
-         y="-123.54823"
-         transform="matrix(0,1,-1,0,0,0)"
-         id="text3712"
-         xml:space="preserve"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:112.00000048%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Share-Tech;-inkscape-font-specification:Share-Tech Bold"><tspan
-           x="30.762775"
-           y="-123.54823"
-           id="tspan3714"
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:112.00000048%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Share-Tech;-inkscape-font-specification:Share-Tech Bold">Roger Sperberg</tspan></text>
-      <text
-         x="79.860901"
-         y="-97.298225"
-         transform="matrix(0,1,-1,0,0,0)"
-         id="text3716"
-         xml:space="preserve"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:112.00000048%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Share-Tech;-inkscape-font-specification:Share-Tech Bold"><tspan
-           x="79.860901"
-           y="-97.298225"
-           id="tspan3718"
-           style="font-size:16px;fill:#ffffff;fill-opacity:1">JavaScript. Tablet apps.</tspan></text>
-    </g>
+    <text
+       x="22.980326"
+       y="-117.54823"
+       transform="matrix(0,1,-1,0,0,0)"
+       id="text3712"
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:112.00000048%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Share-Tech;-inkscape-font-specification:Share-Tech Bold"><tspan
+         x="22.980326"
+         y="-117.54823"
+         id="tspan3714"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:112.00000048%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Share-Bold;-inkscape-font-specification:Share-Bold Bold">Roger Sperberg</tspan></text>
+    <text
+       x="79.005325"
+       y="-91.298225"
+       transform="matrix(0,1,-1,0,0,0)"
+       id="text3716"
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:112.00000048%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Share-Tech;-inkscape-font-specification:Share-Tech Bold"><tspan
+         x="79.005325"
+         y="-91.298225"
+         id="tspan3718"
+         style="font-size:16px;fill:#ffffff;fill-opacity:1">JavaScript. Tablet apps.</tspan></text>
   </g>
 </svg>
