@@ -28,20 +28,13 @@ The SVG file for the back of the card is located at `https://raw.githubuserconte
 
 Here is a cleaned-up version of the SVG that Inkscape creates (I’ve removed the image preview, unused layers and redundant style information for readability):
 
-{% gist 548202ff0de6c6b761e4#file-js-dev-biz-card-back-svg %}
+{% gist 548202ff0de6c6b761e4 %}
 
 The `<tspan>` elements specify where each line’s rendering is positioned; but if you did not wish to use Inkscape or some other vector-graphic editor to modify my file with your details, you can simply edit the text within the `<tspan>` tags to make your own card. (Theoretically. This modified file works beautifully with Inkscape but Chrome and Safari both render it differently than expected.)
 
 Here is what the other side (the front) of this business card looks like. The SVG source file for the front side is located at `https://github.com/rsperberg/rsperberg.github.io/blob/master/assets/svg/js-dev-biz-card-front.svg` as well as part of the aforementioned [gist](https://gist.github.com/rsperberg/548202ff0de6c6b761e4).
 
 <img src="/media/2015-03-30-js-dev-biz-card/biz-card-front-500px.png" width="500px" style="float:left; padding-right: 200px;" />
-
-<!--  script src="https://gist.github.com/rsperberg/548202ff0de6c6b761e4.js#file-js-dev-biz-card-front-svg"></script  -->
-
-<!--
-{% gist 548202ff0de6c6b761e4#file-js-dev-biz-card-front-svg %}
-https://gist.github.com/rsperberg/548202ff0de6c6b761e4#file-js-dev-biz-card-back-svg
--->
 
 Obviously centering a title and catchline on a business card-sized template can be done in many programs. For consistency, black remains the background color. [Share Bold](http://www.google.com/fonts/specimen/Share) is used, since Share Tech lacks a bold weight.
 
