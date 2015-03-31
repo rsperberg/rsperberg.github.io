@@ -26,7 +26,7 @@ You can access the SVG files that I used at `https://raw.githubusercontent.com/r
 
 <!--  {% gist 548202ff0de6c6b761e4#file-js-dev-biz-card-back-svg %}  -->
 
-<script src="https://gist.github.com/rsperberg/548202ff0de6c6b761e4#file-js-dev-biz-card-back-svg.js"></script>
+<script src="https://gist.github.com/rsperberg/548202ff0de6c6b761e4.js#file-js-dev-biz-card-back-svg"></script>
 
 The `<tspan>` elements specify where each line’s rendering is positioned; but if you did not wish to use Inkscape or some other vector-graphic editor to modify my file with your details, you can simply edit the text within the `<tspan>` tags to make your own card. (Theoretically. This modified file works beautifully with Inkscape but Chrome and Safari both render it differently than expected.)
 
@@ -34,7 +34,7 @@ Here is what the other side (the front) of this business card looks like. The SV
 
 <img src="/media/2015-03-30-js-dev-biz-card/biz-card-front-500px.png" width="500px" style="float:left; padding-right: 200px;" />
 
-<script src="https://gist.github.com/rsperberg/548202ff0de6c6b761e4#file-js-dev-biz-card-front-svg.js"></script>
+<script src="https://gist.github.com/rsperberg/548202ff0de6c6b761e4.js#file-js-dev-biz-card-front-svg"></script>
 
 <!--
 {% gist 548202ff0de6c6b761e4#file-js-dev-biz-card-front-svg %}
