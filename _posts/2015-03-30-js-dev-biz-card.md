@@ -24,7 +24,7 @@ The proportions of this business card are not the traditional 2in-by-3.5in but i
 ### The source files
 You can access the SVG files that I used as a [gist](https://gist.github.com/rsperberg/548202ff0de6c6b761e4). I created the design in [Inkscape](https://inkscape.org "link to inkscape.org") and generated the PDF’s that I sent to Moo from Inkscape. 
 
-The SVG file for the back of the card is located at `https://raw.githubusercontent.com/rsperberg/rsperberg.github.io/master/assets/svg/js-dev-biz-card-back.svg` (the GitHub preview may or may not display the design accurately).
+The SVG file for the back of the card is located at `https://raw.githubusercontent.com/rsperberg/rsperberg.github.io/master/assets/svg/js-dev-biz-card-back.svg` (the GitHub preview may or may not display the design accurately) and at this [gist](https://gist.github.com/rsperberg/548202ff0de6c6b761e4).
 
 Here is a cleaned-up version of the SVG that Inkscape creates (I’ve removed the image preview, unused layers and redundant style information for readability):
 
