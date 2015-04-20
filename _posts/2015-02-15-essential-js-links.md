@@ -1343,6 +1343,8 @@ In 2014, contestants could compete ‘virtually’ from anywhere in the world, w
 “The two areas overlap a lot, but the main differences are: Espruino is a lot cheaper (1/3 of the price), Tessel has more memory, Espruino uses a lot less power so it can run for years on a battery, Tessel is faster, Tessel has WiFi built in (but you can plug WiFi or Ethernet modules into Espruino), and Tessel provides pre-made modules that can be plugged in for certain things — Espruino’s emphasis is on using standard hardware that’s available cheaply from a variety of vendors.”
 
 
+### [Onion Omega](https://onion.io/omega "link to onion.io")
+
 
 
 
