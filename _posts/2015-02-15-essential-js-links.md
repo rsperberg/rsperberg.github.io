@@ -94,6 +94,13 @@ The backend and frontend share the same code.”
 _By Addy Osmani. Published at medium.com on December 15, 2014_
 
 
+### [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd "link to article at medium.com")
+
+{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/name-tk.png" %}
+
+The Way of the Functional Programmer
+
+
 ### [Reactive MVC and the Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom "link to post")
 
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/reactive-mvc-and-the-virtual-dom.png" %}
