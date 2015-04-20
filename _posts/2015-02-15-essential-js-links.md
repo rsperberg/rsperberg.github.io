@@ -167,6 +167,12 @@ _By James Long. Posted on September 08, 2014_
 _By Axel Rauschmayer. Published at 2ality.com on September 7, 2014_
 
 
+### [Advanced Performance Audits with DevTools](http://www.paulirish.com/2015/advanced-performance-audits-with-devtools/)
+
+{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/name-tk.png" %}
+
+In-depth perf case studies with Paul Irish
+
 
 
 
