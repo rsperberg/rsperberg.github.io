@@ -1345,6 +1345,9 @@ In 2014, contestants could compete ‘virtually’ from anywhere in the world, w
 
 ### [Onion Omega](https://onion.io/omega "link to onion.io")
 
+{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/name-tk.png" %}
+
+“Omega is an invention platform for the Internet of Things. It comes WiFi-enabled and supports most of the popular languages such as Python and Node.JS. Omega makes hardware prototyping as easy as creating and installing software apps.”
 
 
 
