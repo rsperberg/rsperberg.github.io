@@ -368,9 +368,12 @@ _By M. Mitchell Waldrop. Published on August 27, 2001 by Viking (and in paperbac
 
 ### [WebGL Fundamentals](http://webglfundamentals.org/ "link to webglfundamentals.org")
 
-{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/name-tk.png" %}
+{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/webglfundamentals.png" %}
 
-An interactive online book about graphics programming.
+An interactive online book about graphics programming: “WebGL from the ground up. No magic.
+
+These are a set of articles that teach WebGL from basic principles. They are NOT old rehashed out of date OpenGL articles like many others on the net. They are entirely new, discarding the old out of date ideas and bringing you to a full understanding of what WebGL really is and how it really works.” <br />
+_By Gregg Tavares_
 
 
 
