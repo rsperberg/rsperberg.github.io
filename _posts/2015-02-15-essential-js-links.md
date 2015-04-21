@@ -169,9 +169,12 @@ _By Axel Rauschmayer. Published at 2ality.com on September 7, 2014_
 
 ### [Advanced Performance Audits with DevTools](http://www.paulirish.com/2015/advanced-performance-audits-with-devtools/)
 
-{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/name-tk.png" %}
+{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/advanced-performance.png" %}
 
-In-depth perf case studies with Paul Irish
+In-depth perf case studies with Paul Irish: “I’ve written up case study documents . . . . In this doc, we look at the scrolling of CNET, input latency on CNET, some very interesting challenges on the responsive Time.com, and infinite scroll on Google Play’s desktop site.
+
+“The intended audience is browser engineers and performance-minded frontend developers. It’s fairly advanced, but I’m spelunking deep to identify how the sites butt heads with the browser APIs and architecture.”<br />
+_By Paul Irish. Posted on March 27, 2015_
 
 
 
