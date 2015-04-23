@@ -1428,7 +1428,7 @@ _A project of Walter Higgins. 25&nbsp;contributors <span class="octicon octicon-
 App architecture expert, Chrome dev tools champion
 
 @addyosmani: “Engineer at Google working on Chrome, Web &amp; Polymer • Author • Creator of TodoMVC, @Yeoman, Web Starter Kit, grunt-uncss &amp; others • Passionate about web tooling”<br />
-_Tweets: 12.1K, followers: 94.6K_
+_Tweets: 12.4K, followers: 96.8K_
 
 
 ### [Angus Croll](https://twitter.com/angustweets "link to @angustweets twitter page")
@@ -1438,7 +1438,7 @@ _Tweets: 12.1K, followers: 94.6K_
 Author, _If Hemingway Wrote JavaScript_
 
 @angustweets: “Literature, JavaScript, Literary JavaScript... Author of IF HEMINGWAY WROTE JAVASCRIPT”<br />
-_Tweets: 4,986, followers: 12.4K_
+_Tweets: 5,278, followers: 12.6K_
 
 
 ### [Axel Rauschmayer](https://twitter.com/rauschma "link to @rauschma twitter page")
@@ -1448,7 +1448,7 @@ _Tweets: 4,986, followers: 12.4K_
 ES Next evangelist, author
 
 @rauschma: “JavaScript person: blogger @2ality, trainer @Ecmanauten, organizer @MunichJS. Books (free online): – ES5: http://SpeakingJS.com  – ES6: ExploringJS6.com”<br />
-_Tweets: 15.5K, followers: 11.9K_
+_Tweets: 15.8K, followers: 12.4K_
 
 
 ### [Brendan Eich](https://twitter.com/BrendanEich "link to @BrendanEich twitter page")
@@ -1458,7 +1458,7 @@ _Tweets: 15.5K, followers: 11.9K_
 Created JavaScript
 
 @BrendanEich: “Brendan Eich invented JavaScript, co-founded http://mozilla.org , and served as CTO, SVP Eng, and CEO, Mozilla.”<br />
-_Tweets: 26K, followers: 38.1K_
+_Tweets: 26.6K, followers: 39K_
 
 
 ### [David Nolen](https://twitter.com/swannodette "link to @swannodette twitter page")
@@ -1468,7 +1468,7 @@ _Tweets: 26K, followers: 38.1K_
 Great functional programming content
 
 @swannodette: “musician, Cognitect, Lisp, JavaScript, Kitchen Table Coders”<br />
-_Tweets: 16.1K, followers: 11.1K_
+_Tweets: 16.4K, followers: 11.6K_
 
 
 ### [David Herman](https://twitter.com/littlecalculist "link to @littlecalculist twitter page")
@@ -1478,7 +1478,7 @@ _Tweets: 16.1K, followers: 11.1K_
 Author, _Effective JavaScript_
 
 @littlecalculist: “Programming language propeller-head at Mozilla Research, author of Effective JavaScript (@effectivejs).”<br />
-_Tweets: 16.1K, followers: 10.2K_
+_Tweets: 16.2K, followers: 10.3K_
 
 
 ### [EchoJS](https://twitter.com/echojs "link to @echojs twitter page")
@@ -1488,7 +1488,7 @@ _Tweets: 16.1K, followers: 10.2K_
 News and links
 
 @echojs: “Community-driven news site entirely focused on JavaScript development, HTML5, and front-end news. Maintained by @fcambus.”<br />
-_Tweets: 12.4K, followers: 5,799_
+_Tweets: 12.7K, followers: 5,984_
 
 
 ### [Eric Elliott](https://twitter.com/_ericelliott "link to @_ericelliott twitter page")
@@ -1498,7 +1498,7 @@ _Tweets: 12.4K, followers: 5,799_
 That’s me. O’Reilly author. JavaScript architect. JS Instructor.
 
 @\_ericelliott: “Compassionate entrepreneur on a mission to end homelessness. #jshomes Bookings: @JS_Cheerleader”<br />
-_Tweets: 17.3K, followers: 6,307_
+_Tweets: 18.3K, followers: 6,987_
 
 
 ### [Jafar Husain](https://twitter.com/jhusain "link to @jhusain twitter page")
@@ -1508,7 +1508,7 @@ _Tweets: 17.3K, followers: 6,307_
 Great talks on RxJS, ES next, etc...
 
 @jhusain<br />
-_Tweets: 628, followers: 2,209_
+_Tweets: 709, followers: 2,576_
 
 
 ### [James Halliday](https://twitter.com/substack "link to @substack twitter page")
@@ -1518,7 +1518,7 @@ _Tweets: 628, followers: 2,209_
 aka Substack — author of ~one million~ Node modules you probably use.
 
 @substack: “hobbyist programmer”<br />
-_Tweets: 7,786, followers: 14.1K_
+_Tweets: 7,902, followers: 14.5K_
 
 
 ### [James Long](https://twitter.com/jlongster "link to @jlongster twitter page")
@@ -1528,7 +1528,7 @@ _Tweets: 7,786, followers: 14.1K_
 CSP, functional programming advocate, Mozilla developer
 
 @jlongster: “Works on Firefox Developer Tools at Mozilla. javascript, node, functional. https://github.com/jlongster”<br /><br />
-_Tweets: 6,727, followers: 3,968_
+_Tweets: 6,880, followers: 4,375_
 
 
 ### [JavaScript Cheerleader](https://twitter.com/JS_Cheerleader "link to @JS_Cheerleader twitter page")
@@ -1538,7 +1538,7 @@ _Tweets: 6,727, followers: 3,968_
 Mover &amp; shaker, JavaScript evangelist, documentary film maker
 
 @JS_Cheerleader: “#JavaScript changed my life. I’m a huge fan. Looking for cool JS projects to tweet about. I always loved #geek guys and they never loved me back until now. Yay!”<br />
-_Tweets: 2,073, followers: 1,324_
+_Tweets: 2,273, followers: 1,478_
 
 
 ### [JavaScript Daily](https://twitter.com/JavaScriptDaily "link to @JavaScriptDaily twitter page")
@@ -1548,7 +1548,7 @@ _Tweets: 2,073, followers: 1,324_
 News and links
 
 @JavaScriptDaily: “Daily JavaScript news and links”<br />
-_Tweets: 3,793, followers: 129K_
+_Tweets: 3,892, followers: 135K_
 
 
 ### [Jordan Harband](https://twitter.com/ljharb "link to @ljharb twitter page")
@@ -1558,7 +1558,7 @@ _Tweets: 3,793, followers: 129K_
 Keeping us ahead of the JS curve
 
 @ljharb: “software engineer; nerd; gamer; teacher; will try anything once; a surgeon with git rebase. @Twitter, @MobBase. Favorite punctuation: ⸮, fav scent: petrichor”<br />
-_Tweets: 24K, followers: 2,462_
+_Tweets: 24.3K, followers: 2,497_
 
 
 ### [Kyle Simpson](https://twitter.com/getify "link to @getify twitter page")
@@ -1568,7 +1568,7 @@ _Tweets: 24K, followers: 2,462_
 Author, YDKJS — O’Reilly, JS Instructor, open web evangelist
 
 @getify: “All things JavaScript. Open Web Evangelist.” (_see also_ @ydkjs)<br />
-_Tweets: 63.8K, followers: 12.6K_
+_Tweets: 65K, followers: 13.2K_
 
 
 ### [Marijn Haverbeke](https://twitter.com/marijnjh "link to @marijnjh twitter page")
@@ -1578,7 +1578,7 @@ _Tweets: 63.8K, followers: 12.6K_
 Author, _Eloquent JavaScript_
 
 @marijnjh: “Prolific coder. Person behind CodeMirror, Eloquent JavaScript, and Tern. Free-lancer.”<br />
-_Tweets: 3,015, followers: 4,247_
+_Tweets: 3,062, followers: 4,325_
 
 
 ### [Nicholas C. Zakas](https://twitter.com/slicknet "link to @slicknet twitter page")
@@ -1588,7 +1588,7 @@ _Tweets: 3,015, followers: 4,247_
 Author, speaker
 
 @slicknet: “Front-end guy at @BoxHQ. Author. Speaker. Philosopher. Boston ex-pat. Lyme disease warrior. Lover of the web.”<br />
-_Tweets: 14.1K, followers: 28.8K_
+_Tweets: 14.2K, followers: 29.2K_
 
 
 ### [Nick Morgan](https://twitter.com/skilldrick "link to @skilldrick twitter page")
@@ -1598,7 +1598,7 @@ _Tweets: 14.1K, followers: 28.8K_
 Author, _JavaScript for Kids_
 
 @skilldrick: “Recovering burrito addict”<br />
-_Tweets: 25.6K, followers: 2,046_
+_Tweets: 26K, followers: 2,081_
 
 
 ### [Paul Irish](https://twitter.com/paul_irish "link to @paul_irish twitter page")
@@ -1608,7 +1608,7 @@ _Tweets: 25.6K, followers: 2,046_
 Developer evangelist, Chrome dev tools champion
 
 @paul_irish: “The web is awesome • I work on developer productivity for Chrome • Chrome DevTools and front-end tooling • big fan of rye whiskey, research and whimsy”<br />
-_Tweets: 23.1K, followers: 156K_
+_Tweets: 23.3K, followers: 159K_
 
 
 ### [Reginald Braithwaite](https://twitter.com/raganwald "link to @raganwald twitter page")
@@ -1618,7 +1618,7 @@ _Tweets: 23.1K, followers: 156K_
 Author, _JavaScript Allongé_, speaker, GitHub
 
 @raganwald: “I’m open to being told how stupid and ignorant I am. We’re on Twitter, after all. (snarfed from @littlecalculist)”<br />
-_Tweets: 31K, followers: 10.4K_
+_Tweets: 31.8K, followers: 10.5K_
 
 
 ### [YDKJS](https://twitter.com/ydkjs "link to @ydkjs twitter page")
@@ -1628,7 +1628,7 @@ _Tweets: 31K, followers: 10.4K_
 _You Don’t Know JS_, O’Reilly book series by Kyle Simpson
 
 @ydkjs (_see also_ @getify)<br />
-_Tweets: 1,062, followers: 3,028_
+_Tweets: 1,111, followers: 3,373_
 
 
 <p>&nbsp;</p>
@@ -1638,7 +1638,7 @@ _Tweets: 1,062, followers: 3,028_
 
 <p>&nbsp; </p>
 
-<small>last updated: March 20, 2015</small>
+<small>last updated: March 20, 2015/April 22, 2015 (Twitter feeds)</small>
 
 <small><a href="https://www.flickr.com/photos/htakashi/5291203955/ " style="text-decoration:none;">Photo</a> of parrots by <a href="https://www.flickr.com/photos/htakashi/" title="link to Takashi Hososhima Flickr page">Takashi Hososhima</a> (<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>). The image has been cropped and flipped horizontally for presentation purposes.</small>
 
