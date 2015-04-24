@@ -1039,7 +1039,7 @@ _12&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;596 <s
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/pm2.png" %}
 
 Process monitoring / self repair: “PM2 is a production process manager for Node.js applications with a built-in load balancer. Perfectly designed for microservice architecture. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks.”<br />
-_A project of Alexandre Strzelewicz. 79&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;6,854 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;523, downloads in the last month from npm:&nbsp;88,208_
+_A project of Alexandre Strzelewicz. 89&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;7,354 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;584, downloads in the last month from npm:&nbsp;143,912_
 
 
 ### [New Relic](http://newrelic.com/ "link to New Relic site")
@@ -1076,7 +1076,7 @@ Run your CI process using the same OS configs as your production systems.<br />
 
 “Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications. Consisting of Docker Engine, a portable, lightweight runtime and packaging tool, and Docker Hub, a cloud service for sharing applications and automating workflows, Docker enables apps to be quickly assembled from components and eliminates the friction between development, QA, and production environments.”
 <br />
-_815&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;19,999 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;4,216_
+_909&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;21,123 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;4,886_
 
 
 ### [Shippable](https://www.shippable.com/ "link to shippable.com")
@@ -1638,7 +1638,7 @@ _Tweets: 1,111, followers: 3,373_
 
 <p>&nbsp; </p>
 
-<small>last updated: March 20, 2015/April 22, 2015 (partial) <!-- community on down --></small>
+<small>last updated: March 20, 2015/April 24, 2015 (partial) <!-- qa on down --></small>
 
 <small><a href="https://www.flickr.com/photos/htakashi/5291203955/ " style="text-decoration:none;">Photo</a> of parrots by <a href="https://www.flickr.com/photos/htakashi/" title="link to Takashi Hososhima Flickr page">Takashi Hososhima</a> (<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>). The image has been cropped and flipped horizontally for presentation purposes.</small>
 
