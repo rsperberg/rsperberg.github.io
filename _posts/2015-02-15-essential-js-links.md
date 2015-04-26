@@ -963,7 +963,7 @@ _By Addy Osmani. Posted circa May 9, 2014_
 “As these technologies are implemented in browsers, the polyfills will shrink and you’ll gain the benefits of native implementations. <code>webcomponents.js</code> automatically detects native support and switches to the fast path when available. Your elements seamlessly start relying on the native stuff — and get faster in the process.
 
 “**Note:** The <code>webcomponents.js</code> polyfill layer is no longer needed for browsers that fully implement the Web Components APIs, such as Chrome 36+.”<br />
-_30&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;542 <br /><span class="octicon octicon-repo-forked"></span>fork:&nbsp;95_
+_31&nbsp;contributors <span class="octicon octicon-star"></span>star:&nbsp;565 <br /><span class="octicon octicon-repo-forked"></span>fork:&nbsp;99_
 
 <!-- https://github.com/webcomponents/webcomponents.github.io  -->
 
@@ -1014,7 +1014,7 @@ _By Eiji Kitamura. Includes 8:16 video. Published at webcomponents.org on Novemb
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/x-gif.png" %}
 
 This web component wins the internet: “<code>&lt;x-gif></code> is a web component for flexible GIF playback. Speed them up, slow them down, play them in reverse, synch multiple beats to a rhythm, synch them to audio, whatever you like.”<br />
-_A project of Glen Maddern. 4&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;1,562 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;74_
+_A project of Glen Maddern. 4&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;1,606 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;73_
 
 
 ### [Vulcanize](https://github.com/Polymer/vulcanize "link to GitHub page")
@@ -1022,7 +1022,7 @@ _A project of Glen Maddern. 4&nbsp;contributors<span class="octicon octicon-star
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/vulcanize.png" %}
 
 Don't let web components slow your app down. Bundle your HTML imports: “Build tool for HTMLImports and Web Components. Named for the Vulcanization process that turns polymers into more durable materials.”<br />
-_12&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;596 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;53_
+_14&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;641 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;57_
 
 
 
