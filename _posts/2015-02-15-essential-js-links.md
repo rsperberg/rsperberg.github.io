@@ -796,7 +796,7 @@ _A project of Heroku. <span class="octicon octicon-star"></span>star:&nbsp;4 <sp
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/eventsource-polyfill.png" %}
 
 Required client-side patching to support Server Sent Events. “A polyfill for http://www.w3.org/TR/eventsource/”<br />
-_A project of Yaffle. 6 contributors <span class="octicon octicon-star"></span>star:&nbsp;587 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;83_
+_A project of Yaffle. 7 contributors <span class="octicon octicon-star"></span>star:&nbsp;609 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;85_
 
 
 ### [jQuery](http://jquery.com/ "link to jQuery site")
@@ -804,7 +804,7 @@ _A project of Yaffle. 6 contributors <span class="octicon octicon-star"></span>s
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/jquery.png" %}
 
 Yes, I [still use jQuery](https://docs.google.com/document/d/1LPaPA30bLUB_publLIMF0RlhdnPx_ePXm7oW02iiT6o/ "link to post") and so do 61% of the top 100,000 websites — for good reason.<br />
-_215 contributors <span class="octicon octicon-star"></span>star:&nbsp;33,771 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;8,101_
+_219 contributors <span class="octicon octicon-star"></span>star:&nbsp;34,224 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;8,288_
 
 
 ### [Blaze](http://meteor.github.io/blaze/ "link to Blaze website")
@@ -812,7 +812,7 @@ _215 contributors <span class="octicon octicon-star"></span>star:&nbsp;33,771 <s
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/blaze.png" %}
 
 DOM-diffing isomorphic reactive templates from Meteor. “HTML templating is central to web applications. With Blaze, Meteor’s live page update technology, you can render your HTML reactively, meaning that it will update automatically to track changes in the data used to generate it.”<br />
-_2 contributors <span class="octicon octicon-star"></span>star:&nbsp;83 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;8_
+_2 contributors <span class="octicon octicon-star"></span>star:&nbsp;90 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;8_
 
 
 ### [Lodash-FP](https://github.com/lodash/lodash-fp "link to GitHub page")
@@ -820,7 +820,7 @@ _2 contributors <span class="octicon octicon-star"></span>star:&nbsp;83 <span cl
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/lodash-fp.png" %}
 
 Like Underscore, but much faster, and featuring a more expressive API: “[lodash](https://lodash.com/ "link to lodash.com") with auto-curried iteratee-first methods.”<br />
-_1 contributor <span class="octicon octicon-star"></span>star:&nbsp;113 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;2_
+_1 contributor <span class="octicon octicon-star"></span>star:&nbsp;134 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;3_
 
 
 ### [RxJS](https://github.com/Reactive-Extensions/RxJS "link to GitHub site")
@@ -828,7 +828,7 @@ _1 contributor <span class="octicon octicon-star"></span>star:&nbsp;113 <span cl
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/reactive.png" %}
 
 Reactive extensions for JavaScript. [What’s reactive?](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4 "link to article, 'The two pillars of JS' ") <br />
-_106 contributors <span class="octicon octicon-star"></span>star:&nbsp;3,391 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;316_
+_117 contributors <span class="octicon octicon-star"></span>star:&nbsp;3,759 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;355_
 
 
 ### [Page.js](https://github.com/visionmedia/page.js "link to GitHub site")
@@ -836,7 +836,7 @@ _106 contributors <span class="octicon octicon-star"></span>star:&nbsp;3,391 <sp
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/visionmedia-page-js.png" %}
 
 Tiny client-side router, inspired by Express: “~1200 bytes.”<br />
-_Project maintained by Visionmedia. 45 contributors <span class="octicon octicon-star"></span>star:&nbsp;2,060 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;210_
+_Project maintained by Visionmedia. 46 contributors <span class="octicon octicon-star"></span>star:&nbsp;2,213 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;226_
 
 
 ### [Moment](http://momentjs.com "link to momentjs.com")
@@ -844,7 +844,7 @@ _Project maintained by Visionmedia. 45 contributors <span class="octicon octicon
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/moment.png" %}
 
 A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates. Includes 81 locale/script/language combinations. “Moment was designed to work both in the browser and in Node.JS. All code will work in both environments. All unit tests are run in both environments.” <br />
-_233 contributors <span class="octicon octicon-star"></span>star:&nbsp;20,058 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;2,157_
+_233 contributors <span class="octicon octicon-star"></span>star:&nbsp;20,607 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;2,274_
 
 
 ### [Globalize](https://github.com/jquery/globalize "link to GitHub site")
@@ -854,7 +854,7 @@ _233 contributors <span class="octicon octicon-star"></span>star:&nbsp;20,058 <s
 i18n / translate your app for many languages and locations (locales). “Each language, and the countries that speak that language, have different expectations when it comes to how numbers (including currency and percentages) and dates should appear. Obviously, each language has different names for the days of the week and the months of the year. But they also have different expectations for the structure of dates, such as what order the day, month and year are in. In number formatting, not only does the character used to delineate number groupings and the decimal portion differ, but the placement of those characters differ as well.
 
 “A user using an application should be able to read and write dates and numbers in the format they are accustomed to. This library makes this possible, providing an API to convert user-entered number and date strings — in their own format — into actual numbers and dates, and conversely, to format numbers and dates into that string format.” <br />
-_32 contributors <span class="octicon octicon-star"></span>star:&nbsp;1,565 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;356_
+_32 contributors <span class="octicon octicon-star"></span>star:&nbsp;1,819 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;368_
 
 
 ### [Lusca](https://github.com/krakenjs/lusca "link to GitHub page")
@@ -862,7 +862,7 @@ _32 contributors <span class="octicon octicon-star"></span>star:&nbsp;1,565 <spa
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/lusca.png" %}
 
 Secure your Express application. By the Kraken team at PayPal.<br />
-_17 contributors <span class="octicon octicon-star"></span>star:&nbsp;632 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;60_
+_18 contributors <span class="octicon octicon-star"></span>star:&nbsp;657 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;62_
 
 
 ### [Express](http://expressjs.com/ "link to expressjs.com")
@@ -870,7 +870,7 @@ _17 contributors <span class="octicon octicon-star"></span>star:&nbsp;632 <span 
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/express.png" %}
 
 The most popular framework for Node. “A fast, un-opinionated, minimalist web framework for Node.js applications.” <br />
-_176 contributors <span class="octicon octicon-star"></span>star:&nbsp;17,976 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;3,640, downloads in the last month from npm:&nbsp;2,326,436_
+_177 contributors <span class="octicon octicon-star"></span>star:&nbsp;18,545 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;3,732, downloads in the last month from npm:&nbsp;2,355,164_
 
 <!--  https://github.com/strongloop/express  -->
 
@@ -880,7 +880,7 @@ _176 contributors <span class="octicon octicon-star"></span>star:&nbsp;17,976 <s
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/stampit.png" %}
 
 Stampit — create objects from reusable, composable behaviors. Prototypal inheritance with stamps. <br />
-_A project of Eric Elliott. 9 contributors <span class="octicon octicon-star"></span>star:&nbsp;728 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;42_
+_A project of Eric Elliott. 9 contributors <span class="octicon octicon-star"></span>star:&nbsp;809 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;42_
 
 
 ### [Credential](https://github.com/ericelliott/credential "link to GitHub site")
@@ -888,7 +888,7 @@ _A project of Eric Elliott. 9 contributors <span class="octicon octicon-star"></
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/credential.png" %}
 
 If you write Node apps with password logins, you need Credential: “Easy password hashing and verification in Node. Protects against brute force, rainbow tables, and timing attacks.”<br />
-_A project of Eric Elliott. 6&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;149 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;8_
+_A project of Eric Elliott. 6&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;158 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;8_
 
 
 ### [cuid](https://github.com/ericelliott/cuid "link to GitHub site")
@@ -896,7 +896,7 @@ _A project of Eric Elliott. 6&nbsp;contributors<span class="octicon octicon-star
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/cuid.png" %}
 
 GUIDs are broken — use cuid, instead. “Collision-resistant ids optimized for horizontal scaling and performance.”<br />
-_A project of Eric Elliott. 4&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;233 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;8_
+_A project of Eric Elliott. 4&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;245 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;8_
 
 
 ### [Velocity](http://julian.com/research/velocity/ "link to Velocity site")
@@ -905,7 +905,7 @@ _A project of Eric Elliott. 4&nbsp;contributors<span class="octicon octicon-star
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/velocity.png" %}
 
 UI animation library: “Velocity is an animation engine with the same API as jQuery’s <code>$.animate()</code>. It works with and without jQuery. It’s incredibly fast, and it features color animation, transforms, loops, easings, SVG support, and scrolling. It is the best of jQuery and CSS transitions combined.”<br />
-_A project of Julian Shapiro. 14&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;7,028 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;562_
+_A project of Julian Shapiro. 15&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;7,317 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;598_
 
 <!--  https://github.com/julianshapiro/velocity  -->
 
@@ -923,7 +923,7 @@ _12&nbsp;contributors (at github.com/json-schema)<span class="octicon octicon-st
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/is-my-json-valid.png" %}
 
 A fast [json-schema](http://json-schema.org/ "link to json-schema.org") validator: “A JSONSchema validator that uses code generation to be extremely fast.”<br />
-_A project of Mathias Buus. 8&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;174 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;13_
+_A project of Mathias Buus. 8&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;213 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;23_
 
 
 ### [inquirer.js](https://github.com/SBoudrias/Inquirer.js "link to GitHub site")
@@ -931,7 +931,7 @@ _A project of Mathias Buus. 8&nbsp;contributors<span class="octicon octicon-star
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/is-my-json-valid.png" %}
 
 Great library for building CLI tools: “A collection of common interactive command line user interfaces.”<br />
-_A project of Simon Boudrias. 24&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;1,350 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;92_
+_A project of Simon Boudrias. 25&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;1,437 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;100_
 
 
 
@@ -1638,7 +1638,7 @@ _Tweets: 1,111, followers: 3,373_
 
 <p>&nbsp; </p>
 
-<small>last updated: March 20, 2015/April 24, 2015 (partial) <!-- qa on down --></small>
+<small>last updated: March 20, 2015/April 26, 2015 (partial) <!-- sseasy (libs) on down --></small>
 
 <small><a href="https://www.flickr.com/photos/htakashi/5291203955/ " style="text-decoration:none;">Photo</a> of parrots by <a href="https://www.flickr.com/photos/htakashi/" title="link to Takashi Hososhima Flickr page">Takashi Hososhima</a> (<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>). The image has been cropped and flipped horizontally for presentation purposes.</small>
 
