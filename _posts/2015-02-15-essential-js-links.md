@@ -690,7 +690,7 @@ _661 contributors <span class="octicon octicon-star"></span>star:&nbsp;11,171 <s
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/es5-shim.png" %}
 
 “es5-shim.js and es5-shim.min.js monkey-patch a JavaScript context to contain all EcmaScript 5 methods that can be faithfully emulated with a legacy JavaScript engine.” Stable, production ready. <br />
-_55 contributors <span class="octicon octicon-star"></span>star:&nbsp;3,537 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;490, downloads in the last month from npm:&nbsp;69,792_
+_55 contributors <span class="octicon octicon-star"></span>star:&nbsp;3,662 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;506, downloads in the last month from npm:&nbsp;105,728_
 
 
 ### [es6-shim](https://github.com/es-shims/es6-shim/ "link to GitHub site")
@@ -698,7 +698,7 @@ _55 contributors <span class="octicon octicon-star"></span>star:&nbsp;3,537 <spa
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/es6-shim.png" %}
 
 “Provides compatibility shims so that legacy JavaScript engines behave as closely as possible to ECMAScript 6 (Harmony).” Somewhat stable, but a few things I thought were solid got shifted to ES7. <br />
-_30 contributors <span class="octicon octicon-star"></span>star:&nbsp;52 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;84_
+_30 contributors <span class="octicon octicon-star"></span>star:&nbsp;65 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;89_
 
 
 ### [es7-shim](https://www.npmjs.com/package/es7-shim "link to package site at npm")
@@ -706,7 +706,7 @@ _30 contributors <span class="octicon octicon-star"></span>star:&nbsp;52 <span c
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/es7-shim.png" %}
 
 “es7-shim.js exports an object that contains shims that can be used to monkeypatch a JavaScript context to contain all ECMAScript 7 methods that can be faithfully emulated with a legacy JavaScript engine.” Experimental. Use with caution.<br />
-_217 downloads in the last month from npm_
+_223 downloads in the last month from npm_
 
 
 ### [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills "link to Modernizr GitHub wiki page on HTML5 cross-browser polyfills")
@@ -723,7 +723,7 @@ _311 items arranged by 69 main categories_
 
 For educational use only. You’ll want to cherry-pick the best of this for your production apps.  See [Initializr](http://www.initializr.com): “A professional front-end template for building fast, robust, and adaptable web apps or sites.”<br />
 _A project of [H5BP](https://github.com/h5bp "link to GitHub site") maintained by Mathias Bynens and Hans Christian Reinl. <br />
-194 contributors <span class="octicon octicon-star"></span>star:&nbsp;29,161 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;7,510_
+195 contributors <span class="octicon octicon-star"></span>star:&nbsp;29,627 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;7,625_
 
 
 ### [The Isomorphic Express Boilerplate](https://github.com/ericelliott/isomorphic-express-boilerplate "link to GitHub site")
@@ -738,7 +738,7 @@ Write apps using the same code for both the client and the server using Node, Ex
 
 - “More productive developers. Since the app is more consistent across the stack, there’s no context switching when you need to maintain application behavior on both sides of the stack. Write the behavior once, and you’re done.”
 
-_A project of Eric Elliott. 2 contributors <span class="octicon octicon-star"></span>star:&nbsp;83 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;15_
+_A project of Eric Elliott. 2 contributors <span class="octicon octicon-star"></span>star:&nbsp;110 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;17_
 
 
 ### [rootrequire](https://github.com/ericelliott/rootrequire "link to GitHub site")
@@ -754,7 +754,7 @@ Require files relative to your project path using the normal node <code>require(
 - “Every file documents your app’s directory structure for you. You’ll know exactly where to look for things.
 
 - “Dazzle your coworkers.”<br />
-_A project of Eric Elliott. <span class="octicon octicon-star"></span>star:&nbsp;6_
+_A project of Eric Elliott. <span class="octicon octicon-star"></span>star:&nbsp;10_
 
 
 ### [dotty](https://github.com/deoxxa/dotty "link to GitHub site")
@@ -762,7 +762,7 @@ _A project of Eric Elliott. <span class="octicon octicon-star"></span>star:&nbsp
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/dotty.png" %}
 
 Get deep properties using dot notation without throwing. e.g., `dotty.get(req, 'user.id');`<br />
-_A project of Kyle Simpson. 2 contributors <span class="octicon octicon-star"></span>star:&nbsp;56 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;7_
+_A project of Kyle Simpson. 2 contributors <span class="octicon octicon-star"></span>star:&nbsp;58 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;9_
 
 
 ### [native-promise-only](https://github.com/getify/native-promise-only "link to GitHub site")
@@ -770,7 +770,7 @@ _A project of Kyle Simpson. 2 contributors <span class="octicon octicon-star"></
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/native-promise-only.png" %}
 
 An ECMAScript-standard promise polyfill by <i>Kyle Simpson</i>. “The aim of this project is to be the smallest polyfill for Promises, staying as close as possible to what’s specified in both Promises/A+ and the upcoming ES6 specification.”<br />
-_A project of Kyle Simpson. 2 contributors <span class="octicon octicon-star"></span>star:&nbsp;277 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;17_
+_A project of Kyle Simpson. 2 contributors <span class="octicon octicon-star"></span>star:&nbsp;291 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;17_
 
 
 ### [isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch "link to GitHub site")
@@ -778,7 +778,7 @@ _A project of Kyle Simpson. 2 contributors <span class="octicon octicon-star"></
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/isomorphic-fetch.png" %}
 
 A <a href="https://fetch.spec.whatwg.org/" rel="noreferrer">WHATWG fetch</a> standard polyfill <br />
-_By Matt Andrews. 3 contributors <span class="octicon octicon-star"></span>star:&nbsp;51 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;2_
+_By Matt Andrews. 4 contributors <span class="octicon octicon-star"></span>star:&nbsp;93 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;4_
 
 
 ### [sseasy](https://github.com/heroku/sseasy "link to GitHub site")
@@ -1638,7 +1638,7 @@ _Tweets: 1,111, followers: 3,373_
 
 <p>&nbsp; </p>
 
-<small>last updated: March 20, 2015/April 26, 2015 (partial) <!-- sseasy (libs) on down --></small>
+<small>last updated: March 20, 2015/April 27, 2015 (partial) <!-- libs on down --></small>
 
 <small><a href="https://www.flickr.com/photos/htakashi/5291203955/ " style="text-decoration:none;">Photo</a> of parrots by <a href="https://www.flickr.com/photos/htakashi/" title="link to Takashi Hososhima Flickr page">Takashi Hososhima</a> (<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>). The image has been cropped and flipped horizontally for presentation purposes.</small>
 
