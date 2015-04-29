@@ -207,6 +207,13 @@ _A talk given by [Eric Elliott](https://twitter.com/_ericelliott "link to @\_eri
 _By Jafar Husain. Delivered at @Scale 2014. Published on September 22, 2014. Length: 41:46, 6,819&nbsp;views_
 
 
+### [What is Reactive Programming?](https://www.youtube.com/watch?v=dwP1TNXE6fc "link to YouTube video") 
+
+{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/name-tk.png" %}
+
+Jafar Husain](https://twitter.com/jhusain) explains reactive programming
+
+
 ### [Immutability: Putting The Dream Machine To Work](https://www.youtube.com/watch?v=SiFwRtCnxv4 "link to talk on YouTube") — [David Nolen](https://twitter.com/swannodette "link to David Nolen on Twitter")
 
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/immutability.png" %}
@@ -223,18 +230,6 @@ _By David Nolen. Delivered at JSConf. Published on July 1, 2014. Length: 22:05, 
 
 One of the most important but overlooked topics in the development world today — page load times: “[A]nd finally answering the ‘page size vs # of requests’ question...”<br />
 _Keynote by [Paul Irish](https://twitter.com/paul_irish "link to @paul_irish twitter page"). Delivered at Fluent 2014. Published on March&nbsp;13, 2014. Length: 23:24, 36,283&nbsp;views_
-
-
-### [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI&list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr "link to YouTube video")
-
-{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/immutable-data-and-react.png" %}
-
-“Immutable data unlocks powerful memoization techniques and prohibits accidental coupling via shared mutable state. It’s no accident that these are the the same benefits provided by React.
-
-“Persistent data structures provide the benefits of immutability while maintaining high performance reads and writes and present a familiar API.
-
-“Learn about how persistent immutable data structures work, and techniques for using them in your React applications with Immutable.js, a library of fully persistent immutable data structures.”<br />
-_Given by [Lee Byron](https://twitter.com/leeb "link to @leeb twitter page") at React.js Conf 2015, January 29, 2015. Length: 31:10, 19,575&nbsp;views_
 
 
 ### [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0 "link to YouTube video")
@@ -950,9 +945,21 @@ _A project of Simon Boudrias. 25&nbsp;contributors<span class="octicon octicon-s
 
 ### [Introducing React](https://www.youtube.com/watch?v=XxVg_s8xAms "link to video")
 
-### [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI&list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr "link to video")
 
-By [Lee Byron](https://twitter.com/leeb)
+### [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI&list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr "link to YouTube video")
+
+{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/immutable-data-and-react.png" %}
+
+“Immutable data unlocks powerful memoization techniques and prohibits accidental coupling via shared mutable state. It’s no accident that these are the the same benefits provided by React.
+
+“Persistent data structures provide the benefits of immutability while maintaining high performance reads and writes and present a familiar API.
+
+“Learn about how persistent immutable data structures work, and techniques for using them in your React applications with Immutable.js, a library of fully persistent immutable data structures.”<br />
+_Given by [Lee Byron](https://twitter.com/leeb "link to @leeb twitter page") at React.js Conf 2015, January 29, 2015. Length: 31:10, 19,575&nbsp;views_
+
+
+
+
 
 ### [Data Fetching for React](https://www.youtube.com/watch?v=9sc8Pyc51uU "link to video")
 
