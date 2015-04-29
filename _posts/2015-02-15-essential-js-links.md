@@ -939,6 +939,30 @@ _A project of Simon Boudrias. 25&nbsp;contributors<span class="octicon octicon-s
 <!--  ===============================================================================  -->
 <!--  ===============================================================================  -->
 
+## React
+
+### [Introducing React](https://www.youtube.com/watch?v=XxVg_s8xAms "link to video")
+
+### [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI&list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr "link to video")
+
+By [Lee Byron](https://twitter.com/leeb)
+
+### [Data Fetching for React](https://www.youtube.com/watch?v=9sc8Pyc51uU "link to video")
+
+Relay & GraphQL Described
+
+### [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html "link to post")
+
+### [Building the Facebook Newsfeed with Relay](https://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html "link to post")
+
+### [Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47 "link to gist")
+
+
+
+
+<!--  ===============================================================================  -->
+<!--  ===============================================================================  -->
+
 ## <a name="web-components"></a>Web Components
 
 
