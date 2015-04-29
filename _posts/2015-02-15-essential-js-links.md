@@ -815,6 +815,13 @@ DOM-diffing isomorphic reactive templates from Meteor. “HTML templating is cen
 _2 contributors <span class="octicon octicon-star"></span>star:&nbsp;90 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;8_
 
 
+### [React](https://github.com/facebook/react "link to React site")
+
+% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/name-tk.png" %}
+
+What do Facebook, Instagram, Netflix and PayPal have in common? React.
+
+
 ### [Lodash-FP](https://github.com/lodash/lodash-fp "link to GitHub page")
 
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/lodash-fp.png" %}
