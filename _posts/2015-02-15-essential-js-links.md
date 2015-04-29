@@ -207,11 +207,11 @@ _A talk given by [Eric Elliott](https://twitter.com/_ericelliott "link to @\_eri
 _By Jafar Husain. Delivered at @Scale 2014. Published on September 22, 2014. Length: 41:46, 6,819&nbsp;views_
 
 
-### [What is Reactive Programming?](https://www.youtube.com/watch?v=dwP1TNXE6fc "link to YouTube video") 
+### [What is Reactive Programming?](https://www.youtube.com/watch?v=dwP1TNXE6fc "link to YouTube video")
 
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/name-tk.png" %}
 
-Jafar Husain](https://twitter.com/jhusain) explains reactive programming
+[Jafar Husain](https://twitter.com/jhusain) explains reactive programming
 
 
 ### [Immutability: Putting The Dream Machine To Work](https://www.youtube.com/watch?v=SiFwRtCnxv4 "link to talk on YouTube") — [David Nolen](https://twitter.com/swannodette "link to David Nolen on Twitter")
