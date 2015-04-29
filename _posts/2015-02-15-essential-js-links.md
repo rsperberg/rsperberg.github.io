@@ -610,7 +610,7 @@ _Project maintained by Visionmedia. 30 contributors <span class="octicon octicon
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/babel.png" %}
 
 Transpile ES6, ES7 to ES5: “Babel is a transpiler for writing next-generation JavaScript. (Previously 6to5)” (link to [babeljs.io](http://babeljs.io "link to babeljs.io site"))<br />
-_59 contributors <span class="octicon octicon-star"></span>star:&nbsp;4,462 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;177_
+_79 contributors <span class="octicon octicon-star"></span>star:&nbsp;5,534 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;251_
 
 
 ### [CoffeeScript](http://coffeescript.org/ "link to coffeescript site")
@@ -620,7 +620,7 @@ _59 contributors <span class="octicon octicon-star"></span>star:&nbsp;4,462 <spa
 “CoffeeScript is a little language that compiles into JavaScript. Underneath that awkward Java-esque patina, JavaScript has always had a gorgeous heart. CoffeeScript is an attempt to expose the good parts of JavaScript in a simple way.
 
 “The golden rule of CoffeeScript is: ‘It’s just JavaScript.’ The code compiles one-to-one into the equivalent JS, and there is no interpretation at runtime. You can use any existing JavaScript library seamlessly from CoffeeScript (and vice-versa). The compiled output is readable and pretty-printed, will work in every JavaScript runtime, and tends to run as fast or faster than the equivalent handwritten JavaScript.”<br />
-_A project of Jeremy Ashkenas. 176 contributors <span class="octicon octicon-star"></span>star:&nbsp;10,919 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;1,454_
+_A project of Jeremy Ashkenas. 177 contributors <span class="octicon octicon-star"></span>star:&nbsp;11,151 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;1,494_
 
 <!--  https://github.com/jashkenas/coffeescript  -->
 
@@ -630,7 +630,7 @@ _A project of Jeremy Ashkenas. 176 contributors <span class="octicon octicon-sta
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/emscripten.png" %}
 
 Frequently used for C/C++ JavaScript ports: “Practically any portable C or C++ codebase can be compiled into JavaScript using Emscripten, ranging from high-performance games that need to render graphics, play sounds, and load and process files, through to application frameworks like Qt.” <br />
-_A project of Alon Zakai. 161 contributors <span class="octicon octicon-star"></span>star:&nbsp;8,029 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;905_
+_A project of Alon Zakai. 179 contributors <span class="octicon octicon-star"></span>star:&nbsp;8,202 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;940_
 
 
 ### [ES6 tools](https://github.com/addyosmani/es6-tools "link to GitHub site")
@@ -638,7 +638,7 @@ _A project of Alon Zakai. 161 contributors <span class="octicon octicon-star"></
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/es6-tools.png" %}
 
 ES6 Tools list (113 listed in February 2015). (See [annotated version](http://www.super-script.us/2015/es6-tools.html "link to annotated version here at super-script.us")) <br />
-_A project of Addy Osmani. 29 contributors <span class="octicon octicon-star"></span>star:&nbsp;1,590 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;83_
+_A project of Addy Osmani. 30 contributors <span class="octicon octicon-star"></span>star:&nbsp;1,760 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;91_
 
 
 
@@ -1638,7 +1638,7 @@ _Tweets: 1,111, followers: 3,373_
 
 <p>&nbsp; </p>
 
-<small>last updated: March 20, 2015/April 27, 2015 (partial) <!-- libs on down --></small>
+<small>last updated: March 20, 2015/April 29, 2015 (partial) <!-- transpilers on down --></small>
 
 <small><a href="https://www.flickr.com/photos/htakashi/5291203955/ " style="text-decoration:none;">Photo</a> of parrots by <a href="https://www.flickr.com/photos/htakashi/" title="link to Takashi Hososhima Flickr page">Takashi Hososhima</a> (<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>). The image has been cropped and flipped horizontally for presentation purposes.</small>
 
