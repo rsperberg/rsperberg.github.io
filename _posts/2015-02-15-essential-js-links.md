@@ -949,6 +949,10 @@ _A project of Simon Boudrias. 25&nbsp;contributors<span class="octicon octicon-s
 ### [Introducing React](https://www.youtube.com/watch?v=XxVg_s8xAms "link to video")
 
 
+Tom Occhino and Jordan Walke speak about React.js at Facebook Seattle.<br />
+_Published on July 8, 2013. Length: 1:19:10. 50,963 view_
+
+
 ### [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI&list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr "link to YouTube video")
 
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/immutable-data-and-react.png" %}
