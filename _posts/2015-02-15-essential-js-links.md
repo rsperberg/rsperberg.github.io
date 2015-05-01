@@ -209,9 +209,11 @@ _By Jafar Husain. Delivered at @Scale 2014. Published on September 22, 2014. Len
 
 ### [What is Reactive Programming?](https://www.youtube.com/watch?v=dwP1TNXE6fc "link to YouTube video")
 
-{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/name-tk.png" %}
+{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/reactive-programming-overview.png" %}
 
-[Jafar Husain](https://twitter.com/jhusain) explains reactive programming
+[Jafar Husain](https://twitter.com/jhusain) explains reactive programming<br/>
+_Jafar Husain interviewed by HackHands.com. Published on July 14, 2014. Length: 9:17, 1,907&nbsp;views_
+
 
 
 ### [Immutability: Putting The Dream Machine To Work](https://www.youtube.com/watch?v=SiFwRtCnxv4 "link to talk on YouTube") — [David Nolen](https://twitter.com/swannodette "link to David Nolen on Twitter")
