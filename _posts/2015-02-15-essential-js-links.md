@@ -816,7 +816,8 @@ _2 contributors <span class="octicon octicon-star"></span>star:&nbsp;90 <span cl
 
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/reactjs.png" %}
 
-What do Facebook, Instagram, Netflix and PayPal have in common? React.
+What do Facebook, Instagram, Netflix and PayPal have in common? React: “A declarative, efficient, and flexible JavaScript library for building user interfaces.”<br />
+_394 contributors <span class="octicon octicon-star"></span>star:&nbsp;21,313 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;2,982_
 
 
 ### [Lodash-FP](https://github.com/lodash/lodash-fp "link to GitHub page")
