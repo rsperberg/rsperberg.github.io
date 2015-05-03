@@ -592,7 +592,7 @@ _A project of James Halliday. 2 contributors <span class="octicon octicon-star">
 The best way to test HTTP endpoints: “Super-agent driven library for testing node.js HTTP servers using a fluent API.
 
 “The motivation with this module is to provide a high-level abstraction for testing HTTP, while still allowing you to drop down to the lower-level API provided by super-agent.”<br />
-_Project maintained by Visionmedia. 30 contributors <span class="octicon octicon-star"></span>star:&nbsp;1,835 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;146_
+_Project maintained by Visionmedia. 30 contributors <span class="octicon octicon-star"></span>star:&nbsp;2,0003 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;151_
 
 
 
@@ -1684,7 +1684,9 @@ _Tweets: 1,111, followers: 3,373_
 
 <p>&nbsp; </p>
 
-<small>last updated: March 20, 2015/May1, 2015 (partial) <!-- transpilers on down --></small>
+<small>last updated: March 20, 2015/May 2, 2015 (partial) </small>
+
+<!-- transpilers on down -->
 
 <small><a href="https://www.flickr.com/photos/htakashi/5291203955/ " style="text-decoration:none;">Photo</a> of parrots by <a href="https://www.flickr.com/photos/htakashi/" title="link to Takashi Hososhima Flickr page">Takashi Hososhima</a> (<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>). The image has been cropped and flipped horizontally for presentation purposes.</small>
 
