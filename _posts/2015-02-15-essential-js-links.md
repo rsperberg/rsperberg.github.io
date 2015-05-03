@@ -504,7 +504,7 @@ Bundle modules for the browser. “browserify is a tool for compiling node-flavo
 “The module system that browserify uses is the same as node, so packages published to npm that were originally intended for use in node but not browsers will work just fine in the browser too.
 
 “Increasingly, people are publishing modules to npm which are intentionally designed to work in both node and in the browser using browserify and many packages on npm are intended for use in just the browser. [npm is for all javascript](http://maxogden.com/node-packaged-modules.html "link to post on using npm for client-side programs"), front or backend alike.” <br />
-_Project of James Halliday. 138 contributors <span class="octicon octicon-star"></span>star:&nbsp;6,859 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;602_
+_Project of James Halliday. 142 contributors <span class="octicon octicon-star"></span>star:&nbsp;7,214 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;634_
 
 <!--  https://github.com/substack/node-browserify  -->
 
@@ -1684,9 +1684,9 @@ _Tweets: 1,111, followers: 3,373_
 
 <p>&nbsp; </p>
 
-<small>last updated: March 20, 2015/May 2, 2015 (partial) </small>
+<small>last updated: March 20, 2015/May 3, 2015 (partial) </small>
 
-<!-- testing on down -->
+<!-- building on down -->
 
 <small><a href="https://www.flickr.com/photos/htakashi/5291203955/ " style="text-decoration:none;">Photo</a> of parrots by <a href="https://www.flickr.com/photos/htakashi/" title="link to Takashi Hososhima Flickr page">Takashi Hososhima</a> (<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>). The image has been cropped and flipped horizontally for presentation purposes.</small>
 
