@@ -528,7 +528,7 @@ _By Keith Cirkel. Posted on December 9, 2014_
 “JSHint scans a program written in JavaScript and reports about commonly made mistakes and potential bugs. The potential problem could be a syntax error, a bug due to implicit type conversion, a leaking variable or something else.
 
 “Only 15% of all programs linted on this website pass the JSHint checks. In all other cases, JSHint finds some red flags that could’ve been bugs or potential problems.” <br />
-_JSHint created and maintained by Anton Kovalyov. 188 contributors <span class="octicon octicon-star"></span>star:&nbsp;4,735 <br /><span class="octicon octicon-repo-forked"></span>fork:&nbsp;996_
+_JSHint created and maintained by Anton Kovalyov. 195 contributors <span class="octicon octicon-star"></span>star:&nbsp;4,945 <br /><span class="octicon octicon-repo-forked"></span>fork:&nbsp;1,024_
 
 <!--  https://github.com/jshint/jshint  -->
 
@@ -542,7 +542,7 @@ _JSHint created and maintained by Anton Kovalyov. 188 contributors <span class="
 “The primary reason ESLint was created was to allow developers to create their own linting rules. ESLint is designed to have all rules completely pluggable. The default rules are written just like any plugin rules would be. They can all follow the same pattern, both for the rules themselves as well as tests. ...
 
 “ESLint is written using Node.js to provide a fast runtime environment and easy installation via npm.”<br />
-_Created by Nicholas C. Zakas in June 2013. 149 contributors <span class="octicon octicon-star"></span>star:&nbsp;1,854 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;314_
+_Created by Nicholas C. Zakas in June 2013. 168 contributors <span class="octicon octicon-star"></span>star:&nbsp;2,085 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;372_
 
 
 ### [babel-eslint](https://github.com/babel/babel-eslint "link to GitHub site")
@@ -550,7 +550,7 @@ _Created by Nicholas C. Zakas in June 2013. 149 contributors <span class="octico
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/babel-eslint.png" %}
 
 Allow ES6 features to pass ESLint.<br />
-_8&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;152 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;8_
+_9&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;226 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;12_
 
 
 ### [eslint-plugin-no-class](https://github.com/emmenko/eslint-plugin-no-class "link to GitHub site")
@@ -558,7 +558,7 @@ _8&nbsp;contributors<span class="octicon octicon-star"></span>star:&nbsp;152 <sp
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/eslint-plugin-no-class.png" %}
 
 Forbid the ES6 `class` keyword. [Why?](https://github.com/eslint/eslint/pull/2096#issuecomment-83044888 "link to GitHub issue comment by Eric Elliott")<br />
-_A project of Nicola Molinari. <span class="octicon octicon-star"></span>star:&nbsp;1_
+_A project of Nicola Molinari. <span class="octicon octicon-star"></span>star:&nbsp;2_
 
 
 ### [Istanbul](https://github.com/gotwarlost/istanbul "link to GitHub site")
@@ -566,7 +566,7 @@ _A project of Nicola Molinari. <span class="octicon octicon-star"></span>star:&n
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/istanbul.png" %}
 
 Code coverage reporting. <br />
-_A project of Krishnan Anantheswaran. 41 contributors <span class="octicon octicon-star"></span>star:&nbsp;2,327 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;229, downloads in the last month from npm:&nbsp;542,498_
+_A project of Krishnan Anantheswaran. 43 contributors <span class="octicon octicon-star"></span>star:&nbsp;2,501 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;248, downloads in the last month from npm:&nbsp;783,233_
 
 
 ### [tape](https://github.com/substack/tape "link to GitHub site")
@@ -574,7 +574,7 @@ _A project of Krishnan Anantheswaran. 41 contributors <span class="octicon octic
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/tape.png" %}
 
 Minimal, dead simple unit testing. (This is all you need, really!) Tape is a “tap-producing test harness for node and browsers.” <br />
-_A project of James Halliday. 26 contributors <span class="octicon octicon-star"></span>star:&nbsp;588 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;64_
+_A project of James Halliday. 27 contributors <span class="octicon octicon-star"></span>star:&nbsp;647 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;69_
 
 
 ### [faucet](https://github.com/substack/faucet "link to GitHub site")
@@ -582,7 +582,7 @@ _A project of James Halliday. 26 contributors <span class="octicon octicon-star"
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/faucet.png" %}
 
 Prettify unit testing output (like what comes from tape). Faucet is a “human-readable TAP summarizer” <br />
-_A project of James Halliday. 2 contributors <span class="octicon octicon-star"></span>star:&nbsp;192 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;3_
+_A project of James Halliday. 2 contributors <span class="octicon octicon-star"></span>star:&nbsp;196 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;3_
 
 
 ### [Supertest](https://github.com/tj/supertest "link to GitHub site")
@@ -1686,7 +1686,7 @@ _Tweets: 1,111, followers: 3,373_
 
 <small>last updated: March 20, 2015/May 2, 2015 (partial) </small>
 
-<!-- transpilers on down -->
+<!-- testing on down -->
 
 <small><a href="https://www.flickr.com/photos/htakashi/5291203955/ " style="text-decoration:none;">Photo</a> of parrots by <a href="https://www.flickr.com/photos/htakashi/" title="link to Takashi Hososhima Flickr page">Takashi Hososhima</a> (<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>). The image has been cropped and flipped horizontally for presentation purposes.</small>
 
