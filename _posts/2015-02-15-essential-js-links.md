@@ -264,7 +264,7 @@ An annotated, hyperlinked version of the ES5 spec
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/annotated-es6.png" %}
 
 Most-recent draft of the ECMAScript 6 specification. <br />
-_Version: Rev 36, March 17, 2015_
+_Version: Rev 37, April 3, 2015_
 
 
 
@@ -1686,7 +1686,7 @@ _Tweets: 1,111, followers: 3,373_
 
 <small>last updated: March 20, 2015/May 4, 2015 (partial) </small>
 
-<!-- books on down -->
+<!-- spec on down -->
 
 <small><a href="https://www.flickr.com/photos/htakashi/5291203955/ " style="text-decoration:none;">Photo</a> of parrots by <a href="https://www.flickr.com/photos/htakashi/" title="link to Takashi Hososhima Flickr page">Takashi Hososhima</a> (<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>). The image has been cropped and flipped horizontally for presentation purposes.</small>
 
