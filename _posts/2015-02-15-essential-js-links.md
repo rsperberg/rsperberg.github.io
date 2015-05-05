@@ -204,7 +204,7 @@ _A talk given by [Eric Elliott](https://twitter.com/_ericelliott "link to @\_eri
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/asynchronous-programming.png" %}
 
 “What does a mouse drag event have in common with an array of numbers? The answer to this question may surprise you: they are both collections. This insight holds the key to dramatically simplifying asynchronous programming in JavaScript. In this talk you will learn how you can use the familiar JavaScript Array methods to create surprisingly expressive asynchronous programs.” <br />
-_By Jafar Husain. Delivered at @Scale 2014. Published on September 22, 2014. Length: 41:46, 6,819&nbsp;views_
+_By Jafar Husain. Delivered at @Scale 2014. Published on September 22, 2014. Length: 41:46, 8,057&nbsp;views_
 
 
 ### [What is Reactive Programming?](https://www.youtube.com/watch?v=dwP1TNXE6fc "link to YouTube video")
@@ -212,7 +212,7 @@ _By Jafar Husain. Delivered at @Scale 2014. Published on September 22, 2014. Len
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/reactive-programming-overview.png" %}
 
 [Jafar Husain](https://twitter.com/jhusain) explains reactive programming<br/>
-_Jafar Husain interviewed by HackHands.com. Published on July 14, 2014. Length: 9:17, 1,907&nbsp;views_
+_Jafar Husain interviewed by HackHands.com. Published on July 14, 2014. Length: 9:17, 1,945&nbsp;views_
 
 
 
@@ -223,7 +223,7 @@ _Jafar Husain interviewed by HackHands.com. Published on July 14, 2014. Length: 
 “We live in a time of vast computational resources — many of us carry around in our pockets what just thirty years ago would have been considered a supercomputer. But it’s not just the hardware, these bite-sized supercomputers run software using state-of-the-art dynamic compilation techniques to deliver stellar performance without sacrificing flexibility.
 
 “While all of this may sound incredibly futuristic, many of us still program these Dream Machines with miserly techniques not far removed from the best practices of the 1960s. <br />
-_By David Nolen. Delivered at JSConf. Published on July 1, 2014. Length: 22:05, 6,248&nbsp;views_
+_By David Nolen. Delivered at JSConf. Published on July 1, 2014. Length: 22:05, 6,810&nbsp;views_
 
 
 ### [Delivering the goods](https://www.youtube.com/watch?v=R8W_6xWphtw "link to YouTube video") — Paul Irish
@@ -231,7 +231,7 @@ _By David Nolen. Delivered at JSConf. Published on July 1, 2014. Length: 22:05, 
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/delivering-the-goods.png" %}
 
 One of the most important but overlooked topics in the development world today — page load times: “[A]nd finally answering the ‘page size vs # of requests’ question...”<br />
-_Keynote by [Paul Irish](https://twitter.com/paul_irish "link to @paul_irish twitter page"). Delivered at Fluent 2014. Published on March&nbsp;13, 2014. Length: 23:24, 36,283&nbsp;views_
+_Keynote by [Paul Irish](https://twitter.com/paul_irish "link to @paul_irish twitter page"). Delivered at Fluent 2014. Published on March&nbsp;13, 2014. Length: 23:24, 37,398&nbsp;views_
 
 
 ### [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0 "link to YouTube video")
@@ -239,7 +239,7 @@ _Keynote by [Paul Irish](https://twitter.com/paul_irish "link to @paul_irish twi
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/simplicity-matters.png" %}
 
 A later version of the influential talk “Simple Made Easy”: “Simplicity is prerequisite to reliability — Edsger Dijkstra”<br />
-_Keynote by [Rich Hickey](https://twitter.com/richhickey "link to @richhickey twitter page"). Delivered at RailsConf2012, April 23, 2012. Length: 36:53, 43,525&nbsp;views_
+_Keynote by [Rich Hickey](https://twitter.com/richhickey "link to @richhickey twitter page"). Delivered at RailsConf2012, April 23, 2012. Length: 36:53, 46,766&nbsp;views_
 
 
 
@@ -1684,9 +1684,9 @@ _Tweets: 1,111, followers: 3,373_
 
 <p>&nbsp; </p>
 
-<small>last updated: March 20, 2015/May 4, 2015 (partial) </small>
+<small>last updated: March 20, 2015/May 5, 2015 (partial) </small>
 
-<!-- spec on down -->
+<!-- required viewing on down -->
 
 <small><a href="https://www.flickr.com/photos/htakashi/5291203955/ " style="text-decoration:none;">Photo</a> of parrots by <a href="https://www.flickr.com/photos/htakashi/" title="link to Takashi Hososhima Flickr page">Takashi Hososhima</a> (<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>). The image has been cropped and flipped horizontally for presentation purposes.</small>
 
