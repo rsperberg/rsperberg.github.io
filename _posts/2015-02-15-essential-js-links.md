@@ -351,6 +351,11 @@ Free to read online.
 _By Nicholas C. Zakas. Published by LeanPub. 125 pages, 30 percent complete in May 2015_
 
 
+### [JavaScript Allongé](https://leanpub.com/javascriptallongesix)
+
+The "Six" Edition. “A long pull of functions, combinators, & decorators, updated to include the latest ES-6 features.”<br />
+_By Reginald Braithwaite. Published by LeadPub. 362 pages, 50 percent complete in May 2015_
+
 ### [Node.js in Action](http://www.manning.com/cantelon/ "link to Manning page for this book")
 
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/node-js-in-action.png" %}
