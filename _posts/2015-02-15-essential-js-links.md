@@ -117,7 +117,7 @@ _By Andre Medeiros. Published at Futurice on November 2, 2014_
 “Reactive programming is programming with asynchronous data streams.
 
 “In a way, this isn’t anything new. Event buses or your typical click events are really an asynchronous event stream, on which you can observe and do some side effects. Reactive is that idea on steroids. You are able to create data streams of anything, not just from click and hover events. Streams are cheap and ubiquitous, anything can be a stream: variables, user inputs, properties, caches, data structures, etc. For example, imagine your Twitter feed would be a data stream in the same fashion that click events are. You can listen to that stream and react accordingly.” <br />
-_By André Staltz. <span class="octicon octicon-star"></span>star:&nbsp;3,465 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;309_
+_By André Staltz. <span class="octicon octicon-star"></span>star:&nbsp;4,011 <span class="octicon octicon-repo-forked"></span>fork:&nbsp;365_
 
 
 ### [A General Theory of Reactivity](https://github.com/kriskowal/gtor "link to post")
@@ -127,7 +127,7 @@ _By André Staltz. <span class="octicon octicon-star"></span>star:&nbsp;3,465 <s
 What is all this talk about reactive? Functional? Promises? This is the beginning of a reactive programming bible. “In the context of a computer program, reactivity is the process of receiving external stimuli and propagating events. This is a rather broad definition that covers a wide variety of topics. The term is usually reserved for systems that respond in turns to sensors, schedules, and above all, problems that exist between the chair and keyboard....
 
 “[V]arious minds in the field of reactivity have been converging on a model that unifies at least promises and observables.” <br />
-_By Kris Kowal. First posted at github on August 9, 2014. 5 contributors <span class="octicon octicon-star"></span>star:&nbsp;463 <br /><span class="octicon octicon-repo-forked"></span>fork:&nbsp;16_
+_By Kris Kowal. First posted at github on August 9, 2014. 8 contributors <span class="octicon octicon-star"></span>star:&nbsp;1,114 <br /><span class="octicon octicon-repo-forked"></span>fork:&nbsp;35_
 
 
 ### [ES6 Generators](http://davidwalsh.name/es6-generators "link to post")
@@ -1685,9 +1685,8 @@ _Tweets: 1,111, followers: 3,373_
 
 <p>&nbsp; </p>
 
-<small>last updated: March 20, 2015/May 5, 2015 (partial) </small>
+<small>last updated: May 6, 2015 </small>
 
-<!-- required viewing on down -->
 
 <small><a href="https://www.flickr.com/photos/htakashi/5291203955/ " style="text-decoration:none;">Photo</a> of parrots by <a href="https://www.flickr.com/photos/htakashi/" title="link to Takashi Hososhima Flickr page">Takashi Hososhima</a> (<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>). The image has been cropped and flipped horizontally for presentation purposes.</small>
 
