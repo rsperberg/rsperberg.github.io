@@ -980,7 +980,10 @@ _Given by [Lee Byron](https://twitter.com/leeb "link to @leeb twitter page") at 
 
 ### [Data Fetching for React](https://www.youtube.com/watch?v=9sc8Pyc51uU "link to video")
 
-Relay & GraphQL Described
+{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/data-fetching.png" %}
+
+Relay & GraphQL described: the presenters “describe the approach Facebook uses to make data fetching simple for developers, even as a project grows to include dozens of developers and the application becomes as complex as Facebook's news feed.”<br />
+_Talk given by Daniel Schafer and Jing Chen at React.js Conf 2015, January 29, 2015. Length: 26:39, 35,797&nbsp;views_
 
 ### [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html "link to post")
 
