@@ -96,9 +96,10 @@ _By Addy Osmani. Published at medium.com on December 15, 2014_
 
 ### [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd "link to article at medium.com")
 
-{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/name-tk.png" %}
+{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/dao-of-immutability.png" %}
 
-The Way of the Functional Programmer
+The Way of the Functional Programmer<br />
+_By Eric Elliot. Published at medium.com on April 9, 2015_
 
 
 ### [Reactive MVC and the Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom "link to post")
