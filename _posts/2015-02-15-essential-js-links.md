@@ -975,9 +975,6 @@ _Published on July 8, 2013. Length: 1:19:10. 50,963&nbsp;views_
 _Given by [Lee Byron](https://twitter.com/leeb "link to @leeb twitter page") at React.js Conf 2015, January 29, 2015. Length: 31:10, 19,575&nbsp;views_
 
 
-
-
-
 ### [Data Fetching for React](https://www.youtube.com/watch?v=9sc8Pyc51uU "link to video")
 
 {% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/data-fetching.png" %}
@@ -986,6 +983,12 @@ Relay & GraphQL described: the presenters “describe the approach Facebook uses
 _Talk given by Daniel Schafer and Jing Chen at React.js Conf 2015, January 29, 2015. Length: 26:39, 35,797&nbsp;views_
 
 ### [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html "link to post")
+
+{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/introducing-relay.png" %}
+
+“There's more to building an application than creating a user interface. Data fetching is still a tricky problem, especially as applications become more complicated. At React.js Conf we announced two projects we've created at Facebook to make data fetching simple for developers, even as a product grows to include dozens of contributors and the application becomes as complex as Facebook itself.”<br />
+_Blog post by Greg Hurrell. Published at the React blog on February 20, 2015_
+
 
 ### [Building the Facebook Newsfeed with Relay](https://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html "link to post")
 
