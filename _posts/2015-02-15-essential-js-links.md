@@ -996,10 +996,10 @@ _Blog post by Greg Hurrell. Published at the React blog on February 20, 2015_
 
 “The main pieces of Relay architecture] are as follows:
 
-&nbsp; &middot; “<b>Relay Components:</b> React components annotated with declarative data descriptions.<br />
-&nbsp; &#xb7; “<b>Actions:</b> Descriptions of how data should change in response to user actions.<br />
-&nbsp; &#xb7; “<b>Relay Store:</b> A client-side data store that is fully managed by the framework.<br />
-&nbsp; &#xb7; “<b>Server:</b> An HTTP server with GraphQL endpoints (one for reads, one for writes) that respond to GraphQL queries.
+&nbsp; &middot; <b>Relay Components:</b> React components annotated with declarative data descriptions.<br />
+&nbsp; &middot; <b>Actions:</b> Descriptions of how data should change in response to user actions.<br />
+&nbsp; &middot; <b>Relay Store:</b> A client-side data store that is fully managed by the framework.<br />
+&nbsp; &middot; <b>Server:</b> An HTTP server with GraphQL endpoints (one for reads, one for writes) that respond to GraphQL queries.
 
 “This post will focus on Relay components that describe encapsulated units of UI and their data dependencies. These components form the majority of a Relay application.”<br />
 _Blog post by Joseph Svona. Published at the React blog on March 19, 2015_
@@ -1711,7 +1711,7 @@ _Tweets: 1,111, followers: 3,373_
 
 <p>&nbsp; </p>
 
-<small>last updated: May 6, 2015 </small>
+<small>last updated: May 9, 2015 </small>
 
 
 <small><a href="https://www.flickr.com/photos/htakashi/5291203955/ " style="text-decoration:none;">Photo</a> of parrots by <a href="https://www.flickr.com/photos/htakashi/" title="link to Takashi Hososhima Flickr page">Takashi Hososhima</a> (<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>). The image has been cropped and flipped horizontally for presentation purposes.</small>
