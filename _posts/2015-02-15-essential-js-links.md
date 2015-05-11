@@ -992,6 +992,18 @@ _Blog post by Greg Hurrell. Published at the React blog on February 20, 2015_
 
 ### [Building the Facebook Newsfeed with Relay](https://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html "link to post")
 
+{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/building-facebook-news-feed.png" %}
+
+“The main pieces of Relay architecture] are as follows:
+
+&nbsp; &middot; “<b>Relay Components:</b> React components annotated with declarative data descriptions.<br />
+&nbsp; &#xb7; “<b>Actions:</b> Descriptions of how data should change in response to user actions.<br />
+&nbsp; &#xb7; “<b>Relay Store:</b> A client-side data store that is fully managed by the framework.<br />
+&nbsp; &#xb7; “<b>Server:</b> An HTTP server with GraphQL endpoints (one for reads, one for writes) that respond to GraphQL queries.
+
+“This post will focus on Relay components that describe encapsulated units of UI and their data dependencies. These components form the majority of a Relay application.”<br />
+_Blog post by Joseph Svona. Published at the React blog on March 19, 2015_
+
 ### [Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47 "link to gist")
 
 
