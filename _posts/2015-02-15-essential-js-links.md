@@ -1006,6 +1006,10 @@ _Blog post by Joseph Svona. Published at the React blog on March 19, 2015_
 
 ### [Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47 "link to gist")
 
+{% include image-no-descrip.html url="/media/2015-02-15-essential-js-links/unofficial-relay-faq.png" %}
+
+“Compilation of questions and answers about Relay from [React.js Conf](http://conf.reactjs.com/ "link to react.js conf"). Relay is a new framework from Facebook that provides data-fetching functionality for React applications.”<br />
+_Compiled by Greg Hurrell. Posted on January 29, 2015_
 
 
 
@@ -1711,7 +1715,7 @@ _Tweets: 1,111, followers: 3,373_
 
 <p>&nbsp; </p>
 
-<small>last updated: May 9, 2015 </small>
+<small>last updated: May 10, 2015 </small>
 
 
 <small><a href="https://www.flickr.com/photos/htakashi/5291203955/ " style="text-decoration:none;">Photo</a> of parrots by <a href="https://www.flickr.com/photos/htakashi/" title="link to Takashi Hososhima Flickr page">Takashi Hososhima</a> (<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>). The image has been cropped and flipped horizontally for presentation purposes.</small>
