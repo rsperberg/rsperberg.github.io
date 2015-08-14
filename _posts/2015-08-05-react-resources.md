@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reactionary — the Awesome React resource list
+title: Reactionary — the Awesome React resource list fleshed out
 hcolor: '#eeeeee'
 post_author: Roger Sperberg
 quote: The rapid adoption of React reflects how rapidly devs understand it
@@ -10,11 +10,11 @@ video: false
 ---
 <p><img src="/media/2015-08-05-react-resources/react-logo.png" width="200px" style="float:left; padding-right: 10px;" />As noted in an <a href="http://www.super-script.us/2015/essential-js-links.html" title="link to post on essential JS links">earlier post</a>, there’s a ton of material to learn about JavaScript, and my approach to mastering it is first to rely on experienced, talented developers to point me in the right direction. In learning React.js, I quickly encountered references to “<a href="https://github.com/enaqx/awesome-react" title="link to awesome-react GitHub page">awesome React</a>” as a resource, and I concur, it <em>is</em> awesome — 700 links to React resources, divided into 72 categories. </p>
 
-However, while it is massive and comprehensive it is also an unvariegated listing. So as I have begun to explore what each link offers, I am adding here some contextual information to the ur-source.
+However, while it is massive and comprehensive it is also an unvariegated listing. So as I have begun to explore what each link offers, I am adding here some contextual information to the ur-source. 
 
 That means this list — like  two previous ones I’ve posted on <a href="http://www.super-script.us/2015/essential-js-links.html" title="link to post on essential JS links">JavaScript</a> and <a href="http://www.super-script.us/2015/es6-tools.html" title="link to post on es6 tools">es6</a> (aka es2015) — is a _re_-presentation of someone else’s link list. The “awesome React” list was compiled by the relentless [Nick Raienko](https://twitter.com/enaqx "link to @enaqx twitter page"), who continues to update it.
 
-I have not altered the original list (each link of which is usually characterized only by a single short phrase) except to provide visuals for many links, quote a self-description or summary from the site itself, identify authors when possible and cite some of the GitHub or npm metadata. Any non-quoted description that I myself have added appears in italics and/or within square brackets.
+I have not altered the original list (each link of which is usually characterized only by a single short phrase) except to provide visuals for many links, quote a self-description or summary from the site itself, identify authors when possible and cite some of the GitHub or npm metadata. Any non-quoted description that I myself have added appears in italics and/or within square brackets. (Btw, I’m doing this gradually, so for now only a few of those 700 links are fleshed out.)
 
 <p>&nbsp; </p>
 
